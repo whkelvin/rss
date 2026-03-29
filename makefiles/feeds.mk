@@ -184,6 +184,27 @@ feeds_dagster: ## Generate RSS feed for Dagster Blog
 	$(Q)python feed_generators/dagster_blog.py
 	$(call print_success,Dagster Blog feed generated)
 
+.PHONY: feeds_stripe_dev
+feeds_stripe_dev: ## Generate RSS feed for Stripe Dev Blog
+	$(call check_venv)
+	$(call print_info,Generating Stripe Dev Blog feed)
+	$(Q)python feed_generators/stripe_dev_blog.py
+	$(call print_success,Stripe Dev Blog feed generated)
+
+.PHONY: feeds_railway_eng
+feeds_railway_eng: ## Generate RSS feed for Railway Engineering Blog
+	$(call check_venv)
+	$(call print_info,Generating Railway Engineering Blog feed)
+	$(Q)python feed_generators/railway_eng_blog.py
+	$(call print_success,Railway Engineering Blog feed generated)
+
+.PHONY: feeds_netflix_eng
+feeds_netflix_eng: ## Generate RSS feed for Netflix Tech Blog
+	$(call check_venv)
+	$(call print_info,Generating Netflix Tech Blog feed)
+	$(Q)python feed_generators/netflix_eng_blog.py
+	$(call print_success,Netflix Tech Blog feed generated)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)

@@ -16,6 +16,9 @@
 | [Claude Blog](https://claude.com/blog)                                                    | [feed_claude.xml](https://raw.githubusercontent.com/whkelvin/rss/main/feeds/feed_claude.xml)                                                   |
 | [Cursor Blog](https://cursor.com/blog)                                                   | [feed_cursor.xml](https://raw.githubusercontent.com/whkelvin/rss/main/feeds/feed_cursor.xml)                                                   |
 | [Google Developers Blog - AI](https://developers.googleblog.com/search/?technology_categories=AI) | [feed_google_ai.xml](https://raw.githubusercontent.com/whkelvin/rss/main/feeds/feed_google_ai.xml)                                             |
+| [Netflix Tech Blog](https://netflixtechblog.com/) | [feed_netflix_eng.xml](https://raw.githubusercontent.com/whkelvin/rss/main/feeds/feed_netflix_eng.xml) |
+| [Railway Engineering](https://blog.railway.com/engineering) | [feed_railway_eng.xml](https://raw.githubusercontent.com/whkelvin/rss/main/feeds/feed_railway_eng.xml) |
+| [Stripe Dev](https://stripe.dev/) | [feed_stripe_dev.xml](https://raw.githubusercontent.com/whkelvin/rss/main/feeds/feed_stripe_dev.xml) |
 
 ### What is this?
 
