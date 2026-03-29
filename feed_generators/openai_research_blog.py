@@ -1,11 +1,18 @@
-import undetected_chromedriver as uc
-from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
-import pytz
-from feedgen.feed import FeedGenerator
-import time
 import logging
+import re
+import xml.etree.ElementTree as ET
+from datetime import datetime
 from pathlib import Path
+
+import pytz
+import requests
+from feedgen.feed import FeedGenerator
+
+from utils import get_feeds_dir, setup_feed_links, sort_posts_for_feed
+
+FEED_NAME = "openai_research"
+BLOG_URL = "https://openai.com/news/research"
+SITEMAP_URL = "https://openai.com/sitemap.xml/research/"
 
 # Set up logging
 logging.basicConfig(
@@ -14,123 +21,124 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def stable_fallback_date(identifier):
-    """Generate a stable date from a URL or title hash."""
-    hash_val = abs(hash(identifier)) % 730
-    epoch = datetime(2023, 1, 1, 0, 0, 0, tzinfo=pytz.UTC)
-    return epoch + timedelta(days=hash_val)
+def fetch_sitemap(url=SITEMAP_URL):
+    """Fetch the research sitemap XML from OpenAI."""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()
+    return response.text
 
 
-def setup_selenium_driver():
-    """Set up Selenium WebDriver with undetected-chromedriver."""
-    options = uc.ChromeOptions()
-    options.add_argument("--headless")  # Ensure headless mode is enabled
-    options.add_argument("--window-size=1920,1080")
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument(
-        "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    )
-    return uc.Chrome(options=options)
+def slug_to_title(slug):
+    """Convert a URL slug to a human-readable title.
+
+    e.g. 'evaluating-chain-of-thought-monitorability' -> 'Evaluating Chain of Thought Monitorability'
+    """
+    words = slug.strip("/").split("-")
+    # Title-case each word, but keep short words lowercase unless first
+    small_words = {"a", "an", "the", "and", "but", "or", "for", "nor", "on", "at", "to", "by", "in", "of", "up", "is"}
+    result = []
+    for i, word in enumerate(words):
+        if i == 0 or word not in small_words:
+            result.append(word.capitalize())
+        else:
+            result.append(word)
+    return " ".join(result)
 
 
-def fetch_news_content_selenium(url):
-    """Fetch the fully loaded HTML content of a webpage using Selenium."""
-    driver = None
-    try:
-        logger.info(f"Fetching content from URL: {url}")
-        driver = setup_selenium_driver()
-        driver.get(url)
+def parse_sitemap(xml_content):
+    """Parse the sitemap XML and extract research article URLs and dates."""
+    root = ET.fromstring(xml_content)
 
-        # Log wait time
-        wait_time = 5
-        logger.info(f"Waiting {wait_time} seconds for the page to fully load...")
-        time.sleep(wait_time)
+    # Handle XML namespaces
+    ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 
-        html_content = driver.page_source
-        logger.info("Successfully fetched HTML content")
-        return html_content
-
-    except Exception as e:
-        logger.error(f"Error fetching content: {e}")
-        raise
-    finally:
-        if driver:
-            driver.quit()
-
-
-def parse_openai_news_html(html_content):
-    """Parse the HTML content from OpenAI's Research News page."""
-    soup = BeautifulSoup(html_content, "html.parser")
     articles = []
+    seen_links = set()
 
-    # Extract news items that contain `/index` in the href
-    news_items = soup.select("a[href*='/index']")  # Look for links containing '/index'
+    for url_elem in root.findall("sm:url", ns):
+        loc_elem = url_elem.find("sm:loc", ns)
+        lastmod_elem = url_elem.find("sm:lastmod", ns)
 
-    for item in news_items:
-        try:
-            # Extract title
-            title_elem = item.select_one("div.line-clamp-4")
-            if not title_elem:
-                continue
-            title = title_elem.text.strip()
-
-            # Extract link
-            link = "https://openai.com" + item["href"]
-
-            # Extract date
-            date_elem = item.select_one("span.text-small")
-            if date_elem:
-                try:
-                    date = datetime.strptime(date_elem.text.strip(), "%b %d, %Y")
-                    date = date.replace(tzinfo=pytz.UTC)
-                except Exception:
-                    logger.warning(f"Date parsing failed for article: {title}")
-                    date = stable_fallback_date(link)
-            else:
-                date = stable_fallback_date(link)
-
-            articles.append(
-                {
-                    "title": title,
-                    "link": link,
-                    "date": date,
-                    "category": "Research",
-                    "description": title,
-                }
-            )
-        except Exception as e:
-            logger.warning(f"Skipping an article due to parsing error: {e}")
+        if loc_elem is None:
             continue
 
-    logger.info(f"Parsed {len(articles)} articles")
+        link = loc_elem.text.strip()
+
+        # Only include /index/ article pages (not /news/ or other pages)
+        if "/index/" not in link:
+            continue
+
+        # Skip duplicates
+        if link in seen_links:
+            continue
+        seen_links.add(link)
+
+        # Extract slug from URL for title
+        match = re.search(r"/index/([^/]+)/?$", link)
+        if not match:
+            continue
+        slug = match.group(1)
+        title = slug_to_title(slug)
+
+        # Parse lastmod date
+        date = None
+        if lastmod_elem is not None:
+            try:
+                date_text = lastmod_elem.text.strip()
+                # Handle ISO format with milliseconds
+                date = datetime.fromisoformat(date_text.replace("Z", "+00:00"))
+            except ValueError:
+                logger.warning(f"Could not parse date for: {title}")
+
+        if date is None:
+            date = datetime.now(pytz.UTC)
+
+        articles.append(
+            {
+                "title": title,
+                "link": link,
+                "date": date,
+                "category": "Research",
+                "description": title,
+            }
+        )
+
+    logger.info(f"Parsed {len(articles)} research articles from sitemap")
     return articles
 
 
-def generate_rss_feed(articles, feed_name="openai_research"):
+def generate_rss_feed(articles):
     """Generate RSS feed from parsed articles."""
     fg = FeedGenerator()
     fg.title("OpenAI Research News")
     fg.description("Latest research news and updates from OpenAI")
-    fg.link(href="https://openai.com/news/research")
     fg.language("en")
+    fg.author({"name": "OpenAI"})
 
-    for article in articles:
+    setup_feed_links(fg, blog_url=BLOG_URL, feed_name=FEED_NAME)
+
+    sorted_articles = sort_posts_for_feed(articles, date_field="date")
+
+    for article in sorted_articles:
         fe = fg.add_entry()
         fe.title(article["title"])
         fe.link(href=article["link"])
         fe.description(article["description"])
         fe.published(article["date"])
         fe.category(term=article["category"])
+        fe.id(article["link"])
 
     logger.info("RSS feed generated successfully")
     return fg
 
 
-def save_rss_feed(feed_generator, feed_name="openai_research"):
+def save_rss_feed(feed_generator):
     """Save RSS feed to an XML file."""
-    feeds_dir = Path("feeds")
-    feeds_dir.mkdir(exist_ok=True)
-    output_file = feeds_dir / f"feed_{feed_name}.xml"
+    feeds_dir = get_feeds_dir()
+    output_file = feeds_dir / f"feed_{FEED_NAME}.xml"
     feed_generator.rss_file(str(output_file), pretty=True)
     logger.info(f"RSS feed saved to {output_file}")
     return output_file
@@ -138,17 +146,19 @@ def save_rss_feed(feed_generator, feed_name="openai_research"):
 
 def main():
     """Main function to generate OpenAI Research News RSS feed."""
-    url = "https://openai.com/news/research/?limit=500"
-
     try:
-        html_content = fetch_news_content_selenium(url)
-        articles = parse_openai_news_html(html_content)
+        xml_content = fetch_sitemap()
+        articles = parse_sitemap(xml_content)
         if not articles:
-            logger.warning("No articles were parsed. Check your selectors.")
+            logger.warning("No articles were parsed from sitemap.")
+            return False
         feed = generate_rss_feed(articles)
         save_rss_feed(feed)
+        logger.info(f"Successfully generated RSS feed with {len(articles)} articles")
+        return True
     except Exception as e:
         logger.error(f"Failed to generate RSS feed: {e}")
+        return False
 
 
 if __name__ == "__main__":
