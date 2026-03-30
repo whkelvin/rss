@@ -13,7 +13,7 @@
       <link>https://blog.railway.com/engineering</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 17:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:51:51 +0000</lastBuildDate>
     <item>
       <title>Hello, World: We’re Railway</title>
       <link>https://blog.railway.com/p/launch-week-01-regions</link>
@@ -48,6 +48,14 @@
       <description>We recently experienced an outage on our platform that partially affected a small subset of our compute fleet across Europe and US-West. When production outages occur, it is Railway’s policy to share the public details of what occurred. </description>
       <guid isPermaLink="false">https://blog.railway.com/p/2024-06-11-incident-report</guid>
       <category>Engineering</category>
+    </item>
+    <item>
+      <title>Incident Report: March 30th, 2026 — Accidental CDN Caching</title>
+      <link>https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching</link>
+      <description>Railway experienced an incident where CDN features were accidentally enabled for some domains without users enabling them.</description>
+      <guid isPermaLink="false">https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching</guid>
+      <category>Engineering</category>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From registrar to deployed: buying a domain inside Railway</title>
