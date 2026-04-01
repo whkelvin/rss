@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 22:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:31:19 +0000</lastBuildDate>
+    <item>
+      <title>Introducing the Model Spec</title>
+      <link>https://openai.com/index/introducing-the-model-spec/</link>
+      <description>Introducing the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 01 Apr 2026 22:48:38 +0000</pubDate>
+    </item>
     <item>
       <title>Our Approach to the Model Spec</title>
       <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
@@ -88,14 +96,6 @@
       <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
       <category>Research</category>
       <pubDate>Thu, 26 Mar 2026 19:32:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Model Spec</title>
-      <link>https://openai.com/index/introducing-the-model-spec/</link>
-      <description>Introducing the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 26 Mar 2026 19:31:39 +0000</pubDate>
     </item>
     <item>
       <title>First Proof Submissions</title>
