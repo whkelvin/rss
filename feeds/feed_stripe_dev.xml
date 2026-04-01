@@ -13,7 +13,7 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 19:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 20:38:35 +0000</lastBuildDate>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
@@ -104,23 +104,6 @@
       <category>Partners</category>
       <category>Event Destinations</category>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stop juggling multiple POS devices with Stripe Terminal</title>
-      <link>https://stripe.dev/blog/stripe-terminal-on-screen-input-collection</link>
-      <description>Eliminate separate devices and manual data entry. Stripe Terminal's on-screen input collection consolidates customer interactions in one place.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/stripe-terminal-on-screen-input-collection</guid>
-      <category>Terminal</category>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to easily charge customers across accounts in an organization</title>
-      <link>https://stripe.dev/blog/how-to-charge-customers-across-accounts</link>
-      <description>Learn how to simplify customer charging across multiple accounts in your organization using Stripe's new sharing feature.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/how-to-charge-customers-across-accounts</guid>
-      <category>Enterprise</category>
-      <category>Sandboxes</category>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
