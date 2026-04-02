@@ -13,7 +13,18 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 21:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 22:25:39 +0000</lastBuildDate>
+    <item>
+      <title>Smarter Live Streaming at Scale: Rolling Out VBR for All Netflix Live Events</title>
+      <link>https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc</link>
+      <description>By Renata Teixeira, Zhi Li, Reenal Mahajan, and Wei Wei</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc</guid>
+      <category>encoding</category>
+      <category>content-delivery-platform</category>
+      <category>adaptive-bitrate</category>
+      <category>live-streaming</category>
+      <pubDate>Thu, 02 Apr 2026 21:46:27 +0000</pubDate>
+    </item>
     <item>
       <title>Scaling Global Storytelling: Modernizing Localization Analytics at Netflix</title>
       <link>https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641</link>
@@ -113,18 +124,6 @@
       <category>content-delivery-network</category>
       <category>cloud-storage</category>
       <pubDate>Mon, 15 Dec 2025 17:38:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AV1 — Now Powering 30% of Netflix Streaming</title>
-      <link>https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80</link>
-      <description>Liwei Guo,Zhi Li,Sheldon Radford,Jeff Watts</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80</guid>
-      <category>av1</category>
-      <category>video-encoding</category>
-      <category>streaming</category>
-      <category>aomedia</category>
-      <category>netflix</category>
-      <pubDate>Thu, 04 Dec 2025 20:09:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
