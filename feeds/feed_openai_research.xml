@@ -8,14 +8,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 22:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 23:30:30 +0000</lastBuildDate>
+    <item>
+      <title>Accelerating Biological Research in the Wet Lab</title>
+      <link>https://openai.com/index/accelerating-biological-research-in-the-wet-lab/</link>
+      <description>Accelerating Biological Research in the Wet Lab</description>
+      <guid isPermaLink="false">https://openai.com/index/accelerating-biological-research-in-the-wet-lab/</guid>
+      <category>Research</category>
+      <pubDate>Mon, 06 Apr 2026 22:31:28 +0000</pubDate>
+    </item>
     <item>
       <title>Our Approach to the Model Spec</title>
       <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
       <description>Our Approach to the Model Spec</description>
       <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
       <category>Research</category>
-      <pubDate>Mon, 06 Apr 2026 22:30:12 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 22:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontierscience</title>
+      <link>https://openai.com/index/frontierscience/</link>
+      <description>Frontierscience</description>
+      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
+      <category>Research</category>
+      <pubDate>Mon, 06 Apr 2026 22:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gdpval</title>
+      <link>https://openai.com/index/gdpval/</link>
+      <description>Gdpval</description>
+      <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
+      <category>Research</category>
+      <pubDate>Mon, 06 Apr 2026 22:30:39 +0000</pubDate>
     </item>
     <item>
       <title>The State of Enterprise Ai 2025 Report</title>
@@ -64,14 +88,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
       <category>Research</category>
       <pubDate>Mon, 06 Apr 2026 21:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gdpval</title>
-      <link>https://openai.com/index/gdpval/</link>
-      <description>Gdpval</description>
-      <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
-      <category>Research</category>
-      <pubDate>Mon, 06 Apr 2026 21:35:20 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Aardvark</title>
@@ -154,28 +170,12 @@
       <pubDate>Mon, 06 Apr 2026 21:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>Frontierscience</title>
-      <link>https://openai.com/index/frontierscience/</link>
-      <description>Frontierscience</description>
-      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
-      <category>Research</category>
-      <pubDate>Mon, 06 Apr 2026 21:18:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Accelerating Science Gpt 5</title>
       <link>https://openai.com/index/accelerating-science-gpt-5/</link>
       <description>Accelerating Science Gpt 5</description>
       <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
       <category>Research</category>
       <pubDate>Mon, 06 Apr 2026 21:18:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Biological Research in the Wet Lab</title>
-      <link>https://openai.com/index/accelerating-biological-research-in-the-wet-lab/</link>
-      <description>Accelerating Biological Research in the Wet Lab</description>
-      <guid isPermaLink="false">https://openai.com/index/accelerating-biological-research-in-the-wet-lab/</guid>
-      <category>Research</category>
-      <pubDate>Mon, 06 Apr 2026 21:18:01 +0000</pubDate>
     </item>
     <item>
       <title>Why Language Models Hallucinate</title>
