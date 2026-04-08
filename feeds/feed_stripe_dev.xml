@@ -13,7 +13,7 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 16:55:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 18:02:50 +0000</lastBuildDate>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
@@ -77,33 +77,6 @@
       <guid isPermaLink="false">https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge</guid>
       <category>Crypto</category>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Workflows: Automate compliance safeguards by flagging transactions</title>
-      <link>https://stripe.dev/blog/workflows-automate-compliance-safeguards</link>
-      <description>Learn how to automate compliance safeguards with Stripe Workflows by flagging high-value transactions and suspicious orders to enhance risk management.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/workflows-automate-compliance-safeguards</guid>
-      <category>Workflows</category>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building financial operations agents with Hypermode and Stripe</title>
-      <link>https://stripe.dev/blog/building-financial-operations-agents-hypermode-stripe</link>
-      <description>Learn how to build sophisticated financial operations agents using natural language with Hypermode and Stripe. Create AI agents that handle payments, process refunds, generate invoices, and automate complex financial workflows—no coding required.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/building-financial-operations-agents-hypermode-stripe</guid>
-      <category>Partners</category>
-      <category>AI</category>
-      <category>Agentic</category>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stay within limits: API rate-limit-friendly pattern for Stripe webhooks</title>
-      <link>https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks</link>
-      <description>Learn how to build a resilient, rate-limit-friendly system for handling Stripe webhooks at scale. This guide explains the fetch-before-process pattern, its risks under high volume, and how to use Hookdeck to queue and throttle webhooks—ensuring reliable processing without exceeding Stripe API limits.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks</guid>
-      <category>Partners</category>
-      <category>Event Destinations</category>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
