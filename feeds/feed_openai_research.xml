@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 01:49:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:32:57 +0000</lastBuildDate>
+    <item>
+      <title>Introducing the Model Spec</title>
+      <link>https://openai.com/index/introducing-the-model-spec/</link>
+      <description>Introducing the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 08 Apr 2026 02:50:10 +0000</pubDate>
+    </item>
     <item>
       <title>Instruction Hierarchy Challenge</title>
       <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
       <category>Research</category>
       <pubDate>Mon, 06 Apr 2026 21:32:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Model Spec</title>
-      <link>https://openai.com/index/introducing-the-model-spec/</link>
-      <description>Introducing the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Mon, 06 Apr 2026 21:30:37 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 4 1</title>
