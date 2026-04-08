@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 23:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 01:49:45 +0000</lastBuildDate>
+    <item>
+      <title>Instruction Hierarchy Challenge</title>
+      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
+      <description>Instruction Hierarchy Challenge</description>
+      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 07 Apr 2026 23:56:35 +0000</pubDate>
+    </item>
     <item>
       <title>Why We No Longer Evaluate Swe Bench Verified</title>
       <link>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</link>
@@ -168,14 +176,6 @@
       <guid isPermaLink="false">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</guid>
       <category>Research</category>
       <pubDate>Mon, 06 Apr 2026 21:21:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instruction Hierarchy Challenge</title>
-      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
-      <description>Instruction Hierarchy Challenge</description>
-      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
-      <category>Research</category>
-      <pubDate>Mon, 06 Apr 2026 21:20:00 +0000</pubDate>
     </item>
     <item>
       <title>Accelerating Science Gpt 5</title>
