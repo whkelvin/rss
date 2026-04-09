@@ -13,7 +13,7 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 15:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:00:52 +0000</lastBuildDate>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
@@ -77,6 +77,14 @@
       <guid isPermaLink="false">https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge</guid>
       <category>Crypto</category>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workflows: Automate compliance safeguards by flagging transactions</title>
+      <link>https://stripe.dev/blog/workflows-automate-compliance-safeguards</link>
+      <description>Learn how to automate compliance safeguards with Stripe Workflows by flagging high-value transactions and suspicious orders to enhance risk management.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/workflows-automate-compliance-safeguards</guid>
+      <category>Workflows</category>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
