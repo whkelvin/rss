@@ -13,7 +13,7 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 15:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:58:49 +0000</lastBuildDate>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
@@ -69,22 +69,6 @@
       <guid isPermaLink="false">https://stripe.dev/blog/introducing-versioning-for-stripe-workflows</guid>
       <category>Workflows</category>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stablecoin payments for Stripe developers: zero crypto knowledge required</title>
-      <link>https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge</link>
-      <description>Learn how to add stablecoin payments to your Stripe integration in under an hour. Accept USDC on Ethereum, Solana, Polygon, and Base with zero blockchain knowledge—just add 'crypto' to your existing payment methods.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge</guid>
-      <category>Crypto</category>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Workflows: Automate compliance safeguards by flagging transactions</title>
-      <link>https://stripe.dev/blog/workflows-automate-compliance-safeguards</link>
-      <description>Learn how to automate compliance safeguards with Stripe Workflows by flagging high-value transactions and suspicious orders to enhance risk management.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/workflows-automate-compliance-safeguards</guid>
-      <category>Workflows</category>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
