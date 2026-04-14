@@ -13,14 +13,15 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 15:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 17:00:15 +0000</lastBuildDate>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
       <description>Provision hosting, databases, auth, analytics, AI and other dev tools from the Stripe CLI. Stripe Projects creates real resources in your own provider accounts, securely syncs agent-ready credentials, supports upgrades to paid tiers, and handles payments without leaving the terminal.</description>
       <guid isPermaLink="false">https://stripe.dev/blog/production-ready-dev-stack-from-terminal</guid>
-      <category>CLI</category>
       <category>Developer Productivity</category>
+      <category>Engineering</category>
+      <category>AI</category>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -49,7 +50,6 @@
       <guid isPermaLink="false">https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents</guid>
       <category>AI</category>
       <category>Developer Productivity</category>
-      <category>LLMs</category>
       <category>Engineering</category>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
     </item>
@@ -59,7 +59,6 @@
       <description>Learn why using AI agents to author Terraform code is safer than direct API calls for Stripe configuration. Get transparent, consistent, and auditable infrastructure with code review workflows.</description>
       <guid isPermaLink="false">https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure</guid>
       <category>AI</category>
-      <category>Agentic</category>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
