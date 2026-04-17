@@ -13,7 +13,7 @@
       <link>https://blog.railway.com/engineering</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 18:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 19:55:10 +0000</lastBuildDate>
     <item>
       <title>Hello, World: We’re Railway</title>
       <link>https://blog.railway.com/p/launch-week-01-regions</link>
@@ -48,6 +48,14 @@
       <description>We recently experienced an outage on our platform that partially affected a small subset of our compute fleet across Europe and US-West. When production outages occur, it is Railway’s policy to share the public details of what occurred. </description>
       <guid isPermaLink="false">https://blog.railway.com/p/2024-06-11-incident-report</guid>
       <category>Engineering</category>
+    </item>
+    <item>
+      <title>Better Rails for Agents: A New Remote MCP and Railway Agent in the CLI</title>
+      <link>https://blog.railway.com/p/agent-rails-remote-mcp-cli</link>
+      <description>We want to make it effortless to use agents in Railway. No friction. Today we’re launching a new Remote MCP that uses our Railway Agent, and bringing that agent into the CLI.</description>
+      <guid isPermaLink="false">https://blog.railway.com/p/agent-rails-remote-mcp-cli</guid>
+      <category>Engineering</category>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Moving Railway's Frontend Off Next.js</title>
