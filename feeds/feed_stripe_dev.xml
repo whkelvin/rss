@@ -13,7 +13,7 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 14:50:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 15:55:16 +0000</lastBuildDate>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
@@ -112,25 +112,6 @@
       <guid isPermaLink="false">https://stripe.dev/blog/stripe-terminal-on-screen-input-collection</guid>
       <category>Terminal</category>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Stripe Workflows: Tailoring Payments to Your Business Needs</title>
-      <link>https://stripe.dev/blog/introducing-stripe-workflows</link>
-      <description>Today, Stripe launches Stripe Workflows, a powerful new way to automate your payment operations and orchestrate Stripe products with ease—right from the Dashboard. Whether you are looking to streamline invoicing, manage fraud detection, automate subscription logic, or build custom quote-to-cash flows, Stripe Workflows helps developers move faster with fewer lines of code. With built-in support for real-time triggers, conditional logic, and seamless integration across Stripe’s ecosystem, Workflows eliminates the need for managing infrastructure or writing boilerplate logic. Instead, you get a visual, event-driven automation engine designed for high-performance financial operations at scale. In this post, we’ll explore how Stripe Workflows can help you simplify complexity, boost developer productivity, and unlock new use cases—all with low latency and high reliability.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/introducing-stripe-workflows</guid>
-      <category>Workflows</category>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to easily charge customers across accounts in an organization</title>
-      <link>https://stripe.dev/blog/how-to-charge-customers-across-accounts</link>
-      <description>Learn how to simplify customer charging across multiple accounts in your organization using Stripe's new sharing feature.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/how-to-charge-customers-across-accounts</guid>
-      <category>Enterprise</category>
-      <category>Sandboxes</category>
-      <category>Payments</category>
-      <category>Connect</category>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
