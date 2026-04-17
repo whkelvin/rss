@@ -13,7 +13,7 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:50:43 +0000</lastBuildDate>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
@@ -68,6 +68,69 @@
       <guid isPermaLink="false">https://stripe.dev/blog/introducing-versioning-for-stripe-workflows</guid>
       <category>Workflows</category>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stablecoin payments for Stripe developers: zero crypto knowledge required</title>
+      <link>https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge</link>
+      <description>Learn how to add stablecoin payments to your Stripe integration in under an hour. Accept USDC on Ethereum, Solana, Polygon, and Base with zero blockchain knowledge—just add 'crypto' to your existing payment methods.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge</guid>
+      <category>Crypto</category>
+      <category>Payments</category>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workflows: Automate compliance safeguards by flagging transactions</title>
+      <link>https://stripe.dev/blog/workflows-automate-compliance-safeguards</link>
+      <description>Learn how to automate compliance safeguards with Stripe Workflows by flagging high-value transactions and suspicious orders to enhance risk management.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/workflows-automate-compliance-safeguards</guid>
+      <category>Workflows</category>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building financial operations agents with Hypermode and Stripe</title>
+      <link>https://stripe.dev/blog/building-financial-operations-agents-hypermode-stripe</link>
+      <description>Learn how to build sophisticated financial operations agents using natural language with Hypermode and Stripe. Create AI agents that handle payments, process refunds, generate invoices, and automate complex financial workflows—no coding required.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/building-financial-operations-agents-hypermode-stripe</guid>
+      <category>Partners</category>
+      <category>AI</category>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stay within limits: API rate-limit-friendly pattern for Stripe webhooks</title>
+      <link>https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks</link>
+      <description>Learn how to build a resilient, rate-limit-friendly system for handling Stripe webhooks at scale. This guide explains the fetch-before-process pattern, its risks under high volume, and how to use Hookdeck to queue and throttle webhooks—ensuring reliable processing without exceeding Stripe API limits.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks</guid>
+      <category>Partners</category>
+      <category>Event Destinations</category>
+      <category>Best Practices</category>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stop juggling multiple POS devices with Stripe Terminal</title>
+      <link>https://stripe.dev/blog/stripe-terminal-on-screen-input-collection</link>
+      <description>Eliminate separate devices and manual data entry. Stripe Terminal's on-screen input collection consolidates customer interactions in one place.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/stripe-terminal-on-screen-input-collection</guid>
+      <category>Terminal</category>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Stripe Workflows: Tailoring Payments to Your Business Needs</title>
+      <link>https://stripe.dev/blog/introducing-stripe-workflows</link>
+      <description>Today, Stripe launches Stripe Workflows, a powerful new way to automate your payment operations and orchestrate Stripe products with ease—right from the Dashboard. Whether you are looking to streamline invoicing, manage fraud detection, automate subscription logic, or build custom quote-to-cash flows, Stripe Workflows helps developers move faster with fewer lines of code. With built-in support for real-time triggers, conditional logic, and seamless integration across Stripe’s ecosystem, Workflows eliminates the need for managing infrastructure or writing boilerplate logic. Instead, you get a visual, event-driven automation engine designed for high-performance financial operations at scale. In this post, we’ll explore how Stripe Workflows can help you simplify complexity, boost developer productivity, and unlock new use cases—all with low latency and high reliability.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/introducing-stripe-workflows</guid>
+      <category>Workflows</category>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to easily charge customers across accounts in an organization</title>
+      <link>https://stripe.dev/blog/how-to-charge-customers-across-accounts</link>
+      <description>Learn how to simplify customer charging across multiple accounts in your organization using Stripe's new sharing feature.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/how-to-charge-customers-across-accounts</guid>
+      <category>Enterprise</category>
+      <category>Sandboxes</category>
+      <category>Payments</category>
+      <category>Connect</category>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
