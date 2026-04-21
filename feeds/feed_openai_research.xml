@@ -8,7 +8,47 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 21:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 22:33:53 +0000</lastBuildDate>
+    <item>
+      <title>Instruction Hierarchy Challenge</title>
+      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
+      <description>Instruction Hierarchy Challenge</description>
+      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Apr 2026 21:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Apr 2026 21:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting and Reducing Scheming in Ai Models</title>
+      <link>https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</link>
+      <description>Detecting and Reducing Scheming in Ai Models</description>
+      <guid isPermaLink="false">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Apr 2026 21:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Approach to the Model Spec</title>
+      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
+      <description>Our Approach to the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Apr 2026 21:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Model Spec</title>
+      <link>https://openai.com/index/introducing-the-model-spec/</link>
+      <description>Introducing the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Apr 2026 21:42:25 +0000</pubDate>
+    </item>
     <item>
       <title>Evaluating Chain of Thought Monitorability</title>
       <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
@@ -18,52 +58,12 @@
       <pubDate>Tue, 21 Apr 2026 21:39:30 +0000</pubDate>
     </item>
     <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 21 Apr 2026 21:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Model Spec</title>
-      <link>https://openai.com/index/introducing-the-model-spec/</link>
-      <description>Introducing the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 21 Apr 2026 21:39:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Why Language Models Hallucinate</title>
       <link>https://openai.com/index/why-language-models-hallucinate/</link>
       <description>Why Language Models Hallucinate</description>
       <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
       <category>Research</category>
       <pubDate>Tue, 21 Apr 2026 21:38:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instruction Hierarchy Challenge</title>
-      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
-      <description>Instruction Hierarchy Challenge</description>
-      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 21 Apr 2026 21:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detecting and Reducing Scheming in Ai Models</title>
-      <link>https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</link>
-      <description>Detecting and Reducing Scheming in Ai Models</description>
-      <guid isPermaLink="false">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 21 Apr 2026 21:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Approach to the Model Spec</title>
-      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
-      <description>Our Approach to the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 21 Apr 2026 21:34:09 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Gpt Rosalind</title>
