@@ -8,22 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 21:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 22:42:17 +0000</lastBuildDate>
     <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <title>Detecting and Reducing Scheming in Ai Models</title>
+      <link>https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</link>
+      <description>Detecting and Reducing Scheming in Ai Models</description>
+      <guid isPermaLink="false">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</guid>
       <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:45:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:44:39 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 22:41:54 +0000</pubDate>
     </item>
     <item>
       <title>Defining and Evaluating Political Bias in Llms</title>
@@ -31,87 +23,7 @@
       <description>Defining and Evaluating Political Bias in Llms</description>
       <guid isPermaLink="false">https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</guid>
       <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:43:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluating Chain of Thought Monitorability</title>
-      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
-      <description>Evaluating Chain of Thought Monitorability</description>
-      <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:42:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gdpval</title>
-      <link>https://openai.com/index/gdpval/</link>
-      <description>Gdpval</description>
-      <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:41:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontierscience</title>
-      <link>https://openai.com/index/frontierscience/</link>
-      <description>Frontierscience</description>
-      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Openai Privacy Filter</title>
-      <link>https://openai.com/index/introducing-openai-privacy-filter/</link>
-      <description>Introducing Openai Privacy Filter</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-openai-privacy-filter/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Language Models Hallucinate</title>
-      <link>https://openai.com/index/why-language-models-hallucinate/</link>
-      <description>Why Language Models Hallucinate</description>
-      <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:33:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detecting and Reducing Scheming in Ai Models</title>
-      <link>https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</link>
-      <description>Detecting and Reducing Scheming in Ai Models</description>
-      <guid isPermaLink="false">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:31:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding Neural Networks Through Sparse Circuits</title>
-      <link>https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</link>
-      <description>Understanding Neural Networks Through Sparse Circuits</description>
-      <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:26:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instruction Hierarchy Challenge</title>
-      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
-      <description>Instruction Hierarchy Challenge</description>
-      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:24:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reasoning Models Chain of Thought Controllability</title>
-      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
-      <description>Reasoning Models Chain of Thought Controllability</description>
-      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 21:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Approach to the Model Spec</title>
-      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
-      <description>Our Approach to the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 19:05:30 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 22:41:37 +0000</pubDate>
     </item>
     <item>
       <title>Introducing the Model Spec</title>
@@ -119,7 +31,95 @@
       <description>Introducing the Model Spec</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
       <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 08:35:04 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 22:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:39:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instruction Hierarchy Challenge</title>
+      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
+      <description>Instruction Hierarchy Challenge</description>
+      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Approach to the Model Spec</title>
+      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
+      <description>Our Approach to the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:32:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Language Models Hallucinate</title>
+      <link>https://openai.com/index/why-language-models-hallucinate/</link>
+      <description>Why Language Models Hallucinate</description>
+      <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Models Chain of Thought Controllability</title>
+      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
+      <description>Reasoning Models Chain of Thought Controllability</description>
+      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:28:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Chain of Thought Monitorability</title>
+      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
+      <description>Evaluating Chain of Thought Monitorability</description>
+      <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:26:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gdpval</title>
+      <link>https://openai.com/index/gdpval/</link>
+      <description>Gdpval</description>
+      <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontierscience</title>
+      <link>https://openai.com/index/frontierscience/</link>
+      <description>Frontierscience</description>
+      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Neural Networks Through Sparse Circuits</title>
+      <link>https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</link>
+      <description>Understanding Neural Networks Through Sparse Circuits</description>
+      <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:17:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Openai Privacy Filter</title>
+      <link>https://openai.com/index/introducing-openai-privacy-filter/</link>
+      <description>Introducing Openai Privacy Filter</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-privacy-filter/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:00:07 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
