@@ -8,7 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 19:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 20:46:56 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 20:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontierscience</title>
+      <link>https://openai.com/index/frontierscience/</link>
+      <description>Frontierscience</description>
+      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 20:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defining and Evaluating Political Bias in Llms</title>
+      <link>https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</link>
+      <description>Defining and Evaluating Political Bias in Llms</description>
+      <guid isPermaLink="false">https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 20:42:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Approach to the Model Spec</title>
+      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
+      <description>Our Approach to the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 19:05:30 +0000</pubDate>
+    </item>
     <item>
       <title>How Confessions Can Keep Language Models Honest</title>
       <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
@@ -32,22 +64,6 @@
       <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
       <category>Research</category>
       <pubDate>Wed, 22 Apr 2026 18:58:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defining and Evaluating Political Bias in Llms</title>
-      <link>https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</link>
-      <description>Defining and Evaluating Political Bias in Llms</description>
-      <guid isPermaLink="false">https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 18:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Approach to the Model Spec</title>
-      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
-      <description>Our Approach to the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 18:57:49 +0000</pubDate>
     </item>
     <item>
       <title>Why Language Models Hallucinate</title>
@@ -82,14 +98,6 @@
       <pubDate>Wed, 22 Apr 2026 18:56:30 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 17:53:39 +0000</pubDate>
-    </item>
-    <item>
       <title>Evaluating Chain of Thought Monitorability</title>
       <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
       <description>Evaluating Chain of Thought Monitorability</description>
@@ -120,14 +128,6 @@
       <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
       <category>Research</category>
       <pubDate>Wed, 22 Apr 2026 07:05:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontierscience</title>
-      <link>https://openai.com/index/frontierscience/</link>
-      <description>Frontierscience</description>
-      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 06:56:51 +0000</pubDate>
     </item>
     <item>
       <title>Accelerating Biological Research in the Wet Lab</title>
