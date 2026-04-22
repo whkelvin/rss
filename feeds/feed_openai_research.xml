@@ -8,110 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 22:42:17 +0000</lastBuildDate>
-    <item>
-      <title>Detecting and Reducing Scheming in Ai Models</title>
-      <link>https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</link>
-      <description>Detecting and Reducing Scheming in Ai Models</description>
-      <guid isPermaLink="false">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:41:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defining and Evaluating Political Bias in Llms</title>
-      <link>https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</link>
-      <description>Defining and Evaluating Political Bias in Llms</description>
-      <guid isPermaLink="false">https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:41:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Model Spec</title>
-      <link>https://openai.com/index/introducing-the-model-spec/</link>
-      <description>Introducing the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:39:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instruction Hierarchy Challenge</title>
-      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
-      <description>Instruction Hierarchy Challenge</description>
-      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:37:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Approach to the Model Spec</title>
-      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
-      <description>Our Approach to the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:32:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Language Models Hallucinate</title>
-      <link>https://openai.com/index/why-language-models-hallucinate/</link>
-      <description>Why Language Models Hallucinate</description>
-      <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reasoning Models Chain of Thought Controllability</title>
-      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
-      <description>Reasoning Models Chain of Thought Controllability</description>
-      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:28:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 23:42:28 +0000</lastBuildDate>
     <item>
       <title>Evaluating Chain of Thought Monitorability</title>
       <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
       <description>Evaluating Chain of Thought Monitorability</description>
       <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
       <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:26:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gdpval</title>
-      <link>https://openai.com/index/gdpval/</link>
-      <description>Gdpval</description>
-      <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:21:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontierscience</title>
-      <link>https://openai.com/index/frontierscience/</link>
-      <description>Frontierscience</description>
-      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding Neural Networks Through Sparse Circuits</title>
-      <link>https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</link>
-      <description>Understanding Neural Networks Through Sparse Circuits</description>
-      <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:17:08 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 23:42:27 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Openai Privacy Filter</title>
@@ -119,7 +23,127 @@
       <description>Introducing Openai Privacy Filter</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-openai-privacy-filter/</guid>
       <category>Research</category>
-      <pubDate>Wed, 22 Apr 2026 22:00:07 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 23:42:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting and Reducing Scheming in Ai Models</title>
+      <link>https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</link>
+      <description>Detecting and Reducing Scheming in Ai Models</description>
+      <guid isPermaLink="false">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontierscience</title>
+      <link>https://openai.com/index/frontierscience/</link>
+      <description>Frontierscience</description>
+      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defining and Evaluating Political Bias in Llms</title>
+      <link>https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</link>
+      <description>Defining and Evaluating Political Bias in Llms</description>
+      <guid isPermaLink="false">https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instruction Hierarchy Challenge</title>
+      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
+      <description>Instruction Hierarchy Challenge</description>
+      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extending Single Minus Amplitudes to Gravitons</title>
+      <link>https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</link>
+      <description>Extending Single Minus Amplitudes to Gravitons</description>
+      <guid isPermaLink="false">https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:35:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Model Spec</title>
+      <link>https://openai.com/index/introducing-the-model-spec/</link>
+      <description>Introducing the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Result Theoretical Physics</title>
+      <link>https://openai.com/index/new-result-theoretical-physics/</link>
+      <description>New Result Theoretical Physics</description>
+      <guid isPermaLink="false">https://openai.com/index/new-result-theoretical-physics/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evals Drive Next Chapter of Ai</title>
+      <link>https://openai.com/index/evals-drive-next-chapter-of-ai/</link>
+      <description>Evals Drive Next Chapter of Ai</description>
+      <guid isPermaLink="false">https://openai.com/index/evals-drive-next-chapter-of-ai/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:28:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Approach to the Model Spec</title>
+      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
+      <description>Our Approach to the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gdpval</title>
+      <link>https://openai.com/index/gdpval/</link>
+      <description>Gdpval</description>
+      <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:26:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Language Models Hallucinate</title>
+      <link>https://openai.com/index/why-language-models-hallucinate/</link>
+      <description>Why Language Models Hallucinate</description>
+      <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Neural Networks Through Sparse Circuits</title>
+      <link>https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</link>
+      <description>Understanding Neural Networks Through Sparse Circuits</description>
+      <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 23:26:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Models Chain of Thought Controllability</title>
+      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
+      <description>Reasoning Models Chain of Thought Controllability</description>
+      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:54:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 22 Apr 2026 22:44:52 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -218,14 +242,6 @@
       <pubDate>Mon, 06 Apr 2026 21:27:54 +0000</pubDate>
     </item>
     <item>
-      <title>Evals Drive Next Chapter of Ai</title>
-      <link>https://openai.com/index/evals-drive-next-chapter-of-ai/</link>
-      <description>Evals Drive Next Chapter of Ai</description>
-      <guid isPermaLink="false">https://openai.com/index/evals-drive-next-chapter-of-ai/</guid>
-      <category>Research</category>
-      <pubDate>Mon, 06 Apr 2026 21:26:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Gpt 5 Lowers Protein Synthesis Cost</title>
       <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
       <description>Gpt 5 Lowers Protein Synthesis Cost</description>
@@ -240,22 +256,6 @@
       <guid isPermaLink="false">https://openai.com/index/first-proof-submissions/</guid>
       <category>Research</category>
       <pubDate>Thu, 26 Mar 2026 18:29:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Result Theoretical Physics</title>
-      <link>https://openai.com/index/new-result-theoretical-physics/</link>
-      <description>New Result Theoretical Physics</description>
-      <guid isPermaLink="false">https://openai.com/index/new-result-theoretical-physics/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 26 Mar 2026 18:13:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extending Single Minus Amplitudes to Gravitons</title>
-      <link>https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</link>
-      <description>Extending Single Minus Amplitudes to Gravitons</description>
-      <guid isPermaLink="false">https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 26 Mar 2026 17:55:12 +0000</pubDate>
     </item>
     <item>
       <title>Scaling Social Science Research</title>
