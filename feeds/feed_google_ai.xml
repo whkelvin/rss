@@ -8,13 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 20:07:32 +0000</lastBuildDate>
-    <item>
-      <title>Boost Training Goodput: How Continuous Checkpointing Optimizes Reliability in Orbax and MaxText</title>
-      <link>https://developers.googleblog.com/boost-training-goodput-how-continuous-checkpointing-optimizes-reliability-in-orbax-and-maxtext/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/adk-gemini-cli-agent-building-bann.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;The newly introduced continuous checkpointing feature in Orbax and MaxText is designed to optimize the balance between reliability and performance during model training, addressing issues with conventional fixed-frequency checkpointing. Unlike fixed intervals—which can either compromise reliability or bottleneck performance—continuous checkpointing maximizes I/O bandwidth and minimizes failure risk by asynchronously initiating a new save operation only after the previous one successfully completes. Benchmarks demonstrate that this approach significantly reduces checkpoint intervals and results in substantial resource conservation, especially in large-scale training jobs where mean-time-between-failure (MTBF) is short.</description>
-      <category>AI</category>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 21:41:08 +0000</lastBuildDate>
     <item>
       <title>Developer’s Guide to Building ADK Agents with Skills</title>
       <link>https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/</link>
@@ -68,6 +62,12 @@
       <link>https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/</link>
       <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/hero_image_1.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.</description>
       <category>AI</category>
+    </item>
+    <item>
+      <title>Building real-world on-device AI with LiteRT and NPU</title>
+      <link>https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_ignk8signk8.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;LiteRT is a production-ready framework designed to help mobile developers unlock the power of Neural Processing Units (NPUs), overcoming the performance and battery limitations of traditional CPU or GPU processing. By providing a unified API that abstracts away hardware complexities, it allows industry leaders like Google Meet and Epic Games to deploy sophisticated AI models for real-time video, animation, and speech recognition with significantly higher efficiency. The platform further supports developers through benchmarking tools and cross-platform compatibility, enabling seamless AI deployment across mobile devices, AI PCs, and industrial IoT hardware.</description>
+      <category>Mobile</category>
     </item>
   </channel>
 </rss>
