@@ -13,7 +13,14 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 16:48:34 +0000</lastBuildDate>
+    <item>
+      <title>Scaling Camera File Processing at Netflix</title>
+      <link>https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be</link>
+      <description>Orchestrating Media Workflows Through Strategic Collaboration</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be</guid>
+      <pubDate>Fri, 24 Apr 2026 15:06:01 +0000</pubDate>
+    </item>
     <item>
       <title>The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale</title>
       <link>https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597</link>
@@ -112,16 +119,6 @@
       <category>artificial-intelligence</category>
       <category>media</category>
       <pubDate>Mon, 23 Feb 2026 18:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling LLM Post-Training at Netflix</title>
-      <link>https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194</link>
-      <description>Baolin Li,Lingyi Liu,Binh Tang,Shaojing Li</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194</guid>
-      <category>ai-infrastructure</category>
-      <category>llm</category>
-      <category>reinforcement-learning</category>
-      <pubDate>Fri, 13 Feb 2026 08:05:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
