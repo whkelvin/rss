@@ -13,7 +13,7 @@
       <link>https://blog.railway.com/engineering</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 15:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:21:34 +0000</lastBuildDate>
     <item>
       <title>Hello, World: We’re Railway</title>
       <link>https://blog.railway.com/p/launch-week-01-regions</link>
@@ -48,6 +48,14 @@
       <description>We recently experienced an outage on our platform that partially affected a small subset of our compute fleet across Europe and US-West. When production outages occur, it is Railway’s policy to share the public details of what occurred. </description>
       <guid isPermaLink="false">https://blog.railway.com/p/2024-06-11-incident-report</guid>
       <category>Engineering</category>
+    </item>
+    <item>
+      <title>Your AI wants to nuke your database.  Guardrails fix that.</title>
+      <link>https://blog.railway.com/p/your-ai-wants-to-nuke-your-database</link>
+      <description>An AI agent deleted a customer's production database on Railway. Here's what happened, what we've shipped to fix it, and the surfaces we're building so agents can move fast on Railway without breaking things.</description>
+      <guid isPermaLink="false">https://blog.railway.com/p/your-ai-wants-to-nuke-your-database</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Better Rails for Agents: A New Remote MCP and Railway Agent in the CLI</title>
