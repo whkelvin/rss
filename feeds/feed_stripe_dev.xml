@@ -13,7 +13,17 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:14:32 +0000</lastBuildDate>
+    <item>
+      <title>From init to deploy: building with agents and Stripe Projects</title>
+      <link>https://stripe.dev/blog/building-with-agents-stripe-projects</link>
+      <description>Stripe Projects makes it easy to spin up a useful, complex application that uses various SaaS providers. This post describes how one of our developer advocates built an internal transcript editing application using Stripe Projects, Vercel, and OpenRouter.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/building-with-agents-stripe-projects</guid>
+      <category>AI</category>
+      <category>Engineering</category>
+      <category>Partners</category>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
@@ -104,14 +114,6 @@
       <category>Event Destinations</category>
       <category>Best Practices</category>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stop juggling multiple POS devices with Stripe Terminal</title>
-      <link>https://stripe.dev/blog/stripe-terminal-on-screen-input-collection</link>
-      <description>Eliminate separate devices and manual data entry. Stripe Terminal's on-screen input collection consolidates customer interactions in one place.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/stripe-terminal-on-screen-input-collection</guid>
-      <category>Terminal</category>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
