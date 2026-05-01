@@ -13,7 +13,18 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 20:42:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 21:45:13 +0000</lastBuildDate>
+    <item>
+      <title>State of Routing in Model Serving</title>
+      <link>https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741</link>
+      <description>ByNipun Kumar,Rajat Shah,Peter Chng</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741</guid>
+      <category>ai-platform</category>
+      <category>distributed-systems</category>
+      <category>infrastructure</category>
+      <category>machine-learning</category>
+      <pubDate>Fri, 01 May 2026 21:03:13 +0000</pubDate>
+    </item>
     <item>
       <title>Scaling Camera File Processing at Netflix</title>
       <link>https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be</link>
@@ -107,18 +118,6 @@
       <category>netflix</category>
       <category>scaling</category>
       <pubDate>Sat, 28 Feb 2026 22:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>MediaFM: The Multimodal AI Foundation for Media Understanding at Netflix</title>
-      <link>https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d</link>
-      <description>Avneesh Saluja,Santiago Castro,Bowei Yan,Ashish Rastogi</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d</guid>
-      <category>foundation-models</category>
-      <category>machine-learning</category>
-      <category>multimodal</category>
-      <category>artificial-intelligence</category>
-      <category>media</category>
-      <pubDate>Mon, 23 Feb 2026 18:24:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
