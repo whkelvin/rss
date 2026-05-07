@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 20:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 21:51:46 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
@@ -47,6 +47,14 @@
       <link>https://www.anthropic.com/research/anthropic-institute-agenda</link>
       <description>May 7, 2026PolicyFocus areas for The Anthropic Institute</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/anthropic-institute-agenda</guid>
+      <category>Research</category>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 7, 2026AlignmentDonating our open-source alignment tool</title>
+      <link>https://www.anthropic.com/research/donating-open-source-petri</link>
+      <description>May 7, 2026AlignmentDonating our open-source alignment tool</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/donating-open-source-petri</guid>
       <category>Research</category>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -113,14 +121,6 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/emotion-concepts-function</guid>
       <category>Research</category>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mar 31, 2026Economic ResearchHow Australia Uses Claude: Findings from the Anthropic Economic Index</title>
-      <link>https://www.anthropic.com/research/how-australia-uses-claude</link>
-      <description>Mar 31, 2026Economic ResearchHow Australia Uses Claude: Findings from the Anthropic Economic Index</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/how-australia-uses-claude</guid>
-      <category>Research</category>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PolicyDec 18, 2025Project Vend: Phase twoIn June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote?</title>
