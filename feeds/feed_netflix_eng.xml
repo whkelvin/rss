@@ -13,7 +13,18 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 15:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 17:06:12 +0000</lastBuildDate>
+    <item>
+      <title>Scaling ArchUnit with Nebula ArchRules</title>
+      <link>https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a</link>
+      <description>ByJohn BurnsandEmily Yuan</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a</guid>
+      <category>gradle</category>
+      <category>nebula</category>
+      <category>java</category>
+      <category>archunit</category>
+      <pubDate>Fri, 08 May 2026 15:55:59 +0000</pubDate>
+    </item>
     <item>
       <title>Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph</title>
       <link>https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1</link>
@@ -106,18 +117,6 @@
       <category>data</category>
       <category>tech-debt</category>
       <pubDate>Fri, 06 Mar 2026 15:01:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optimizing Recommendation Systems with JDK’s Vector API</title>
-      <link>https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec</link>
-      <description>ByHarshad Sane</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec</guid>
-      <category>netflix</category>
-      <category>machine-learning</category>
-      <category>performance</category>
-      <category>java</category>
-      <category>simd</category>
-      <pubDate>Tue, 03 Mar 2026 01:36:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
