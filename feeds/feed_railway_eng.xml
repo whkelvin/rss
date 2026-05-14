@@ -13,7 +13,7 @@
       <link>https://blog.railway.com/engineering</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 21:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 22:51:55 +0000</lastBuildDate>
     <item>
       <title>Hello, World: We’re Railway</title>
       <link>https://blog.railway.com/p/launch-week-01-regions</link>
@@ -48,6 +48,14 @@
       <description>We recently experienced an outage on our platform that partially affected a small subset of our compute fleet across Europe and US-West. When production outages occur, it is Railway’s policy to share the public details of what occurred. </description>
       <guid isPermaLink="false">https://blog.railway.com/p/2024-06-11-incident-report</guid>
       <category>Engineering</category>
+    </item>
+    <item>
+      <title>Counting to 3 with a new builder processing 50M+ monthly builds</title>
+      <link>https://blog.railway.com/p/new-builder-scale-big</link>
+      <description>We replaced our Docker-buildx GCP autoscaler with a fleet of microVM build cells running BuildKit. Here's what we learned rolling it out.</description>
+      <guid isPermaLink="false">https://blog.railway.com/p/new-builder-scale-big</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kill your onboarding: selling to 10,000+ new users a day</title>
