@@ -13,7 +13,17 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 15:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:44:49 +0000</lastBuildDate>
+    <item>
+      <title>You can't whisper at an AI agent</title>
+      <link>https://stripe.dev/blog/ai-steering-experiments</link>
+      <description>What a dozen steering experiments taught us about how LLM-based agents actually behave in the wild.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/ai-steering-experiments</guid>
+      <category>AI</category>
+      <category>Best Practices</category>
+      <category>Developer Productivity</category>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>From init to deploy: building with agents and Stripe Projects</title>
       <link>https://stripe.dev/blog/building-with-agents-stripe-projects</link>
@@ -23,6 +33,25 @@
       <category>Engineering</category>
       <category>Partners</category>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Formatting an entire 25 million line codebase overnight: the rubyfmt story</title>
+      <link>https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story</link>
+      <description>This is the story of how our Developer Productivity team extended and rolled out rubyfmt, our Rust-based zero-config, ultra-fast autoformatter across the world's largest Ruby codebase.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story</guid>
+      <category>Engineering</category>
+      <category>Developer Productivity</category>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo</title>
+      <link>https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo</link>
+      <description>Stripe's Selective Test Execution system employs some clever tricks to allow us to continue scaling our team and our codebase while only running around 5% of our tests on average. Find out how it works!</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo</guid>
+      <category>Developer Productivity</category>
+      <category>Engineering</category>
+      <category>Testing</category>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Provision a production-ready dev stack from your terminal</title>
