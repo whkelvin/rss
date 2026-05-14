@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 19:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 21:04:31 +0000</lastBuildDate>
+    <item>
+      <title>Accelerating Science Gpt 5</title>
+      <link>https://openai.com/index/accelerating-science-gpt-5/</link>
+      <description>Accelerating Science Gpt 5</description>
+      <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 14 May 2026 20:20:09 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing the Model Spec</title>
       <link>https://openai.com/index/introducing-the-model-spec/</link>
@@ -88,14 +96,6 @@
       <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
       <category>Research</category>
       <pubDate>Wed, 06 May 2026 07:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Science Gpt 5</title>
-      <link>https://openai.com/index/accelerating-science-gpt-5/</link>
-      <description>Accelerating Science Gpt 5</description>
-      <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 05 May 2026 20:40:27 +0000</pubDate>
     </item>
     <item>
       <title>Sora 2</title>
