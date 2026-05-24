@@ -8,54 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 20:45:39 +0000</lastBuildDate>
-    <item>
-      <title>Model Disproves Discrete Geometry Conjecture</title>
-      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</link>
-      <description>Model Disproves Discrete Geometry Conjecture</description>
-      <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 24 May 2026 06:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>First Proof Submissions</title>
-      <link>https://openai.com/index/first-proof-submissions/</link>
-      <description>First Proof Submissions</description>
-      <guid isPermaLink="false">https://openai.com/index/first-proof-submissions/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 24 May 2026 06:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Evmbench</title>
-      <link>https://openai.com/index/introducing-evmbench/</link>
-      <description>Introducing Evmbench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 24 May 2026 06:34:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Result Theoretical Physics</title>
-      <link>https://openai.com/index/new-result-theoretical-physics/</link>
-      <description>New Result Theoretical Physics</description>
-      <guid isPermaLink="false">https://openai.com/index/new-result-theoretical-physics/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 24 May 2026 06:34:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
-      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
-      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 24 May 2026 06:34:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 May 2026 21:50:04 +0000</lastBuildDate>
     <item>
       <title>Extending Single Minus Amplitudes to Gravitons</title>
       <link>https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</link>
       <description>Extending Single Minus Amplitudes to Gravitons</description>
       <guid isPermaLink="false">https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</guid>
       <category>Research</category>
-      <pubDate>Sun, 24 May 2026 06:34:37 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 21:48:55 +0000</pubDate>
     </item>
     <item>
       <title>What Parameter Golf Taught Us</title>
@@ -63,7 +23,47 @@
       <description>What Parameter Golf Taught Us</description>
       <guid isPermaLink="false">https://openai.com/index/what-parameter-golf-taught-us/</guid>
       <category>Research</category>
-      <pubDate>Sun, 24 May 2026 06:34:35 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 21:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Evmbench</title>
+      <link>https://openai.com/index/introducing-evmbench/</link>
+      <description>Introducing Evmbench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 24 May 2026 21:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
+      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
+      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 24 May 2026 21:48:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Result Theoretical Physics</title>
+      <link>https://openai.com/index/new-result-theoretical-physics/</link>
+      <description>New Result Theoretical Physics</description>
+      <guid isPermaLink="false">https://openai.com/index/new-result-theoretical-physics/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 24 May 2026 21:48:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>First Proof Submissions</title>
+      <link>https://openai.com/index/first-proof-submissions/</link>
+      <description>First Proof Submissions</description>
+      <guid isPermaLink="false">https://openai.com/index/first-proof-submissions/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 24 May 2026 21:48:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model Disproves Discrete Geometry Conjecture</title>
+      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</link>
+      <description>Model Disproves Discrete Geometry Conjecture</description>
+      <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 24 May 2026 21:48:23 +0000</pubDate>
     </item>
     <item>
       <title>Evaluating Chain of Thought Monitorability</title>
