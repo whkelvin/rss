@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 12:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 16:39:15 +0000</lastBuildDate>
+    <item>
+      <title>From Silos to Service Topology: Why Netflix Built a Real-Time Service Map</title>
+      <link>https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</link>
+      <description>ByParth Jain,Rakesh Sukumar,Yingwu Zhao,Renzo Sanchez&amp;Nathan FisherHow we built a living map of our distributed infrastructure to help engineers understand dependencies, troubleshoot faster, and keep Netflix running smoothly for our members around the world.</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</guid>
+      <category>distributed-systems</category>
+      <category>software-engineering</category>
+      <category>platform-engineering</category>
+      <category>microservices</category>
+      <category>observability</category>
+      <pubDate>Fri, 29 May 2026 14:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>Scaling ArchUnit with Nebula ArchRules</title>
       <link>https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a</link>
@@ -105,18 +117,6 @@
       <category>adaptive-bitrate</category>
       <category>live-streaming</category>
       <pubDate>Thu, 02 Apr 2026 21:46:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Global Storytelling: Modernizing Localization Analytics at Netflix</title>
-      <link>https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641</link>
-      <description>Valentin Geffrier,Tanguy Cornuau</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641</guid>
-      <category>localization</category>
-      <category>big-data</category>
-      <category>analytics</category>
-      <category>data</category>
-      <category>tech-debt</category>
-      <pubDate>Fri, 06 Mar 2026 15:01:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
