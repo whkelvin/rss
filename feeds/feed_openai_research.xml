@@ -8,30 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 16:39:48 +0000</lastBuildDate>
-    <item>
-      <title>New Result Theoretical Physics</title>
-      <link>https://openai.com/index/new-result-theoretical-physics/</link>
-      <description>New Result Theoretical Physics</description>
-      <guid isPermaLink="false">https://openai.com/index/new-result-theoretical-physics/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 29 May 2026 16:38:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 19:30:01 +0000</lastBuildDate>
     <item>
       <title>First Proof Submissions</title>
       <link>https://openai.com/index/first-proof-submissions/</link>
       <description>First Proof Submissions</description>
       <guid isPermaLink="false">https://openai.com/index/first-proof-submissions/</guid>
       <category>Research</category>
-      <pubDate>Fri, 29 May 2026 16:38:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Disproves Discrete Geometry Conjecture</title>
-      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</link>
-      <description>Model Disproves Discrete Geometry Conjecture</description>
-      <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 29 May 2026 16:37:37 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 18:35:38 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 5 Lowers Protein Synthesis Cost</title>
@@ -39,15 +23,7 @@
       <description>Gpt 5 Lowers Protein Synthesis Cost</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
       <category>Research</category>
-      <pubDate>Fri, 29 May 2026 16:37:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Parameter Golf Taught Us</title>
-      <link>https://openai.com/index/what-parameter-golf-taught-us/</link>
-      <description>What Parameter Golf Taught Us</description>
-      <guid isPermaLink="false">https://openai.com/index/what-parameter-golf-taught-us/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 29 May 2026 16:37:01 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 18:35:34 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Evmbench</title>
@@ -55,15 +31,7 @@
       <description>Introducing Evmbench</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
       <category>Research</category>
-      <pubDate>Fri, 29 May 2026 16:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strengthening Societal Resilience With Rosalind Biodefense</title>
-      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</link>
-      <description>Strengthening Societal Resilience With Rosalind Biodefense</description>
-      <guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 29 May 2026 16:36:33 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 18:35:34 +0000</pubDate>
     </item>
     <item>
       <title>Extending Single Minus Amplitudes to Gravitons</title>
@@ -71,7 +39,39 @@
       <description>Extending Single Minus Amplitudes to Gravitons</description>
       <guid isPermaLink="false">https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</guid>
       <category>Research</category>
-      <pubDate>Fri, 29 May 2026 14:48:26 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 18:35:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model Disproves Discrete Geometry Conjecture</title>
+      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</link>
+      <description>Model Disproves Discrete Geometry Conjecture</description>
+      <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 29 May 2026 18:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Result Theoretical Physics</title>
+      <link>https://openai.com/index/new-result-theoretical-physics/</link>
+      <description>New Result Theoretical Physics</description>
+      <guid isPermaLink="false">https://openai.com/index/new-result-theoretical-physics/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 29 May 2026 18:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Parameter Golf Taught Us</title>
+      <link>https://openai.com/index/what-parameter-golf-taught-us/</link>
+      <description>What Parameter Golf Taught Us</description>
+      <guid isPermaLink="false">https://openai.com/index/what-parameter-golf-taught-us/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 29 May 2026 18:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening Societal Resilience With Rosalind Biodefense</title>
+      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</link>
+      <description>Strengthening Societal Resilience With Rosalind Biodefense</description>
+      <guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 29 May 2026 18:35:20 +0000</pubDate>
     </item>
     <item>
       <title>Evaluating Chain of Thought Monitorability</title>
