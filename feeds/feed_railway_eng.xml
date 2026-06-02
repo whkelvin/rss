@@ -13,7 +13,7 @@
       <link>https://blog.railway.com/engineering</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 00:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 05:26:11 +0000</lastBuildDate>
     <item>
       <title>Hello, World: We’re Railway</title>
       <link>https://blog.railway.com/p/launch-week-01-regions</link>
@@ -50,20 +50,20 @@
       <category>Engineering</category>
     </item>
     <item>
+      <title>Going multi-cloud with an in-housed status page</title>
+      <link>https://blog.railway.com/p/multi-cloud-status-page</link>
+      <description>We needed a new status page. None of the alternatives could do what we wanted, so we built our own with Rust and TanStack.</description>
+      <guid isPermaLink="false">https://blog.railway.com/p/multi-cloud-status-page</guid>
+      <category>Engineering</category>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Incident Report: May 19, 2026- GCP Account Suspension</title>
       <link>https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage</link>
       <description>Railway experienced a platform-wide service disruption due to Google Cloud incorrectly placing our account in a suspended status. This resulted in a temporary loss of service for all GCP hosted infrastructure.</description>
       <guid isPermaLink="false">https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage</guid>
       <category>Engineering</category>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Going multi-cloud with an in-housed status page</title>
-      <link>https://blog.railway.com/p/multi-cloud-status-page</link>
-      <description>We needed a new status page. None of the alternatives could do what we wanted, so we built our own with Rust and TanStack.</description>
-      <guid isPermaLink="false">https://blog.railway.com/p/multi-cloud-status-page</guid>
-      <category>Engineering</category>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Counting to 3 with a new builder processing 50M+ monthly builds</title>
