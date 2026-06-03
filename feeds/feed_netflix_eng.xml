@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 23:29:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 03:00:28 +0000</lastBuildDate>
+    <item>
+      <title>Dynamically Splitting Wide Partitions in Cassandra for Time Series Workloads</title>
+      <link>https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</link>
+      <description>ByRajiv Shringi,Kaidan Fullerton,Oleksii TkachukandKartik Sathyanarayanan</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</guid>
+      <category>scalability</category>
+      <category>cassandra</category>
+      <category>database</category>
+      <category>distributed-systems</category>
+      <category>timeseries</category>
+      <pubDate>Wed, 03 Jun 2026 02:05:05 +0000</pubDate>
+    </item>
     <item>
       <title>High-Throughput Graph Abstraction at Netflix: Part I</title>
       <link>https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5</link>
@@ -106,18 +118,6 @@
       <category>apache-druid</category>
       <category>cache</category>
       <pubDate>Mon, 06 Apr 2026 22:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Powering Multimodal Intelligence for Video Search</title>
-      <link>https://netflixtechblog.com/powering-multimodal-intelligence-for-video-search-3e0020cf1202</link>
-      <description>ByMeenakshi JindalandMunya Marazanye</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/powering-multimodal-intelligence-for-video-search-3e0020cf1202</guid>
-      <category>distributed-systems</category>
-      <category>semantic-search</category>
-      <category>machine-learning</category>
-      <category>annotations</category>
-      <category>asset-management-software</category>
-      <pubDate>Sat, 04 Apr 2026 00:44:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
