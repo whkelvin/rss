@@ -13,7 +13,7 @@
       <link>https://blog.railway.com/engineering</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 19:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 21:27:10 +0000</lastBuildDate>
     <item>
       <title>Hello, World: We’re Railway</title>
       <link>https://blog.railway.com/p/launch-week-01-regions</link>
@@ -48,6 +48,14 @@
       <description>We recently experienced an outage on our platform that partially affected a small subset of our compute fleet across Europe and US-West. When production outages occur, it is Railway’s policy to share the public details of what occurred. </description>
       <guid isPermaLink="false">https://blog.railway.com/p/2024-06-11-incident-report</guid>
       <category>Engineering</category>
+    </item>
+    <item>
+      <title>How to build a 100M RPS CDN in 30 days with Rust and WASM</title>
+      <link>https://blog.railway.com/p/railway-cdn</link>
+      <description>Learn about how we built the CDN we built (which served you this very page!) serving customers at scale.</description>
+      <guid isPermaLink="false">https://blog.railway.com/p/railway-cdn</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude please rack me a datacenter, make no mistakes</title>
