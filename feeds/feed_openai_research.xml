@@ -8,14 +8,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 07:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 11:20:45 +0000</lastBuildDate>
     <item>
       <title>Introducing New Capabilities to Gpt Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
       <description>Introducing New Capabilities to Gpt Rosalind</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
       <category>Research</category>
-      <pubDate>Fri, 05 Jun 2026 05:18:17 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 10:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt Memory Dreaming</title>
+      <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
+      <description>Chatgpt Memory Dreaming</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 05 Jun 2026 10:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Models Chain of Thought Controllability</title>
+      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
+      <description>Reasoning Models Chain of Thought Controllability</description>
+      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 05 Jun 2026 09:54:13 +0000</pubDate>
     </item>
     <item>
       <title>How Confessions Can Keep Language Models Honest</title>
@@ -32,14 +48,6 @@
       <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
       <category>Research</category>
       <pubDate>Thu, 04 Jun 2026 23:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt Memory Dreaming</title>
-      <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
-      <description>Chatgpt Memory Dreaming</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 04 Jun 2026 23:12:19 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Gpt Rosalind</title>
@@ -168,14 +176,6 @@
       <guid isPermaLink="false">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</guid>
       <category>Research</category>
       <pubDate>Fri, 22 May 2026 19:32:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reasoning Models Chain of Thought Controllability</title>
-      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
-      <description>Reasoning Models Chain of Thought Controllability</description>
-      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 22 May 2026 19:31:40 +0000</pubDate>
     </item>
     <item>
       <title>Evals Drive Next Chapter of Ai</title>
