@@ -13,7 +13,7 @@
       <link>https://blog.railway.com/engineering</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 14:31:34 +0000</lastBuildDate>
     <item>
       <title>Hello, World: We’re Railway</title>
       <link>https://blog.railway.com/p/launch-week-01-regions</link>
@@ -50,7 +50,7 @@
       <category>Engineering</category>
     </item>
     <item>
-      <title>How to build a 100M RPS CDN in 30 days with Rust and WASM</title>
+      <title>How to build a 30M RPS CDN in 30 days with Rust and WASM</title>
       <link>https://blog.railway.com/p/railway-cdn</link>
       <description>Learn about how we built the CDN we built (which served you this very page!) serving customers at scale.</description>
       <guid isPermaLink="false">https://blog.railway.com/p/railway-cdn</guid>
