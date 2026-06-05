@@ -8,22 +8,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 23:04:41 +0000</lastBuildDate>
-    <item>
-      <title>Chatgpt Memory Dreaming</title>
-      <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
-      <description>Chatgpt Memory Dreaming</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 04 Jun 2026 22:44:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 02:44:20 +0000</lastBuildDate>
     <item>
       <title>Introducing New Capabilities to Gpt Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
       <description>Introducing New Capabilities to Gpt Rosalind</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
       <category>Research</category>
-      <pubDate>Thu, 04 Jun 2026 21:59:08 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 01:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 04 Jun 2026 23:18:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
+      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
+      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 04 Jun 2026 23:18:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt Memory Dreaming</title>
+      <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
+      <description>Chatgpt Memory Dreaming</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 04 Jun 2026 23:12:19 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Gpt Rosalind</title>
@@ -72,14 +88,6 @@
       <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
       <category>Research</category>
       <pubDate>Wed, 03 Jun 2026 20:07:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
-      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
-      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 03 Jun 2026 07:12:44 +0000</pubDate>
     </item>
     <item>
       <title>Model Disproves Discrete Geometry Conjecture</title>
@@ -176,14 +184,6 @@
       <guid isPermaLink="false">https://openai.com/index/evals-drive-next-chapter-of-ai/</guid>
       <category>Research</category>
       <pubDate>Fri, 22 May 2026 19:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 22 May 2026 19:30:54 +0000</pubDate>
     </item>
     <item>
       <title>Why Language Models Hallucinate</title>
