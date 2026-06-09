@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 03:50:29 +0000</lastBuildDate>
+    <item>
+      <title>Accelerating Science Gpt 5</title>
+      <link>https://openai.com/index/accelerating-science-gpt-5/</link>
+      <description>Accelerating Science Gpt 5</description>
+      <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 09 Jun 2026 03:35:46 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing New Capabilities to Gpt Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
@@ -296,14 +304,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
       <category>Research</category>
       <pubDate>Fri, 22 May 2026 18:58:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Science Gpt 5</title>
-      <link>https://openai.com/index/accelerating-science-gpt-5/</link>
-      <description>Accelerating Science Gpt 5</description>
-      <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 22 May 2026 18:55:10 +0000</pubDate>
     </item>
     <item>
       <title>Introducing the Model Spec</title>
