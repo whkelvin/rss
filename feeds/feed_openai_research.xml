@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 07:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:05:39 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 11 Jun 2026 07:37:17 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing New Capabilities to Gpt Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
@@ -296,14 +304,6 @@
       <guid isPermaLink="false">https://openai.com/index/defining-and-evaluating-political-bias-in-llms/</guid>
       <category>Research</category>
       <pubDate>Fri, 22 May 2026 19:03:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 22 May 2026 18:58:58 +0000</pubDate>
     </item>
     <item>
       <title>Introducing the Model Spec</title>
