@@ -13,111 +13,113 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 15:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:58:07 +0000</lastBuildDate>
+    <item>
+      <title>How Netflix Simplified Batch Compute with Kueue</title>
+      <link>https://medium.com/netflix-techblog/how-netflix-simplified-batch-compute-with-kueue-87860682629c</link>
+      <description>ByAlvin Bao,Alex Petrov,Jennifer Lai,Aidan Sherr, andSamartha Chandrashekar</description>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/how-netflix-simplified-batch-compute-with-kueue-87860682629c</guid>
+      <category>kueue</category>
+      <category>netflix</category>
+      <category>aws</category>
+      <category>kubernetes</category>
+      <pubDate>Mon, 22 Jun 2026 21:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMAF v1: Good Is Not Good Enough</title>
+      <link>https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8</link>
+      <description>ByChristos G. Bampis,Zhi Li, Kyle Swanson,Nil Fons MiretandPavan Madhusudanarao</description>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8</guid>
+      <pubDate>Fri, 19 Jun 2026 23:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Human-Augmenting Agentic Workflow for Causal Inference</title>
+      <link>https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af</link>
+      <description>By Winston Chou, Adrien Alexandre, Lars Olds, Yi Zhang, Garrett Hagemann, and Nathan Kallus</description>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af</guid>
+      <category>ai-agent</category>
+      <category>agentic-workflow</category>
+      <category>causal-inference</category>
+      <pubDate>Mon, 08 Jun 2026 15:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thinking Fast &amp; Slow for a Personalized Notification System</title>
+      <link>https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd</link>
+      <description>byMatthew Wood,Ishan Gupta, Kevin Mercurio,Devon Bryant, andClaire Dorman</description>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd</guid>
+      <category>ai</category>
+      <category>notifications</category>
+      <category>recommendations</category>
+      <category>machine-learning</category>
+      <pubDate>Fri, 05 Jun 2026 16:31:01 +0000</pubDate>
+    </item>
     <item>
       <title>Dynamic Repartitioning for Time Series Workloads</title>
-      <link>https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</link>
+      <link>https://medium.com/netflix-techblog/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</link>
       <description>ByRajiv Shringi,Kaidan Fullerton,Oleksii TkachukandKartik Sathyanarayanan</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</guid>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</guid>
       <category>scalability</category>
       <category>cassandra</category>
       <category>database</category>
       <category>distributed-systems</category>
       <category>timeseries</category>
-      <pubDate>Wed, 03 Jun 2026 02:05:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>High-Throughput Graph Abstraction at Netflix: Part I</title>
-      <link>https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5</link>
-      <description>ByOleksii Tkachuk,Kartik Sathyanarayanan,Rajiv Shringi</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5</guid>
-      <category>stateful-systems</category>
-      <category>distributed-systems</category>
-      <category>caching</category>
-      <category>scalability</category>
-      <category>graph-database</category>
-      <pubDate>Fri, 29 May 2026 18:49:13 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 01:40:22 +0000</pubDate>
     </item>
     <item>
       <title>From Silos to Service Topology: Why Netflix Built a Real-Time Service Map</title>
-      <link>https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</link>
+      <link>https://medium.com/netflix-techblog/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</link>
       <description>ByParth Jain,Rakesh Sukumar,Yingwu Zhao,Renzo Sanchez&amp;Nathan FisherHow we built a living map of our distributed infrastructure to help engineers understand dependencies, troubleshoot faster, and keep Netflix running smoothly for our members around the world.</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</guid>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</guid>
       <category>distributed-systems</category>
       <category>software-engineering</category>
       <category>platform-engineering</category>
       <category>microservices</category>
       <category>observability</category>
-      <pubDate>Fri, 29 May 2026 14:01:02 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 14:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Evolution of Cassandra Data Movement at Netflix</title>
+      <link>https://medium.com/netflix-techblog/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1</link>
+      <description>ByGuil Pires,Jennifer Prince,Jose Camacho,Ken Kurzweil,Phanindra Chunduru</description>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1</guid>
+      <category>cassandra</category>
+      <category>icebergs</category>
+      <category>big-data</category>
+      <category>data-movement</category>
+      <pubDate>Mon, 18 May 2026 20:45:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Projects: Managing Data Assets at Netflix Scale</title>
+      <link>https://medium.com/netflix-techblog/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e</link>
+      <description>Netflix’s Data Platform is vast. We have millions of tables in our data warehouse and tens of thousands of scheduled workloads running across our orchestration systems. Behind each of these assets sits an engineer, a team, or an initiative — and behind each of those sits a set of decisions aboutwhoc</description>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e</guid>
+      <category>big-data</category>
+      <category>data-governance</category>
+      <category>data-orchestration</category>
+      <pubDate>Mon, 11 May 2026 23:35:11 +0000</pubDate>
     </item>
     <item>
       <title>Scaling ArchUnit with Nebula ArchRules</title>
-      <link>https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a</link>
+      <link>https://medium.com/netflix-techblog/scaling-archunit-with-nebula-archrules-b4642c464c5a</link>
       <description>ByJohn BurnsandEmily Yuan</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a</guid>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/scaling-archunit-with-nebula-archrules-b4642c464c5a</guid>
       <category>gradle</category>
       <category>nebula</category>
       <category>java</category>
       <category>archunit</category>
-      <pubDate>Fri, 08 May 2026 15:55:59 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 15:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph</title>
-      <link>https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1</link>
+      <link>https://medium.com/netflix-techblog/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1</link>
       <description>Saish Sali,Nipun Kumar,Sura Elamurugu</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1</guid>
+      <guid isPermaLink="false">https://medium.com/netflix-techblog/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1</guid>
       <category>mlops</category>
       <category>event-driven-architecture</category>
       <category>machine-learning</category>
       <category>distributed-systems</category>
       <category>knowledge-graph</category>
       <pubDate>Mon, 04 May 2026 16:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>State of Routing in Model Serving</title>
-      <link>https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741</link>
-      <description>ByNipun Kumar,Rajat Shah,Peter Chng</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741</guid>
-      <category>ai-platform</category>
-      <category>distributed-systems</category>
-      <category>infrastructure</category>
-      <category>machine-learning</category>
-      <pubDate>Fri, 01 May 2026 21:03:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Camera File Processing at Netflix</title>
-      <link>https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be</link>
-      <description>Orchestrating Media Workflows Through Strategic Collaboration</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be</guid>
-      <pubDate>Fri, 24 Apr 2026 15:06:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale</title>
-      <link>https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597</link>
-      <description>By:Brett Axler,Casper Choffat, andAlo Lowry</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597</guid>
-      <category>netflix</category>
-      <category>incident-response</category>
-      <category>live-operations</category>
-      <category>live-broadcast-technology</category>
-      <category>live-streaming</category>
-      <pubDate>Fri, 17 Apr 2026 15:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluating Netflix Show Synopses with LLM-as-a-Judge</title>
-      <link>https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28</link>
-      <description>byGabriela Alessio,Cameron Taylor, andCameron R. Wolfe</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28</guid>
-      <pubDate>Fri, 10 Apr 2026 16:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stop Answering the Same Question Twice: Interval-Aware Caching for Druid at Netflix Scale</title>
-      <link>https://netflixtechblog.com/stop-answering-the-same-question-twice-interval-aware-caching-for-druid-at-netflix-scale-22fadc9b840e</link>
-      <description>ByBen Sykes</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/stop-answering-the-same-question-twice-interval-aware-caching-for-druid-at-netflix-scale-22fadc9b840e</guid>
-      <category>apache-druid</category>
-      <category>cache</category>
-      <pubDate>Mon, 06 Apr 2026 22:15:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
