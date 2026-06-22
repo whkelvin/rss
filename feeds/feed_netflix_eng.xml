@@ -13,113 +13,113 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 21:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 23:17:32 +0000</lastBuildDate>
     <item>
       <title>How Netflix Simplified Batch Compute with Kueue</title>
-      <link>https://medium.com/netflix-techblog/how-netflix-simplified-batch-compute-with-kueue-87860682629c</link>
+      <link>https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c</link>
       <description>ByAlvin Bao,Alex Petrov,Jennifer Lai,Aidan Sherr, andSamartha Chandrashekar</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/how-netflix-simplified-batch-compute-with-kueue-87860682629c</guid>
+      <guid isPermaLink="false">https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c</guid>
       <category>kueue</category>
       <category>netflix</category>
       <category>aws</category>
       <category>kubernetes</category>
-      <pubDate>Mon, 22 Jun 2026 21:35:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 21:35:01 +0000</pubDate>
     </item>
     <item>
-      <title>VMAF v1: Good Is Not Good Enough</title>
-      <link>https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8</link>
-      <description>ByChristos G. Bampis,Zhi Li, Kyle Swanson,Nil Fons MiretandPavan Madhusudanarao</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8</guid>
-      <pubDate>Fri, 19 Jun 2026 23:49:12 +0000</pubDate>
+      <title>The Data Canary: How Netflix Validates Catalog Metadata</title>
+      <link>https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36</link>
+      <description>ByCelina Amados</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36</guid>
+      <category>automation</category>
+      <category>site-reliability</category>
+      <category>data-validation</category>
+      <category>data-reliability</category>
+      <category>experimentation</category>
+      <pubDate>Fri, 19 Jun 2026 23:54:17 +0000</pubDate>
     </item>
     <item>
-      <title>A Human-Augmenting Agentic Workflow for Causal Inference</title>
-      <link>https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af</link>
-      <description>By Winston Chou, Adrien Alexandre, Lars Olds, Yi Zhang, Garrett Hagemann, and Nathan Kallus</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af</guid>
-      <category>ai-agent</category>
-      <category>agentic-workflow</category>
-      <category>causal-inference</category>
-      <pubDate>Mon, 08 Jun 2026 15:01:03 +0000</pubDate>
+      <title>Data Projects: Managing Data Assets at Netflix Scale</title>
+      <link>https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e</link>
+      <description>Netflix’s Data Platform is vast. We have millions of tables in our data warehouse and tens of thousands of scheduled workloads running across our orchestration systems. Behind each of these assets sits an engineer, a team, or an initiative — and behind each of those sits a set of decisions aboutwhoc</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e</guid>
+      <category>big-data</category>
+      <category>data-governance</category>
+      <category>data-orchestration</category>
+      <pubDate>Fri, 19 Jun 2026 23:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning</title>
+      <link>https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928</link>
+      <description>byEmily Gill</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928</guid>
+      <category>regression</category>
+      <category>predictive-analytics</category>
+      <category>operations</category>
+      <category>machine-learning</category>
+      <pubDate>Fri, 19 Jun 2026 23:53:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Evolution of Cassandra Data Movement at Netflix</title>
+      <link>https://netflixtechblog.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1</link>
+      <description>ByGuil Pires,Jennifer Prince,Jose Camacho,Ken Kurzweil,Phanindra Chunduru</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1</guid>
+      <category>cassandra</category>
+      <category>icebergs</category>
+      <category>big-data</category>
+      <category>data-movement</category>
+      <pubDate>Fri, 19 Jun 2026 23:53:30 +0000</pubDate>
     </item>
     <item>
       <title>Thinking Fast &amp; Slow for a Personalized Notification System</title>
-      <link>https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd</link>
+      <link>https://netflixtechblog.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd</link>
       <description>byMatthew Wood,Ishan Gupta, Kevin Mercurio,Devon Bryant, andClaire Dorman</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd</guid>
+      <guid isPermaLink="false">https://netflixtechblog.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd</guid>
       <category>ai</category>
       <category>notifications</category>
       <category>recommendations</category>
       <category>machine-learning</category>
-      <pubDate>Fri, 05 Jun 2026 16:31:01 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 23:53:16 +0000</pubDate>
     </item>
     <item>
-      <title>Dynamic Repartitioning for Time Series Workloads</title>
-      <link>https://medium.com/netflix-techblog/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</link>
-      <description>ByRajiv Shringi,Kaidan Fullerton,Oleksii TkachukandKartik Sathyanarayanan</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</guid>
-      <category>scalability</category>
-      <category>cassandra</category>
-      <category>database</category>
-      <category>distributed-systems</category>
-      <category>timeseries</category>
-      <pubDate>Wed, 03 Jun 2026 01:40:22 +0000</pubDate>
+      <title>A Human-Augmenting Agentic Workflow for Causal Inference</title>
+      <link>https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af</link>
+      <description>By Winston Chou, Adrien Alexandre, Lars Olds, Yi Zhang, Garrett Hagemann, and Nathan Kallus</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af</guid>
+      <category>ai-agent</category>
+      <category>agentic-workflow</category>
+      <category>causal-inference</category>
+      <pubDate>Fri, 19 Jun 2026 23:53:06 +0000</pubDate>
     </item>
     <item>
       <title>From Silos to Service Topology: Why Netflix Built a Real-Time Service Map</title>
-      <link>https://medium.com/netflix-techblog/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</link>
-      <description>ByParth Jain,Rakesh Sukumar,Yingwu Zhao,Renzo Sanchez&amp;Nathan FisherHow we built a living map of our distributed infrastructure to help engineers understand dependencies, troubleshoot faster, and keep Netflix running smoothly for our members around the world.</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</guid>
+      <link>https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</link>
+      <description>ByParth Jain,Rakesh Sukumar,Yingwu Zhao,Renzo Sanchez-Silva&amp;Nathan FisherHow we built a living map of our distributed infrastructure to help engineers understand dependencies, troubleshoot faster, and keep Netflix running smoothly for our members around the world.</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</guid>
       <category>distributed-systems</category>
       <category>software-engineering</category>
       <category>platform-engineering</category>
       <category>microservices</category>
       <category>observability</category>
-      <pubDate>Fri, 29 May 2026 14:01:01 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 23:52:02 +0000</pubDate>
     </item>
     <item>
-      <title>The Evolution of Cassandra Data Movement at Netflix</title>
-      <link>https://medium.com/netflix-techblog/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1</link>
-      <description>ByGuil Pires,Jennifer Prince,Jose Camacho,Ken Kurzweil,Phanindra Chunduru</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1</guid>
+      <title>VMAF v1: Good Is Not Good Enough</title>
+      <link>https://netflixtechblog.com/vmaf-v1-good-is-not-good-enough-60d7e4244ea8</link>
+      <description>ByChristos G. Bampis,Zhi Li, Kyle Swanson,Nil Fons MiretandPavan Madhusudanarao</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/vmaf-v1-good-is-not-good-enough-60d7e4244ea8</guid>
+      <pubDate>Fri, 19 Jun 2026 23:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic Repartitioning for Time Series Workloads</title>
+      <link>https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</link>
+      <description>ByRajiv Shringi,Kaidan Fullerton,Oleksii TkachukandKartik Sathyanarayanan</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</guid>
+      <category>scalability</category>
       <category>cassandra</category>
-      <category>icebergs</category>
-      <category>big-data</category>
-      <category>data-movement</category>
-      <pubDate>Mon, 18 May 2026 20:45:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Projects: Managing Data Assets at Netflix Scale</title>
-      <link>https://medium.com/netflix-techblog/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e</link>
-      <description>Netflix’s Data Platform is vast. We have millions of tables in our data warehouse and tens of thousands of scheduled workloads running across our orchestration systems. Behind each of these assets sits an engineer, a team, or an initiative — and behind each of those sits a set of decisions aboutwhoc</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e</guid>
-      <category>big-data</category>
-      <category>data-governance</category>
-      <category>data-orchestration</category>
-      <pubDate>Mon, 11 May 2026 23:35:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling ArchUnit with Nebula ArchRules</title>
-      <link>https://medium.com/netflix-techblog/scaling-archunit-with-nebula-archrules-b4642c464c5a</link>
-      <description>ByJohn BurnsandEmily Yuan</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/scaling-archunit-with-nebula-archrules-b4642c464c5a</guid>
-      <category>gradle</category>
-      <category>nebula</category>
-      <category>java</category>
-      <category>archunit</category>
-      <pubDate>Fri, 08 May 2026 15:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph</title>
-      <link>https://medium.com/netflix-techblog/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1</link>
-      <description>Saish Sali,Nipun Kumar,Sura Elamurugu</description>
-      <guid isPermaLink="false">https://medium.com/netflix-techblog/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1</guid>
-      <category>mlops</category>
-      <category>event-driven-architecture</category>
-      <category>machine-learning</category>
+      <category>database</category>
       <category>distributed-systems</category>
-      <category>knowledge-graph</category>
-      <pubDate>Mon, 04 May 2026 16:01:02 +0000</pubDate>
+      <category>timeseries</category>
+      <pubDate>Wed, 03 Jun 2026 02:05:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
