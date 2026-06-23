@@ -13,7 +13,14 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 23:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:36:16 +0000</lastBuildDate>
+    <item>
+      <title>Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix</title>
+      <link>https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2</link>
+      <description>ByZhuoning Yuan,Ta-Ying Cheng,Benjamin Klein,Bahareh Azarnoush</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2</guid>
+      <pubDate>Tue, 23 Jun 2026 00:31:01 +0000</pubDate>
+    </item>
     <item>
       <title>How Netflix Simplified Batch Compute with Kueue</title>
       <link>https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c</link>
@@ -108,18 +115,6 @@
       <description>ByChristos G. Bampis,Zhi Li, Kyle Swanson,Nil Fons MiretandPavan Madhusudanarao</description>
       <guid isPermaLink="false">https://netflixtechblog.com/vmaf-v1-good-is-not-good-enough-60d7e4244ea8</guid>
       <pubDate>Fri, 19 Jun 2026 23:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic Repartitioning for Time Series Workloads</title>
-      <link>https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</link>
-      <description>ByRajiv Shringi,Kaidan Fullerton,Oleksii TkachukandKartik Sathyanarayanan</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456</guid>
-      <category>scalability</category>
-      <category>cassandra</category>
-      <category>database</category>
-      <category>distributed-systems</category>
-      <category>timeseries</category>
-      <pubDate>Wed, 03 Jun 2026 02:05:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
