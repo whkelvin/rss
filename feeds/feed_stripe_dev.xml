@@ -13,7 +13,17 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:11:49 +0000</lastBuildDate>
+    <item>
+      <title>Introducing a better way to process Stripe's thin events</title>
+      <link>https://stripe.dev/blog/event-notification-handlers-thin-events</link>
+      <description>Event destinations are central to Stripe integrations but hard to get right. Event notification handlers encapsulate the setup and wiring, letting you focus on business logic and surface errors at development time instead of in production.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/event-notification-handlers-thin-events</guid>
+      <category>Event Destinations</category>
+      <category>Developer Productivity</category>
+      <category>Engineering</category>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What it feels like building with Stripe Projects</title>
       <link>https://stripe.dev/blog/what-it-feels-like-building-with-stripe-projects</link>
@@ -117,15 +127,6 @@
       <guid isPermaLink="false">https://stripe.dev/blog/introducing-versioning-for-stripe-workflows</guid>
       <category>Workflows</category>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stablecoin payments for Stripe developers: zero crypto knowledge required</title>
-      <link>https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge</link>
-      <description>Learn how to add stablecoin payments to your Stripe integration in under an hour. Accept USDC on Ethereum, Solana, Polygon, and Base with zero blockchain knowledge—just add 'crypto' to your existing payment methods.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge</guid>
-      <category>Crypto</category>
-      <category>Payments</category>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
