@@ -8,7 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 23:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:36:05 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Life Sci Bench</title>
+      <link>https://openai.com/index/introducing-life-sci-bench/</link>
+      <description>Introducing Life Sci Bench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 23 Jun 2026 23:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing New Capabilities to Gpt Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
+      <description>Introducing New Capabilities to Gpt Rosalind</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 23 Jun 2026 23:54:15 +0000</pubDate>
+    </item>
     <item>
       <title>Evaluating Chain of Thought Monitorability</title>
       <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
@@ -26,28 +42,12 @@
       <pubDate>Tue, 23 Jun 2026 22:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Life Sci Bench</title>
-      <link>https://openai.com/index/introducing-life-sci-bench/</link>
-      <description>Introducing Life Sci Bench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 23 Jun 2026 17:03:52 +0000</pubDate>
-    </item>
-    <item>
       <title>Deployment Simulation</title>
       <link>https://openai.com/index/deployment-simulation/</link>
       <description>Deployment Simulation</description>
       <guid isPermaLink="false">https://openai.com/index/deployment-simulation/</guid>
       <category>Research</category>
       <pubDate>Tue, 23 Jun 2026 15:50:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing New Capabilities to Gpt Rosalind</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
-      <description>Introducing New Capabilities to Gpt Rosalind</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 23 Jun 2026 14:41:08 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 5 Lowers Protein Synthesis Cost</title>
