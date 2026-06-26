@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 18:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:29:56 +0000</lastBuildDate>
+    <item>
+      <title>Making private MCP servers reachable without making them public</title>
+      <link>https://developers.openai.com/blog/connect-private-mcp-servers-to-openai-products</link>
+      <description>How we preserved private network boundaries while supporting MCP streaming, authentication, and an inspectable client.</description>
+      <guid isPermaLink="false">https://developers.openai.com/blog/connect-private-mcp-servers-to-openai-products</guid>
+      <category>General</category>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mastering Codex Remote for engineering</title>
       <link>https://developers.openai.com/blog/mastering-codex-remote-for-engineering</link>
