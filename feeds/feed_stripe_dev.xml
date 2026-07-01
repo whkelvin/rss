@@ -13,7 +13,7 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:32:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:28:34 +0000</lastBuildDate>
     <item>
       <title>Introducing a better way to process Stripe's thin events</title>
       <link>https://stripe.dev/blog/event-notification-handlers-thin-events</link>
