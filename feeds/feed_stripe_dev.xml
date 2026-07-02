@@ -13,7 +13,16 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 15:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:32:19 +0000</lastBuildDate>
+    <item>
+      <title>Keeping funds where they belong: Implementing fund segregation in Stripe Connect</title>
+      <link>https://stripe.dev/blog/fund-segregation-stripe-connect</link>
+      <description>Learn how to implement fund segregation in Stripe Connect using allocated balances to ring-fence seller funds from your platform's operational balance - covering payment creation, transfers, refunds, disputes, and preparing for upcoming PSD3 regulatory requirements.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/fund-segregation-stripe-connect</guid>
+      <category>Connect</category>
+      <category>Engineering</category>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing a better way to process Stripe's thin events</title>
       <link>https://stripe.dev/blog/event-notification-handlers-thin-events</link>
@@ -119,14 +128,6 @@
       <guid isPermaLink="false">https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure</guid>
       <category>AI</category>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Versioning in Stripe Workflows: Ship workflow changes with confidence</title>
-      <link>https://stripe.dev/blog/introducing-versioning-for-stripe-workflows</link>
-      <description>Versioning in Stripe Workflows lets you edit automations safely with drafts, roll back changes instantly, and see exactly what ran. Update with confidence.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/introducing-versioning-for-stripe-workflows</guid>
-      <category>Workflows</category>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
