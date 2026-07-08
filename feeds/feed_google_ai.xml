@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 12:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 15:13:16 +0000</lastBuildDate>
     <item>
       <title>A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs</title>
       <link>https://developers.googleblog.com/a2ui-and-mcp-apps/</link>
