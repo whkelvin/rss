@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 14:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:16:04 +0000</lastBuildDate>
     <item>
       <title>Making private MCP servers reachable without making them public</title>
       <link>https://developers.openai.com/blog/connect-private-mcp-servers-to-openai-products</link>
@@ -18,9 +18,9 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mastering Codex Remote for engineering</title>
+      <title>Mastering remote engineering work from your phone</title>
       <link>https://developers.openai.com/blog/mastering-codex-remote-for-engineering</link>
-      <description>Turn your phone into a Codex control center for starting, steering, reviewing, and organizing engineering work.</description>
+      <description>Use Remote in the ChatGPT mobile app to start, steer, review, and organize engineering work.</description>
       <guid isPermaLink="false">https://developers.openai.com/blog/mastering-codex-remote-for-engineering</guid>
       <category>Codex</category>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
