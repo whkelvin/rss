@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 21:49:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:49:48 +0000</lastBuildDate>
+    <item>
+      <title>Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned</title>
+      <link>https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8</link>
+      <description>ByParth Jain,Rakesh Sukumar,Yingwu Zhao,Renzo Sanchez-Silva&amp;Nathan FisherA deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale — from streaming architectures and distributed aggregation pipelines to time-travel queries and the methodology that ma</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8</guid>
+      <category>backend-development</category>
+      <category>distributed-systems</category>
+      <category>data-engineering</category>
+      <category>observability</category>
+      <category>software-engineering</category>
+      <pubDate>Mon, 13 Jul 2026 22:44:11 +0000</pubDate>
+    </item>
     <item>
       <title>GenPage: Towards End-to-End Generative Homepage Construction at Netflix</title>
       <link>https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08</link>
@@ -108,18 +120,6 @@
       <category>agentic-workflow</category>
       <category>causal-inference</category>
       <pubDate>Fri, 19 Jun 2026 23:53:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Silos to Service Topology: Why Netflix Built a Real-Time Service Map</title>
-      <link>https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</link>
-      <description>ByParth Jain,Rakesh Sukumar,Yingwu Zhao,Renzo Sanchez-Silva&amp;Nathan FisherHow we built a living map of our distributed infrastructure to help engineers understand dependencies, troubleshoot faster, and keep Netflix running smoothly for our members around the world.</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc</guid>
-      <category>distributed-systems</category>
-      <category>software-engineering</category>
-      <category>platform-engineering</category>
-      <category>microservices</category>
-      <category>observability</category>
-      <pubDate>Fri, 19 Jun 2026 23:52:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
