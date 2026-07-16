@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 15:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:08:40 +0000</lastBuildDate>
+    <item>
+      <title>Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration</title>
+      <link>https://developers.googleblog.com/announcing-adk-go-20/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Gen_ADKGo20_banner_blog.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;The Agent Development Kit (ADK) for Go 2.0 has been released, introducing a first-class, graph-based workflow engine to help developers compose complex, multi-agent applications. This update adds built-in primitives for human-in-the-loop (HITL) orchestration, dynamic execution using plain Go code, and automated resilience features like exponential backoff retries. By unifying the execution model, both single-agent applications and intricate graphs now run on the same runtime, simplifying telemetry and state persistence.</description>
+      <category>AI</category>
+    </item>
     <item>
       <title>Driving the Agent Quality Flywheel from Your Coding Agent</title>
       <link>https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/</link>
@@ -50,12 +56,6 @@
       <link>https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/</link>
       <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/banner3.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to get started.</description>
       <category>Web</category>
-    </item>
-    <item>
-      <title>Unlocking the Next Era of On-Device AI with Google Tensor and Pixel</title>
-      <link>https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/IMG_5052.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;At Google I/O Connect India, Google showcased the future of 100% private, on-device AI powered by the custom Tensor SoC and TPU for the new Pixel 10 family. The event debuted the lightweight Gemma 4 E2B model, which runs natively on the device to enable completely offline multimodal features like AI chat, real-time image recognition, and personal agent tasks. Developers can start building these secure, edge-based applications today by accessing the newly announced Tensor SDK beta and its accompanying open-source resources.</description>
-      <category>Mobile</category>
     </item>
     <item>
       <title>Building scalable AI agents with modular prompt transpilation</title>
