@@ -13,14 +13,21 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 20:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:58:19 +0000</lastBuildDate>
+    <item>
+      <title>How Stripe uses graph search and state machines to auto-remediate a global database fleet</title>
+      <link>https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet</link>
+      <description>Discover how we modeled our MongoDB infrastructure as a traversable graph and then use pathfinding algorithms to dynamically compute and execute recovery plans. This automated approach reduced pager volume by 30% (~200 pages/year), eliminated 12 days of unhealthy shard states annually, and supports new shard layouts with zero manual effort.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Keeping funds where they belong: Implementing fund segregation in Stripe Connect</title>
       <link>https://stripe.dev/blog/fund-segregation-stripe-connect</link>
       <description>Learn how to implement fund segregation in Stripe Connect using allocated balances to ring-fence seller funds from your platform's operational balance - covering payment creation, transfers, refunds, disputes, and preparing for upcoming PSD3 regulatory requirements.</description>
       <guid isPermaLink="false">https://stripe.dev/blog/fund-segregation-stripe-connect</guid>
       <category>Connect</category>
-      <category>Engineering</category>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -29,8 +36,6 @@
       <description>Event destinations are central to Stripe integrations but hard to get right. Event notification handlers encapsulate the setup and wiring, letting you focus on business logic and surface errors at development time instead of in production.</description>
       <guid isPermaLink="false">https://stripe.dev/blog/event-notification-handlers-thin-events</guid>
       <category>Event Destinations</category>
-      <category>Developer Productivity</category>
-      <category>Engineering</category>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -39,7 +44,6 @@
       <description>Building a GitHub traffic dashboard with Stripe Projects revealed a surprising shift from “AI coding” into real infrastructure orchestration. In under an hour, Auth0, Supabase, Vercel, Prisma, deployments, environments, and scheduled jobs materialized around an idea with remarkable speed. The experience highlighted both the power and the emerging challenge of AI-assisted infrastructure: operational visibility, ownership clarity, environment management, and understanding rapidly orchestrated systems.</description>
       <guid isPermaLink="false">https://stripe.dev/blog/what-it-feels-like-building-with-stripe-projects</guid>
       <category>AI</category>
-      <category>Engineering</category>
       <category>Partners</category>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -50,7 +54,6 @@
       <guid isPermaLink="false">https://stripe.dev/blog/ai-steering-experiments</guid>
       <category>AI</category>
       <category>Best Practices</category>
-      <category>Developer Productivity</category>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -59,7 +62,6 @@
       <description>Stripe Projects makes it easy to spin up a useful, complex application that uses various SaaS providers. This post describes how one of our developer advocates built an internal transcript editing application using Stripe Projects, Vercel, and OpenRouter.</description>
       <guid isPermaLink="false">https://stripe.dev/blog/building-with-agents-stripe-projects</guid>
       <category>AI</category>
-      <category>Engineering</category>
       <category>Partners</category>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
@@ -87,8 +89,6 @@
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
       <description>Provision hosting, databases, auth, analytics, AI and other dev tools from the Stripe CLI. Stripe Projects creates real resources in your own provider accounts, securely syncs agent-ready credentials, supports upgrades to paid tiers, and handles payments without leaving the terminal.</description>
       <guid isPermaLink="false">https://stripe.dev/blog/production-ready-dev-stack-from-terminal</guid>
-      <category>Developer Productivity</category>
-      <category>Engineering</category>
       <category>AI</category>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
@@ -120,14 +120,6 @@
       <category>Developer Productivity</category>
       <category>Engineering</category>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Configuring Stripe using Terraform and AI agents</title>
-      <link>https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure</link>
-      <description>Learn why using AI agents to author Terraform code is safer than direct API calls for Stripe configuration. Get transparent, consistent, and auditable infrastructure with code review workflows.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure</guid>
-      <category>AI</category>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
