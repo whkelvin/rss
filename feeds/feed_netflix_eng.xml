@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 21:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:42:27 +0000</lastBuildDate>
+    <item>
+      <title>In-House LLM Serving at Netflix</title>
+      <link>https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c</link>
+      <description>By AI Platform’s Model Runtime team and Inference team</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c</guid>
+      <category>ai</category>
+      <category>platform-engineering</category>
+      <category>netflix</category>
+      <category>model-serving</category>
+      <category>llm</category>
+      <pubDate>Fri, 17 Jul 2026 21:32:39 +0000</pubDate>
+    </item>
     <item>
       <title>Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned</title>
       <link>https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8</link>
@@ -110,16 +122,6 @@
       <category>recommendations</category>
       <category>machine-learning</category>
       <pubDate>Fri, 19 Jun 2026 23:53:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Human-Augmenting Agentic Workflow for Causal Inference</title>
-      <link>https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af</link>
-      <description>By Winston Chou, Adrien Alexandre, Lars Olds, Yi Zhang, Garrett Hagemann, and Nathan Kallus</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af</guid>
-      <category>ai-agent</category>
-      <category>agentic-workflow</category>
-      <category>causal-inference</category>
-      <pubDate>Fri, 19 Jun 2026 23:53:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
