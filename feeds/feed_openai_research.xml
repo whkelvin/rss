@@ -8,7 +8,87 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 01:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:19:34 +0000</lastBuildDate>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 03:33:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Evmbench</title>
+      <link>https://openai.com/index/introducing-evmbench/</link>
+      <description>Introducing Evmbench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 03:28:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontierscience</title>
+      <link>https://openai.com/index/frontierscience/</link>
+      <description>Frontierscience</description>
+      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 03:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Chain of Thought Monitorability</title>
+      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
+      <description>Evaluating Chain of Thought Monitorability</description>
+      <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 02:51:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instruction Hierarchy Challenge</title>
+      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
+      <description>Instruction Hierarchy Challenge</description>
+      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 02:47:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
+      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
+      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 02:47:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Enterprise Ai 2025 Report</title>
+      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
+      <description>The State of Enterprise Ai 2025 Report</description>
+      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 02:46:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Genebench Pro</title>
+      <link>https://openai.com/index/introducing-genebench-pro/</link>
+      <description>Introducing Genebench Pro</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 02:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerating Science Gpt 5</title>
+      <link>https://openai.com/index/accelerating-science-gpt-5/</link>
+      <description>Accelerating Science Gpt 5</description>
+      <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 02:32:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Neural Networks Through Sparse Circuits</title>
+      <link>https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</link>
+      <description>Understanding Neural Networks Through Sparse Circuits</description>
+      <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 21 Jul 2026 02:30:31 +0000</pubDate>
+    </item>
     <item>
       <title>Separating Signal From Noise Coding Evaluations</title>
       <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
@@ -42,22 +122,6 @@
       <pubDate>Thu, 16 Jul 2026 02:15:26 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluating Chain of Thought Monitorability</title>
-      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
-      <description>Evaluating Chain of Thought Monitorability</description>
-      <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 15 Jul 2026 17:39:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Enterprise Ai 2025 Report</title>
-      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
-      <description>The State of Enterprise Ai 2025 Report</description>
-      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 14 Jul 2026 21:11:45 +0000</pubDate>
-    </item>
-    <item>
       <title>How People Are Using Chatgpt</title>
       <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
       <description>How People Are Using Chatgpt</description>
@@ -80,14 +144,6 @@
       <guid isPermaLink="false">https://openai.com/index/accelerating-biological-research-in-the-wet-lab/</guid>
       <category>Research</category>
       <pubDate>Tue, 14 Jul 2026 14:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Science Gpt 5</title>
-      <link>https://openai.com/index/accelerating-science-gpt-5/</link>
-      <description>Accelerating Science Gpt 5</description>
-      <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
-      <category>Research</category>
-      <pubDate>Mon, 13 Jul 2026 16:46:39 +0000</pubDate>
     </item>
     <item>
       <title>First Proof Submissions</title>
@@ -114,44 +170,12 @@
       <pubDate>Fri, 10 Jul 2026 19:01:17 +0000</pubDate>
     </item>
     <item>
-      <title>Frontierscience</title>
-      <link>https://openai.com/index/frontierscience/</link>
-      <description>Frontierscience</description>
-      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 10 Jul 2026 18:38:21 +0000</pubDate>
-    </item>
-    <item>
       <title>What Parameter Golf Taught Us</title>
       <link>https://openai.com/index/what-parameter-golf-taught-us/</link>
       <description>What Parameter Golf Taught Us</description>
       <guid isPermaLink="false">https://openai.com/index/what-parameter-golf-taught-us/</guid>
       <category>Research</category>
       <pubDate>Thu, 09 Jul 2026 09:46:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Genebench Pro</title>
-      <link>https://openai.com/index/introducing-genebench-pro/</link>
-      <description>Introducing Genebench Pro</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 03 Jul 2026 20:54:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 24 Jun 2026 20:27:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
-      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
-      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 19 Jun 2026 13:44:21 +0000</pubDate>
     </item>
     <item>
       <title>Our Approach to the Model Spec</title>
@@ -218,28 +242,12 @@
       <pubDate>Tue, 09 Jun 2026 14:42:27 +0000</pubDate>
     </item>
     <item>
-      <title>Instruction Hierarchy Challenge</title>
-      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
-      <description>Instruction Hierarchy Challenge</description>
-      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 09 Jun 2026 14:19:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Aardvark</title>
       <link>https://openai.com/index/introducing-aardvark/</link>
       <description>Introducing Aardvark</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
       <category>Research</category>
       <pubDate>Sat, 06 Jun 2026 15:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Evmbench</title>
-      <link>https://openai.com/index/introducing-evmbench/</link>
-      <description>Introducing Evmbench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 06 Jun 2026 15:41:14 +0000</pubDate>
     </item>
     <item>
       <title>Reasoning Models Chain of Thought Controllability</title>
@@ -288,14 +296,6 @@
       <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
       <category>Research</category>
       <pubDate>Wed, 03 Jun 2026 22:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding Neural Networks Through Sparse Circuits</title>
-      <link>https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</link>
-      <description>Understanding Neural Networks Through Sparse Circuits</description>
-      <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 03 Jun 2026 20:07:25 +0000</pubDate>
     </item>
     <item>
       <title>Model Disproves Discrete Geometry Conjecture</title>
