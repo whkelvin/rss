@@ -8,13 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:35:57 +0000</lastBuildDate>
-    <item>
-      <title>ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available</title>
-      <link>https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/VS_code_blogpost_banner.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Marketplace.</description>
-      <category>AI</category>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 13:35:15 +0000</lastBuildDate>
     <item>
       <title>Why we built ADK 2.0</title>
       <link>https://developers.googleblog.com/why-we-built-adk-20/</link>
@@ -61,6 +55,12 @@
       <title>Run Ray on TPU, Part 1: The foundations</title>
       <link>https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/</link>
       <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/header.2e16d0ba.fill-800x400_pp6EXuC.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU "slices" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like "4x4") without writing custom placement code.</description>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Scaling Agentic RL: High-Throughput Agentic Training with Tunix</title>
+      <link>https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Banner_Image.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.</description>
       <category>AI</category>
     </item>
     <item>
