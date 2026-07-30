@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 19:13:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:59:14 +0000</lastBuildDate>
+    <item>
+      <title>GenRec: Towards LLM-Native Recommendation at Netflix</title>
+      <link>https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</link>
+      <description>Authors:Ying Li,Arjun Rao,Shradha Sehgal</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</guid>
+      <category>netflix</category>
+      <category>genai</category>
+      <category>recommendation-system</category>
+      <category>llm</category>
+      <category>large-language-models</category>
+      <pubDate>Thu, 30 Jul 2026 20:10:15 +0000</pubDate>
+    </item>
     <item>
       <title>In-House LLM Serving at Netflix</title>
       <link>https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c</link>
@@ -111,17 +123,6 @@
       <category>big-data</category>
       <category>data-movement</category>
       <pubDate>Fri, 19 Jun 2026 23:53:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thinking Fast &amp; Slow for a Personalized Notification System</title>
-      <link>https://netflixtechblog.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd</link>
-      <description>byMatthew Wood,Ishan Gupta, Kevin Mercurio,Devon Bryant, andClaire Dorman</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd</guid>
-      <category>ai</category>
-      <category>notifications</category>
-      <category>recommendations</category>
-      <category>machine-learning</category>
-      <pubDate>Fri, 19 Jun 2026 23:53:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
