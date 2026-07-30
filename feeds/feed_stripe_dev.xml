@@ -13,7 +13,16 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 17:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:14:57 +0000</lastBuildDate>
+    <item>
+      <title>Meet Stripe's Knowledge AI Platform</title>
+      <link>https://stripe.dev/blog/meet-stripes-knowledge-ai-platform</link>
+      <description>Stripe's Knowledge AI Platform is our versatile AI agent platform built to handle diverse non-coding knowledge work, from quick queries to complex, multi-day projects. By connecting employees to over 1,000 internal tools and skills, it enables secure, enterprise-scale productivity across the organization.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/meet-stripes-knowledge-ai-platform</guid>
+      <category>Engineering</category>
+      <category>AI</category>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Stripe uses graph search and state machines to auto-remediate a global database fleet</title>
       <link>https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet</link>
@@ -110,16 +119,6 @@
       <category>Best Practices</category>
       <category>Payments</category>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Minions: Stripe’s one-shot, end-to-end coding agents</title>
-      <link>https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents</link>
-      <description>Minions are Stripe’s homegrown coding agents, responsible for more than a thousand pull requests merged each week. Though humans review the code, minions write it from start to finish. Learn how they work, and how we built them.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents</guid>
-      <category>AI</category>
-      <category>Developer Productivity</category>
-      <category>Engineering</category>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
