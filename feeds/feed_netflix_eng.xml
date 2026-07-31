@@ -13,7 +13,18 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 15:57:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 17:26:25 +0000</lastBuildDate>
+    <item>
+      <title>Modeling Device Capabilities for Analytics</title>
+      <link>https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8</link>
+      <description>byAarti Laddha,Richard Diaz-Cool,Rishika Idnani,Venkatesh Selveraj</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8</guid>
+      <category>data-engineering</category>
+      <category>devices</category>
+      <category>data-modeling</category>
+      <category>analytics</category>
+      <pubDate>Fri, 31 Jul 2026 16:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>GenRec: Towards LLM-Native Recommendation at Netflix</title>
       <link>https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</link>
@@ -112,17 +123,6 @@
       <category>operations</category>
       <category>machine-learning</category>
       <pubDate>Fri, 19 Jun 2026 23:53:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Evolution of Cassandra Data Movement at Netflix</title>
-      <link>https://netflixtechblog.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1</link>
-      <description>ByGuil Pires,Jennifer Prince,Jose Camacho,Ken Kurzweil,Phanindra Chunduru</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1</guid>
-      <category>cassandra</category>
-      <category>icebergs</category>
-      <category>big-data</category>
-      <category>data-movement</category>
-      <pubDate>Fri, 19 Jun 2026 23:53:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
