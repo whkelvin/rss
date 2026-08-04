@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 01:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 04:58:07 +0000</lastBuildDate>
+    <item>
+      <title>Model Disproves Discrete Geometry Conjecture</title>
+      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</link>
+      <description>Model Disproves Discrete Geometry Conjecture</description>
+      <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 04 Aug 2026 04:41:03 +0000</pubDate>
+    </item>
     <item>
       <title>Chatgpt for Academic Researchers</title>
       <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
@@ -336,14 +344,6 @@
       <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
       <category>Research</category>
       <pubDate>Wed, 03 Jun 2026 22:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Disproves Discrete Geometry Conjecture</title>
-      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</link>
-      <description>Model Disproves Discrete Geometry Conjecture</description>
-      <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 03 Jun 2026 04:01:03 +0000</pubDate>
     </item>
     <item>
       <title>Why Language Models Hallucinate</title>
