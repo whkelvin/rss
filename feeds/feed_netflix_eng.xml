@@ -13,7 +13,14 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 15:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:44:14 +0000</lastBuildDate>
+    <item>
+      <title>How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…</title>
+      <link>https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607</link>
+      <description>Authors:Nilesh MishraandAjit Koti</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607</guid>
+      <pubDate>Fri, 07 Aug 2026 16:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>Modeling Device Capabilities for Analytics</title>
       <link>https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8</link>
@@ -112,17 +119,6 @@
       <category>data-governance</category>
       <category>data-orchestration</category>
       <pubDate>Fri, 19 Jun 2026 23:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning</title>
-      <link>https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928</link>
-      <description>byEmily Gill</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928</guid>
-      <category>regression</category>
-      <category>predictive-analytics</category>
-      <category>operations</category>
-      <category>machine-learning</category>
-      <pubDate>Fri, 19 Jun 2026 23:53:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
