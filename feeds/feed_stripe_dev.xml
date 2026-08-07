@@ -13,7 +13,15 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 19:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:33:37 +0000</lastBuildDate>
+    <item>
+      <title>Agentic payments for marketplaces: How a smart fridge can shop safely</title>
+      <link>https://stripe.dev/blog/agentic-payments-for-marketplaces</link>
+      <description>While a smart fridge can detect when a household is running out of milk, the more interesting engineering problem begins after that.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/agentic-payments-for-marketplaces</guid>
+      <category>Agentic Commerce</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meet Stripe's Knowledge AI Platform</title>
       <link>https://stripe.dev/blog/meet-stripes-knowledge-ai-platform</link>
@@ -109,16 +117,6 @@
       <category>Best Practices</category>
       <category>Payments</category>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a mental model for Stripe payments</title>
-      <link>https://stripe.dev/blog/building-a-mental-model-for-stripe-payments</link>
-      <description>Learn how Stripe payments work under the hood by understanding the PaymentIntent lifecycle as a state machine—from checkout and tokenization to authorization, capture, and settlement—and why webhooks are essential for keeping your systems in sync with asynchronous payment state changes. </description>
-      <guid isPermaLink="false">https://stripe.dev/blog/building-a-mental-model-for-stripe-payments</guid>
-      <category>Getting Started</category>
-      <category>Best Practices</category>
-      <category>Payments</category>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
