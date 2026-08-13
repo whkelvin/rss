@@ -13,7 +13,16 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 15:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:48:03 +0000</lastBuildDate>
+    <item>
+      <title>Reading the signals: Helping your AI-built payment integration understand business intent</title>
+      <link>https://stripe.dev/blog/helping-ai-built-payment-integration-understand-business-intent</link>
+      <description>The low-level code that makes a payment go through is getting cheap, fast. What is becoming valuable is the judgment above it: knowing what the money is supposed to do and making sure the code obeys it.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/helping-ai-built-payment-integration-understand-business-intent</guid>
+      <category>AI</category>
+      <category>Payments</category>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Agentic payments for marketplaces: How a smart fridge can shop safely</title>
       <link>https://stripe.dev/blog/agentic-payments-for-marketplaces</link>
@@ -108,15 +117,6 @@
       <guid isPermaLink="false">https://stripe.dev/blog/production-ready-dev-stack-from-terminal</guid>
       <category>AI</category>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Designing flexible payment flows with Checkout Session</title>
-      <link>https://stripe.dev/blog/designing-flexible-payment-flows-with-checkoutsessions</link>
-      <description>Learn how to build a future-proof, global-ready checkout by implementing Stripe Checkout Session with embeddable Elements for flexible payments, tax calculation, and multi-currency support.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/designing-flexible-payment-flows-with-checkoutsessions</guid>
-      <category>Best Practices</category>
-      <category>Payments</category>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
