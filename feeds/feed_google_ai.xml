@@ -8,18 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 22:16:32 +0000</lastBuildDate>
-    <item>
-      <title>Enable on-demand expertise with Agent Skills in Genkit Go</title>
-      <link>https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/banner-genkit-go-skills.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precise workflows exactly when needed.</description>
-      <category>AI</category>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 23:15:19 +0000</lastBuildDate>
     <item>
       <title>Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA</title>
       <link>https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/</link>
       <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/unnamed_8.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-backed adaptive rubrics, or custom code-based and LLM-as-a-judge metrics stored in a centralized, versioned registry. The service integrates directly into existing workflows via the Agent Platform SDK, agents-cli, and ADK, offering built-in user and environment simulators to automate complex multi-turn testing and streamline CI pipelines.</description>
       <category>AI</category>
+    </item>
+    <item>
+      <title>Build zero-trust AI agents with Google's Agent Development Kit</title>
+      <link>https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/banner_1.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware-backed cryptographic signatures for database writes, kernel-level sandboxing with gVisor for dynamic code, and deterministic semantic gateways for I/O validation. By enforcing these hard security boundaries at the infrastructure level, you can safely deploy multi-tool AI agents without risking unauthorized data manipulation or server compromise.</description>
+      <category>AI</category>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>HeyGen x Google Cloud: Bringing Avatar IV to TPUs</title>
