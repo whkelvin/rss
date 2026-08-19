@@ -13,7 +13,7 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:18:55 +0000</lastBuildDate>
     <item>
       <title>Reading the signals: Helping your AI-built payment integration understand business intent</title>
       <link>https://stripe.dev/blog/helping-ai-built-payment-integration-understand-business-intent</link>
@@ -115,6 +115,7 @@
       <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
       <description>Provision hosting, databases, auth, analytics, AI and other dev tools from the Stripe CLI. Stripe Projects creates real resources in your own provider accounts, securely syncs agent-ready credentials, supports upgrades to paid tiers, and handles payments without leaving the terminal.</description>
       <guid isPermaLink="false">https://stripe.dev/blog/production-ready-dev-stack-from-terminal</guid>
+      <category>Partners</category>
       <category>AI</category>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
