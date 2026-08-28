@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:33:16 +0000</lastBuildDate>
+    <item>
+      <title>MAPS: Netflix’s Multimodal Asset Personalization at Scale</title>
+      <link>https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e</link>
+      <description>ByEmma Yanyang Kong,Aditya Deshpande,Asad Abbasi,Bowei Yan,David Fagnan,Ashish Rastogi,Dhaval Patel,Ray Zhang</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e</guid>
+      <category>personalization</category>
+      <category>embedding</category>
+      <category>machine-learning</category>
+      <category>netflix</category>
+      <category>multimodal</category>
+      <pubDate>Fri, 28 Aug 2026 16:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>A Tale of Two Flink Autoscalers</title>
       <link>https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b</link>
@@ -108,18 +120,6 @@
       <category>aws</category>
       <category>kubernetes</category>
       <pubDate>Mon, 22 Jun 2026 21:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Data Canary: How Netflix Validates Catalog Metadata</title>
-      <link>https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36</link>
-      <description>ByCelina Amados</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36</guid>
-      <category>automation</category>
-      <category>site-reliability</category>
-      <category>data-validation</category>
-      <category>data-reliability</category>
-      <category>experimentation</category>
-      <pubDate>Fri, 19 Jun 2026 23:54:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
