@@ -13,7 +13,16 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 02:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:48:27 +0000</lastBuildDate>
+    <item>
+      <title>AI didn't write our SDK. It changed how we built it.</title>
+      <link>https://stripe.dev/blog/ai-didnt-write-our-sdk-it-changed-how-we-built-it</link>
+      <description>AI was involved at every stage of building Stripe's extensibility SDK, but the story isn't that it wrote code faster. Here's how prototypes, agent-drafted specs, and persistent guidance got ideas into reviewable shape sooner.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/ai-didnt-write-our-sdk-it-changed-how-we-built-it</guid>
+      <category>AI</category>
+      <category>Best Practices</category>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Reading the signals: Helping your AI-built payment integration understand business intent</title>
       <link>https://stripe.dev/blog/helping-ai-built-payment-integration-understand-business-intent</link>
@@ -109,15 +118,6 @@
       <category>Engineering</category>
       <category>Testing</category>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Provision a production-ready dev stack from your terminal</title>
-      <link>https://stripe.dev/blog/production-ready-dev-stack-from-terminal</link>
-      <description>Provision hosting, databases, auth, analytics, AI and other dev tools from the Stripe CLI. Stripe Projects creates real resources in your own provider accounts, securely syncs agent-ready credentials, supports upgrades to paid tiers, and handles payments without leaving the terminal.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/production-ready-dev-stack-from-terminal</guid>
-      <category>Partners</category>
-      <category>AI</category>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
