@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:57:12 +0000</lastBuildDate>
     <item>
       <title>An Alien Mind</title>
       <link>https://openai.com/index/an-alien-mind/</link>
       <description>An Alien Mind</description>
       <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
       <category>Research</category>
-      <pubDate>Wed, 09 Sep 2026 10:26:19 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 14:57:06 +0000</pubDate>
     </item>
     <item>
       <title>Research Acceleration View Inside Openai</title>
@@ -23,7 +23,7 @@
       <description>Research Acceleration View Inside Openai</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
-      <pubDate>Wed, 09 Sep 2026 10:00:02 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 14:16:02 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 6 Astra</title>
