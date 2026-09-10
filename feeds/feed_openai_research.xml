@@ -8,62 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:09:01 +0000</lastBuildDate>
     <item>
       <title>Gpt 6 Astra</title>
       <link>https://openai.com/index/gpt-6-astra/</link>
       <description>Gpt 6 Astra</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
       <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 19:22:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
-      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
-      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 17:08:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 17:07:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reasoning Models Chain of Thought Controllability</title>
-      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
-      <description>Reasoning Models Chain of Thought Controllability</description>
-      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 17:07:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advancing Independent Research Ai Alignment</title>
-      <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
-      <description>Advancing Independent Research Ai Alignment</description>
-      <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 17:07:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Genebench Pro</title>
-      <link>https://openai.com/index/introducing-genebench-pro/</link>
-      <description>Introducing Genebench Pro</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 17:07:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research Acceleration View Inside Openai</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
-      <description>Research Acceleration View Inside Openai</description>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 17:07:17 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 22:04:02 +0000</pubDate>
     </item>
     <item>
       <title>An Alien Mind</title>
@@ -71,15 +23,55 @@
       <description>An Alien Mind</description>
       <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
       <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 17:07:15 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 21:54:46 +0000</pubDate>
     </item>
     <item>
-      <title>Chatgpt Memory Dreaming</title>
-      <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
-      <description>Chatgpt Memory Dreaming</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming/</guid>
+      <title>Research Acceleration View Inside Openai</title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
+      <description>Research Acceleration View Inside Openai</description>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 13:42:33 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 21:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
+      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
+      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 10 Sep 2026 21:13:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 10 Sep 2026 21:13:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing Independent Research Ai Alignment</title>
+      <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
+      <description>Advancing Independent Research Ai Alignment</description>
+      <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 10 Sep 2026 21:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Models Chain of Thought Controllability</title>
+      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
+      <description>Reasoning Models Chain of Thought Controllability</description>
+      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 10 Sep 2026 21:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Genebench Pro</title>
+      <link>https://openai.com/index/introducing-genebench-pro/</link>
+      <description>Introducing Genebench Pro</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 10 Sep 2026 21:13:43 +0000</pubDate>
     </item>
     <item>
       <title>Introducing New Capabilities to Gpt Rosalind</title>
@@ -87,7 +79,15 @@
       <description>Introducing New Capabilities to Gpt Rosalind</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
       <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 09:41:42 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 20:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt Memory Dreaming</title>
+      <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
+      <description>Chatgpt Memory Dreaming</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 10 Sep 2026 20:44:46 +0000</pubDate>
     </item>
     <item>
       <title>Strengthening Societal Resilience With Rosalind Biodefense</title>
@@ -95,7 +95,7 @@
       <description>Strengthening Societal Resilience With Rosalind Biodefense</description>
       <guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</guid>
       <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 09:41:38 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 20:44:43 +0000</pubDate>
     </item>
     <item>
       <title>Sora 2</title>
@@ -103,7 +103,7 @@
       <description>Sora 2</description>
       <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
       <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 09:41:38 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 20:44:41 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Aardvark</title>
@@ -111,7 +111,7 @@
       <description>Introducing Aardvark</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
       <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 09:41:36 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 20:44:38 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Gpt Rosalind</title>
