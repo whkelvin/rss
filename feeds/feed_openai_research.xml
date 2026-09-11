@@ -8,14 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:44:01 +0000</lastBuildDate>
+    <item>
+      <title>Research Acceleration View Inside Openai</title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
+      <description>Research Acceleration View Inside Openai</description>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 11 Sep 2026 00:43:01 +0000</pubDate>
+    </item>
     <item>
       <title>Gpt 6 Astra</title>
       <link>https://openai.com/index/gpt-6-astra/</link>
       <description>Gpt 6 Astra</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
       <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 22:04:02 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 23:51:41 +0000</pubDate>
     </item>
     <item>
       <title>An Alien Mind</title>
@@ -24,14 +32,6 @@
       <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
       <category>Research</category>
       <pubDate>Thu, 10 Sep 2026 21:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research Acceleration View Inside Openai</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
-      <description>Research Acceleration View Inside Openai</description>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 10 Sep 2026 21:18:01 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 5 Lowers Protein Synthesis Cost</title>
