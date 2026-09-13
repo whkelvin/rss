@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:55:45 +0000</lastBuildDate>
     <item>
       <title>This Year We Can End the Death Penalty in California</title>
       <link>https://paulgraham.com/prop62.html</link>
@@ -3478,6 +3478,20 @@ They want people who are good at building things and have a
 habit of doing it.The hard part of startups is product: knowing what to b...</description>
       <guid isPermaLink="false">https://paulgraham.com/prepare.html</guid>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making Startups Powerful</title>
+      <link>https://paulgraham.com/powerful.html</link>
+      <description>One of the most useful heuristics I have when doing office hours&#13;
+with startups is to ask: what would make this company more powerful?&#13;
+Asking how the company could make more money is a good heuristic&#13;
+too, but it tends to yield incremental improvements. Whereas thinking&#13;
+about how to make it more powerful will sometimes make it orders&#13;
+of magnitude more valuable.There are a lot of different variants of this question, depending&#13;
+on the type of company. Is there a way to transform the company&#13;
+fr...</description>
+      <guid isPermaLink="false">https://paulgraham.com/powerful.html</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose Time and Money</title>
