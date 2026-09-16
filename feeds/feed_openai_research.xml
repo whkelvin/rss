@@ -8,22 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 08:09:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:57:23 +0000</lastBuildDate>
     <item>
-      <title>Navier Stokes Solution</title>
-      <link>https://openai.com/index/navier-stokes-solution/</link>
-      <description>Navier Stokes Solution</description>
-      <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
       <category>Research</category>
-      <pubDate>Wed, 16 Sep 2026 06:38:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 6 Astra</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>Gpt 6 Astra</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 15 Sep 2026 23:58:03 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 12:50:58 +0000</pubDate>
     </item>
     <item>
       <title>Reasoning Models Chain of Thought Controllability</title>
@@ -31,7 +23,7 @@
       <description>Reasoning Models Chain of Thought Controllability</description>
       <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
       <category>Research</category>
-      <pubDate>Tue, 15 Sep 2026 21:47:09 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 12:50:47 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -39,7 +31,7 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Tue, 15 Sep 2026 21:47:09 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 12:50:46 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Genebench Pro</title>
@@ -47,7 +39,15 @@
       <description>Introducing Genebench Pro</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro/</guid>
       <category>Research</category>
-      <pubDate>Tue, 15 Sep 2026 21:47:06 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 12:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 6 Astra</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Gpt 6 Astra</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 16 Sep 2026 12:50:37 +0000</pubDate>
     </item>
     <item>
       <title>Research Acceleration View Inside Openai</title>
@@ -55,7 +55,7 @@
       <description>Research Acceleration View Inside Openai</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
-      <pubDate>Tue, 15 Sep 2026 21:46:58 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 12:50:35 +0000</pubDate>
     </item>
     <item>
       <title>An Alien Mind</title>
@@ -63,15 +63,15 @@
       <description>An Alien Mind</description>
       <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
       <category>Research</category>
-      <pubDate>Tue, 15 Sep 2026 21:46:56 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 12:50:34 +0000</pubDate>
     </item>
     <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <title>Navier Stokes Solution</title>
+      <link>https://openai.com/index/navier-stokes-solution/</link>
+      <description>Navier Stokes Solution</description>
+      <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
       <category>Research</category>
-      <pubDate>Tue, 15 Sep 2026 21:46:55 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 12:50:30 +0000</pubDate>
     </item>
     <item>
       <title>Introducing New Capabilities to Gpt Rosalind</title>
