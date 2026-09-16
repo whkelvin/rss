@@ -8,14 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:27:50 +0000</lastBuildDate>
     <item>
-      <title>Navier Stokes Solution</title>
-      <link>https://openai.com/index/navier-stokes-solution/</link>
-      <description>Navier Stokes Solution</description>
-      <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
+      <title>Model Misalignment Reporting Framework</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
+      <description>Model Misalignment Reporting Framework</description>
+      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
       <category>Research</category>
-      <pubDate>Wed, 16 Sep 2026 14:51:03 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 23:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Alien Mind</title>
+      <link>https://openai.com/index/an-alien-mind/</link>
+      <description>An Alien Mind</description>
+      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 16 Sep 2026 22:02:55 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt for Academic Researchers</title>
@@ -23,7 +31,15 @@
       <description>Chatgpt for Academic Researchers</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
       <category>Research</category>
-      <pubDate>Wed, 16 Sep 2026 12:50:58 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 21:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navier Stokes Solution</title>
+      <link>https://openai.com/index/navier-stokes-solution/</link>
+      <description>Navier Stokes Solution</description>
+      <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 16 Sep 2026 14:51:03 +0000</pubDate>
     </item>
     <item>
       <title>Reasoning Models Chain of Thought Controllability</title>
@@ -64,14 +80,6 @@
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
       <pubDate>Wed, 16 Sep 2026 12:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Alien Mind</title>
-      <link>https://openai.com/index/an-alien-mind/</link>
-      <description>An Alien Mind</description>
-      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 16 Sep 2026 12:50:34 +0000</pubDate>
     </item>
     <item>
       <title>Introducing New Capabilities to Gpt Rosalind</title>
