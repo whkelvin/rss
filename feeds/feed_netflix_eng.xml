@@ -13,7 +13,18 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:34:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:52:21 +0000</lastBuildDate>
+    <item>
+      <title>Leave the Class Path in the Rearview Mirror</title>
+      <link>https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be</link>
+      <description>Introducing composable, module system native and agent friendly command line tools for modern Java development</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be</guid>
+      <category>software-engineering</category>
+      <category>jvm</category>
+      <category>software-development</category>
+      <category>java</category>
+      <pubDate>Fri, 18 Sep 2026 16:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>MAPS: Netflix’s Multimodal Asset Personalization at Scale</title>
       <link>https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e</link>
@@ -109,17 +120,6 @@
       <description>ByZhuoning Yuan,Ta-Ying Cheng,Benjamin Klein,Bahareh Azarnoush</description>
       <guid isPermaLink="false">https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2</guid>
       <pubDate>Tue, 23 Jun 2026 00:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Netflix Simplified Batch Compute with Kueue</title>
-      <link>https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c</link>
-      <description>ByAlvin Bao,Alex Petrov,Jennifer Lai,Aidan Sherr, andSamartha Chandrashekar</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c</guid>
-      <category>kueue</category>
-      <category>netflix</category>
-      <category>aws</category>
-      <category>kubernetes</category>
-      <pubDate>Mon, 22 Jun 2026 21:35:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
