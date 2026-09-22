@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:35:39 +0000</lastBuildDate>
     <item>
       <title>Frontier Red Team</title>
       <link>https://www.anthropic.com/research/team/frontier-red-team</link>
@@ -122,9 +122,9 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ScienceAug 10, 2026Learning more about Claude's mathematical capabilitiesAn unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis.</title>
+      <title>Aug 10, 2026ScienceLearning more about Claude's mathematical capabilities</title>
       <link>https://www.anthropic.com/research/riemann-zeta</link>
-      <description>ScienceAug 10, 2026Learning more about Claude's mathematical capabilitiesAn unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis.</description>
+      <description>Aug 10, 2026ScienceLearning more about Claude's mathematical capabilities</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/riemann-zeta</guid>
       <category>Research</category>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
