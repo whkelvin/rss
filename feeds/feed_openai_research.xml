@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 19:26:53 +0000</lastBuildDate>
     <item>
-      <title>An Alien Mind</title>
-      <link>https://openai.com/index/an-alien-mind/</link>
-      <description>An Alien Mind</description>
-      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
+      <title>Gpt 6 Astra</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Gpt 6 Astra</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 13:30:49 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 19:26:23 +0000</pubDate>
     </item>
     <item>
       <title>Evaluating Chain of Thought Monitorability</title>
@@ -23,15 +23,7 @@
       <description>Evaluating Chain of Thought Monitorability</description>
       <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 10:53:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontierscience</title>
-      <link>https://openai.com/index/frontierscience/</link>
-      <description>Frontierscience</description>
-      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 10:53:12 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 19:00:21 +0000</pubDate>
     </item>
     <item>
       <title>Gdpval</title>
@@ -39,7 +31,15 @@
       <description>Gdpval</description>
       <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 10:53:12 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 19:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontierscience</title>
+      <link>https://openai.com/index/frontierscience/</link>
+      <description>Frontierscience</description>
+      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 22 Sep 2026 19:00:20 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Indqa</title>
@@ -47,23 +47,7 @@
       <description>Introducing Indqa</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 10:53:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Misalignment Reporting Framework</title>
-      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
-      <description>Model Misalignment Reporting Framework</description>
-      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 09:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 6 Astra</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>Gpt 6 Astra</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 08:14:27 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 19:00:15 +0000</pubDate>
     </item>
     <item>
       <title>Reasoning Models Chain of Thought Controllability</title>
@@ -71,7 +55,7 @@
       <description>Reasoning Models Chain of Thought Controllability</description>
       <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 07:55:22 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 18:49:13 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -79,7 +63,7 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 07:55:21 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 18:49:12 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Genebench Pro</title>
@@ -87,15 +71,7 @@
       <description>Introducing Genebench Pro</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 07:55:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 07:55:12 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 18:49:09 +0000</pubDate>
     </item>
     <item>
       <title>Research Acceleration View Inside Openai</title>
@@ -103,7 +79,15 @@
       <description>Research Acceleration View Inside Openai</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 07:55:12 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 18:49:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 22 Sep 2026 18:49:00 +0000</pubDate>
     </item>
     <item>
       <title>Navier Stokes Solution</title>
@@ -111,21 +95,45 @@
       <description>Navier Stokes Solution</description>
       <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
       <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 07:55:04 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 18:48:55 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing New Capabilities to Gpt Rosalind</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
-      <description>Introducing New Capabilities to Gpt Rosalind</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+      <title>Model Misalignment Reporting Framework</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
+      <description>Model Misalignment Reporting Framework</description>
+      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
       <category>Research</category>
-      <pubDate>Fri, 18 Sep 2026 17:55:51 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 18:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Alien Mind</title>
+      <link>https://openai.com/index/an-alien-mind/</link>
+      <description>An Alien Mind</description>
+      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 22 Sep 2026 18:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Gpt 6 Sol and Luna</title>
+      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
+      <description>Introducing Gpt 6 Sol and Luna</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 22 Sep 2026 18:29:33 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt Memory Dreaming</title>
       <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
       <description>Chatgpt Memory Dreaming</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 22 Sep 2026 17:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing New Capabilities to Gpt Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
+      <description>Introducing New Capabilities to Gpt Rosalind</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
       <category>Research</category>
       <pubDate>Fri, 18 Sep 2026 17:55:51 +0000</pubDate>
     </item>
