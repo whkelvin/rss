@@ -8,14 +8,54 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:07:06 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Gpt 6 Sol and Luna</title>
+      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
+      <description>Introducing Gpt 6 Sol and Luna</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 23 Sep 2026 18:07:05 +0000</pubDate>
+    </item>
     <item>
       <title>Gpt 6 Astra</title>
       <link>https://openai.com/index/gpt-6-astra/</link>
       <description>Gpt 6 Astra</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
       <category>Research</category>
-      <pubDate>Wed, 23 Sep 2026 01:53:07 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 18:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Alien Mind</title>
+      <link>https://openai.com/index/an-alien-mind/</link>
+      <description>An Alien Mind</description>
+      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 23 Sep 2026 15:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Models Chain of Thought Controllability</title>
+      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
+      <description>Reasoning Models Chain of Thought Controllability</description>
+      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 23 Sep 2026 15:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research Acceleration View Inside Openai</title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
+      <description>Research Acceleration View Inside Openai</description>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 23 Sep 2026 15:53:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model Misalignment Reporting Framework</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
+      <description>Model Misalignment Reporting Framework</description>
+      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 23 Sep 2026 15:53:08 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt for Academic Researchers</title>
@@ -24,14 +64,6 @@
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
       <category>Research</category>
       <pubDate>Tue, 22 Sep 2026 22:05:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Gpt 6 Sol and Luna</title>
-      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
-      <description>Introducing Gpt 6 Sol and Luna</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 21:56:35 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Gpt Rosalind</title>
@@ -74,14 +106,6 @@
       <pubDate>Tue, 22 Sep 2026 19:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>Reasoning Models Chain of Thought Controllability</title>
-      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
-      <description>Reasoning Models Chain of Thought Controllability</description>
-      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 18:49:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Advancing Independent Research Ai Alignment</title>
       <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
       <description>Advancing Independent Research Ai Alignment</description>
@@ -98,36 +122,12 @@
       <pubDate>Tue, 22 Sep 2026 18:49:09 +0000</pubDate>
     </item>
     <item>
-      <title>Research Acceleration View Inside Openai</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
-      <description>Research Acceleration View Inside Openai</description>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 18:49:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Navier Stokes Solution</title>
       <link>https://openai.com/index/navier-stokes-solution/</link>
       <description>Navier Stokes Solution</description>
       <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
       <category>Research</category>
       <pubDate>Tue, 22 Sep 2026 18:48:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Misalignment Reporting Framework</title>
-      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
-      <description>Model Misalignment Reporting Framework</description>
-      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 18:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Alien Mind</title>
-      <link>https://openai.com/index/an-alien-mind/</link>
-      <description>An Alien Mind</description>
-      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 22 Sep 2026 18:48:52 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt Memory Dreaming</title>
