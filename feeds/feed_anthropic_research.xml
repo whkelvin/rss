@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 19:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:54:22 +0000</lastBuildDate>
     <item>
       <title>Frontier Red Team</title>
       <link>https://www.anthropic.com/research/team/frontier-red-team</link>
@@ -48,6 +48,14 @@
       <description>Alignment</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/alignment</guid>
       <category>Research</category>
+    </item>
+    <item>
+      <title>Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?</title>
+      <link>https://www.anthropic.com/research/project-swap</link>
+      <description>Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/project-swap</guid>
+      <category>Research</category>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling</title>
@@ -120,14 +128,6 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</guid>
       <category>Research</category>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aug 10, 2026ScienceLearning more about Claude's mathematical capabilities</title>
-      <link>https://www.anthropic.com/research/riemann-zeta</link>
-      <description>Aug 10, 2026ScienceLearning more about Claude's mathematical capabilities</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/riemann-zeta</guid>
-      <category>Research</category>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
