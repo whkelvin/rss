@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:41:03 +0000</lastBuildDate>
+    <item>
+      <title>Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute</title>
+      <link>https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252</link>
+      <description>ByDhruv Pratap</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252</guid>
+      <category>identity</category>
+      <category>aws-emr</category>
+      <category>apache-spark</category>
+      <category>cloud</category>
+      <category>security</category>
+      <pubDate>Fri, 25 Sep 2026 16:01:03 +0000</pubDate>
+    </item>
     <item>
       <title>Leave the Class Path in the Rearview Mirror</title>
       <link>https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be</link>
@@ -113,13 +125,6 @@
       <category>machine-learning</category>
       <category>large-language-models</category>
       <pubDate>Mon, 29 Jun 2026 13:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix</title>
-      <link>https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2</link>
-      <description>ByZhuoning Yuan,Ta-Ying Cheng,Benjamin Klein,Bahareh Azarnoush</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2</guid>
-      <pubDate>Tue, 23 Jun 2026 00:31:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
