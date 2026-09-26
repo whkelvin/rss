@@ -8,14 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 08:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:32:26 +0000</lastBuildDate>
     <item>
       <title>Research Acceleration View Inside Openai</title>
       <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
       <description>Research Acceleration View Inside Openai</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
-      <pubDate>Sat, 26 Sep 2026 01:15:03 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 13:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Gpt 6 Sol and Luna</title>
+      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
+      <description>Introducing Gpt 6 Sol and Luna</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 26 Sep 2026 09:51:08 +0000</pubDate>
     </item>
     <item>
       <title>Scaling Social Science Research</title>
@@ -222,14 +230,6 @@
       <link>https://openai.com/index/gpt-6-astra/</link>
       <description>Gpt 6 Astra</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 19:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Gpt 6 Sol and Luna</title>
-      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
-      <description>Introducing Gpt 6 Sol and Luna</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
       <category>Research</category>
       <pubDate>Fri, 25 Sep 2026 19:18:10 +0000</pubDate>
     </item>
