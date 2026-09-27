@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 18:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 21:46:32 +0000</lastBuildDate>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 27 Sep 2026 21:36:16 +0000</pubDate>
+    </item>
     <item>
       <title>Research Acceleration View Inside Openai</title>
       <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
@@ -240,14 +248,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro/</guid>
       <category>Research</category>
       <pubDate>Fri, 25 Sep 2026 19:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 19:18:09 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Aardvark</title>
