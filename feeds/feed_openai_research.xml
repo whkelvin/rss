@@ -8,22 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 21:07:53 +0000</lastBuildDate>
-    <item>
-      <title>Research Acceleration View Inside Openai</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
-      <description>Research Acceleration View Inside Openai</description>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 30 Sep 2026 20:41:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 00:57:41 +0000</lastBuildDate>
     <item>
       <title>Reasoning Models Chain of Thought Controllability</title>
       <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
       <description>Reasoning Models Chain of Thought Controllability</description>
       <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
       <category>Research</category>
-      <pubDate>Wed, 30 Sep 2026 19:50:15 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 00:45:05 +0000</pubDate>
     </item>
     <item>
       <title>An Alien Mind</title>
@@ -31,7 +23,7 @@
       <description>An Alien Mind</description>
       <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
       <category>Research</category>
-      <pubDate>Wed, 30 Sep 2026 19:50:05 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 00:44:56 +0000</pubDate>
     </item>
     <item>
       <title>Model Misalignment Reporting Framework</title>
@@ -39,7 +31,71 @@
       <description>Model Misalignment Reporting Framework</description>
       <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
       <category>Research</category>
-      <pubDate>Wed, 30 Sep 2026 19:50:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 00:44:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research Acceleration View Inside Openai</title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
+      <description>Research Acceleration View Inside Openai</description>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>How People Are Using Chatgpt</title>
+      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
+      <description>How People Are Using Chatgpt</description>
+      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:29:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browsecomp</title>
+      <link>https://openai.com/index/browsecomp/</link>
+      <description>Browsecomp</description>
+      <guid isPermaLink="false">https://openai.com/index/browsecomp/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Enterprise Ai 2025 Report</title>
+      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
+      <description>The State of Enterprise Ai 2025 Report</description>
+      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sora 2</title>
+      <link>https://openai.com/index/sora-2/</link>
+      <description>Sora 2</description>
+      <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Aardvark</title>
+      <link>https://openai.com/index/introducing-aardvark/</link>
+      <description>Introducing Aardvark</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:28:52 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Gpt 6 Sol and Luna</title>
@@ -82,14 +138,6 @@
       <pubDate>Fri, 25 Sep 2026 19:33:52 +0000</pubDate>
     </item>
     <item>
-      <title>How People Are Using Chatgpt</title>
-      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
-      <description>How People Are Using Chatgpt</description>
-      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 19:33:52 +0000</pubDate>
-    </item>
-    <item>
       <title>What Parameter Golf Taught Us</title>
       <link>https://openai.com/index/what-parameter-golf-taught-us/</link>
       <description>What Parameter Golf Taught Us</description>
@@ -104,22 +152,6 @@
       <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</guid>
       <category>Research</category>
       <pubDate>Fri, 25 Sep 2026 19:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Browsecomp</title>
-      <link>https://openai.com/index/browsecomp/</link>
-      <description>Browsecomp</description>
-      <guid isPermaLink="false">https://openai.com/index/browsecomp/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 19:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sora 2</title>
-      <link>https://openai.com/index/sora-2/</link>
-      <description>Sora 2</description>
-      <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 19:18:32 +0000</pubDate>
     </item>
     <item>
       <title>Our Approach to the Model Spec</title>
@@ -176,14 +208,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-rosalind/</guid>
       <category>Research</category>
       <pubDate>Fri, 25 Sep 2026 19:18:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 19:18:13 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Evmbench</title>
@@ -250,14 +274,6 @@
       <pubDate>Fri, 25 Sep 2026 19:18:11 +0000</pubDate>
     </item>
     <item>
-      <title>The State of Enterprise Ai 2025 Report</title>
-      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
-      <description>The State of Enterprise Ai 2025 Report</description>
-      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 19:18:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Gpt 5 Lowers Protein Synthesis Cost</title>
       <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
       <description>Gpt 5 Lowers Protein Synthesis Cost</description>
@@ -274,28 +290,12 @@
       <pubDate>Fri, 25 Sep 2026 19:18:10 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Aardvark</title>
-      <link>https://openai.com/index/introducing-aardvark/</link>
-      <description>Introducing Aardvark</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 19:18:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing the Model Spec</title>
       <link>https://openai.com/index/introducing-the-model-spec/</link>
       <description>Introducing the Model Spec</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
       <category>Research</category>
       <pubDate>Fri, 25 Sep 2026 18:56:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 25 Sep 2026 17:20:54 +0000</pubDate>
     </item>
     <item>
       <title>Frontierscience</title>
