@@ -8,54 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:55:10 +0000</lastBuildDate>
     <item>
-      <title>Browsecomp</title>
-      <link>https://openai.com/index/browsecomp/</link>
-      <description>Browsecomp</description>
-      <guid isPermaLink="false">https://openai.com/index/browsecomp/</guid>
+      <title>Introducing Evmbench</title>
+      <link>https://openai.com/index/introducing-evmbench/</link>
+      <description>Introducing Evmbench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
       <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 12:38:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 12:38:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Enterprise Ai 2025 Report</title>
-      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
-      <description>The State of Enterprise Ai 2025 Report</description>
-      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 12:38:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sora 2</title>
-      <link>https://openai.com/index/sora-2/</link>
-      <description>Sora 2</description>
-      <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 12:38:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Aardvark</title>
-      <link>https://openai.com/index/introducing-aardvark/</link>
-      <description>Introducing Aardvark</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 12:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 12:37:24 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:29 +0000</pubDate>
     </item>
     <item>
       <title>How People Are Using Chatgpt</title>
@@ -63,39 +23,7 @@
       <description>How People Are Using Chatgpt</description>
       <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
       <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 12:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research Acceleration View Inside Openai</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
-      <description>Research Acceleration View Inside Openai</description>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 05:19:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Life Sci Bench</title>
-      <link>https://openai.com/index/introducing-life-sci-bench/</link>
-      <description>Introducing Life Sci Bench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
-      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</link>
-      <description>How Two Settings Tripled Our Arc Agi 3 Scores</description>
-      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Approach to the Model Spec</title>
-      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
-      <description>Our Approach to the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:24 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:25 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 5 Lowers Protein Synthesis Cost</title>
@@ -103,15 +31,15 @@
       <description>Gpt 5 Lowers Protein Synthesis Cost</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:23 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:23 +0000</pubDate>
     </item>
     <item>
-      <title>New Result Theoretical Physics</title>
-      <link>https://openai.com/index/new-result-theoretical-physics/</link>
-      <description>New Result Theoretical Physics</description>
-      <guid isPermaLink="false">https://openai.com/index/new-result-theoretical-physics/</guid>
+      <title>Our Approach to the Model Spec</title>
+      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
+      <description>Our Approach to the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:20 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:22 +0000</pubDate>
     </item>
     <item>
       <title>Scaling Social Science Research</title>
@@ -119,15 +47,31 @@
       <description>Scaling Social Science Research</description>
       <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:19 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:19 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Evmbench</title>
-      <link>https://openai.com/index/introducing-evmbench/</link>
-      <description>Introducing Evmbench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
+      <title>Browsecomp</title>
+      <link>https://openai.com/index/browsecomp/</link>
+      <description>Browsecomp</description>
+      <guid isPermaLink="false">https://openai.com/index/browsecomp/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:19 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Result Theoretical Physics</title>
+      <link>https://openai.com/index/new-result-theoretical-physics/</link>
+      <description>New Result Theoretical Physics</description>
+      <guid isPermaLink="false">https://openai.com/index/new-result-theoretical-physics/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:21:05 +0000</pubDate>
     </item>
     <item>
       <title>Extending Single Minus Amplitudes to Gravitons</title>
@@ -135,15 +79,15 @@
       <description>Extending Single Minus Amplitudes to Gravitons</description>
       <guid isPermaLink="false">https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:17 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:03 +0000</pubDate>
     </item>
     <item>
-      <title>Separating Signal From Noise Coding Evaluations</title>
-      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
-      <description>Separating Signal From Noise Coding Evaluations</description>
-      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
+      <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</link>
+      <description>How Two Settings Tripled Our Arc Agi 3 Scores</description>
+      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:15 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:01 +0000</pubDate>
     </item>
     <item>
       <title>Scientific Computing Agentic Ai</title>
@@ -151,7 +95,15 @@
       <description>Scientific Computing Agentic Ai</description>
       <guid isPermaLink="false">https://openai.com/index/scientific-computing-agentic-ai/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:14 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Life Sci Bench</title>
+      <link>https://openai.com/index/introducing-life-sci-bench/</link>
+      <description>Introducing Life Sci Bench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:21:00 +0000</pubDate>
     </item>
     <item>
       <title>Reasoning Models Chain of Thought Controllability</title>
@@ -159,7 +111,7 @@
       <description>Reasoning Models Chain of Thought Controllability</description>
       <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:14 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:21:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Genebench Pro</title>
@@ -167,7 +119,7 @@
       <description>Introducing Genebench Pro</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:20:59 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -175,7 +127,23 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:12 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:20:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Separating Signal From Noise Coding Evaluations</title>
+      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
+      <description>Separating Signal From Noise Coding Evaluations</description>
+      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:20:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research Acceleration View Inside Openai</title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
+      <description>Research Acceleration View Inside Openai</description>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:20:58 +0000</pubDate>
     </item>
     <item>
       <title>Navier Stokes Solution</title>
@@ -183,31 +151,7 @@
       <description>Navier Stokes Solution</description>
       <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
       <category>Research</category>
-      <pubDate>Fri, 02 Oct 2026 06:09:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 6 Astra</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>Gpt 6 Astra</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 01 Oct 2026 18:53:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Alien Mind</title>
-      <link>https://openai.com/index/an-alien-mind/</link>
-      <description>An Alien Mind</description>
-      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 01 Oct 2026 18:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 01 Oct 2026 18:52:56 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:20:57 +0000</pubDate>
     </item>
     <item>
       <title>Model Misalignment Reporting Framework</title>
@@ -215,7 +159,63 @@
       <description>Model Misalignment Reporting Framework</description>
       <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
       <category>Research</category>
-      <pubDate>Thu, 01 Oct 2026 18:52:55 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 6 Astra</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Gpt 6 Astra</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Alien Mind</title>
+      <link>https://openai.com/index/an-alien-mind/</link>
+      <description>An Alien Mind</description>
+      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Enterprise Ai 2025 Report</title>
+      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
+      <description>The State of Enterprise Ai 2025 Report</description>
+      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:05:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:05:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sora 2</title>
+      <link>https://openai.com/index/sora-2/</link>
+      <description>Sora 2</description>
+      <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:05:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Aardvark</title>
+      <link>https://openai.com/index/introducing-aardvark/</link>
+      <description>Introducing Aardvark</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 03 Oct 2026 13:05:19 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Openai Privacy Filter</title>
