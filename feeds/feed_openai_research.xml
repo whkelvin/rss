@@ -8,7 +8,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:55:01 +0000</lastBuildDate>
+    <item>
+      <title>Gpt 6 Astra</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Gpt 6 Astra</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 04 Oct 2026 17:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Alien Mind</title>
+      <link>https://openai.com/index/an-alien-mind/</link>
+      <description>An Alien Mind</description>
+      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 04 Oct 2026 17:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model Misalignment Reporting Framework</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
+      <description>Model Misalignment Reporting Framework</description>
+      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 04 Oct 2026 17:39:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 04 Oct 2026 17:39:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navier Stokes Solution</title>
+      <link>https://openai.com/index/navier-stokes-solution/</link>
+      <description>Navier Stokes Solution</description>
+      <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 04 Oct 2026 17:39:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research Acceleration View Inside Openai</title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
+      <description>Research Acceleration View Inside Openai</description>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 04 Oct 2026 17:39:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Separating Signal From Noise Coding Evaluations</title>
+      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
+      <description>Separating Signal From Noise Coding Evaluations</description>
+      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
+      <category>Research</category>
+      <pubDate>Sun, 04 Oct 2026 17:39:52 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing Evmbench</title>
       <link>https://openai.com/index/introducing-evmbench/</link>
@@ -128,62 +184,6 @@
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
       <pubDate>Sat, 03 Oct 2026 13:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Separating Signal From Noise Coding Evaluations</title>
-      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
-      <description>Separating Signal From Noise Coding Evaluations</description>
-      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 13:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research Acceleration View Inside Openai</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
-      <description>Research Acceleration View Inside Openai</description>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 13:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navier Stokes Solution</title>
-      <link>https://openai.com/index/navier-stokes-solution/</link>
-      <description>Navier Stokes Solution</description>
-      <guid isPermaLink="false">https://openai.com/index/navier-stokes-solution/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 13:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Misalignment Reporting Framework</title>
-      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
-      <description>Model Misalignment Reporting Framework</description>
-      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 13:16:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 6 Astra</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>Gpt 6 Astra</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 13:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 13:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Alien Mind</title>
-      <link>https://openai.com/index/an-alien-mind/</link>
-      <description>An Alien Mind</description>
-      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Oct 2026 13:16:25 +0000</pubDate>
     </item>
     <item>
       <title>The State of Enterprise Ai 2025 Report</title>
