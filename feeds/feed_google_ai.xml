@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:47:20 +0000</lastBuildDate>
-    <item>
-      <title>Colab is now part of your Google AI plan</title>
-      <link>https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/google-one-banner-v2.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.</description>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Introducing Support for Local AI Models in the Antigravity SDK</title>
-      <link>https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/agy_litrt.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures, allowing a cloud model to act as a lightweight planner while local models securely handle token-intensive tasks—like code auditing and patching—directly on-device. Furthermore, the SDK provides drop-in support for OpenAI-compatible inference servers like Ollama and vLLM, enabling the seamless creation of privacy-first, autonomous local utilities.</description>
-      <category>AI</category>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 16:38:17 +0000</lastBuildDate>
     <item>
       <title>Turn your REST APIs into MCP tools with Google Cloud API Gateway</title>
       <link>https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/</link>
@@ -38,6 +26,20 @@
       <link>https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/</link>
       <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/header_2_UVrdPMU.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or temporal sparse masks. Translating this algorithmic sparsity into physical hardware speedups on TPUs required optimizing the Splash Attention kernel by bypassing empty memory tiles, restricting exact coordinate masking strictly to boundary tiles, and permuting token memory layouts into temporal-major order for contiguous access. By aligning these sparse masks with actual hardware tile execution, the combined optimizations significantly reduced wasted matrix operations and achieved up to a 1.69x end-to-end inference speedup for 1440p video generation.</description>
       <category>AI</category>
+    </item>
+    <item>
+      <title>Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon</title>
+      <link>https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_rwc022rwc02.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).</description>
+      <category>Gemini</category>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 4 Argon for Robotics</title>
+      <link>https://developers.googleblog.com/gemini-4-argon-for-robotics/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google's developer platforms—including Google AI Studio, the Gemini API, and Google Antigravity—to build and test sophisticated robotic applications. By leveraging simulation tools like MuJoCo and code-as-policies, engineers can seamlessly transition from real-world data or sketches to physically verified robot control and self-improvement workflows.</description>
+      <category>AI</category>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent</title>
