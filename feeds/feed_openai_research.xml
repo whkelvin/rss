@@ -8,7 +8,87 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:41:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:53:44 +0000</lastBuildDate>
+    <item>
+      <title>Frontierscience</title>
+      <link>https://openai.com/index/frontierscience/</link>
+      <description>Frontierscience</description>
+      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 19:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gdpval</title>
+      <link>https://openai.com/index/gdpval/</link>
+      <description>Gdpval</description>
+      <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 19:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 19:46:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Chain of Thought Monitorability</title>
+      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
+      <description>Evaluating Chain of Thought Monitorability</description>
+      <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 19:46:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientific Computing Agentic Ai</title>
+      <link>https://openai.com/index/scientific-computing-agentic-ai/</link>
+      <description>Scientific Computing Agentic Ai</description>
+      <guid isPermaLink="false">https://openai.com/index/scientific-computing-agentic-ai/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 19:45:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Separating Signal From Noise Coding Evaluations</title>
+      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
+      <description>Separating Signal From Noise Coding Evaluations</description>
+      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 19:45:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extending Single Minus Amplitudes to Gravitons</title>
+      <link>https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</link>
+      <description>Extending Single Minus Amplitudes to Gravitons</description>
+      <guid isPermaLink="false">https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 18:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evals Drive Next Chapter of Ai</title>
+      <link>https://openai.com/index/evals-drive-next-chapter-of-ai/</link>
+      <description>Evals Drive Next Chapter of Ai</description>
+      <guid isPermaLink="false">https://openai.com/index/evals-drive-next-chapter-of-ai/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 18:34:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deployment Simulation</title>
+      <link>https://openai.com/index/deployment-simulation/</link>
+      <description>Deployment Simulation</description>
+      <guid isPermaLink="false">https://openai.com/index/deployment-simulation/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 18:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 14 Oct 2026 16:45:35 +0000</pubDate>
+    </item>
     <item>
       <title>Chatgpt Memory Dreaming</title>
       <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
@@ -26,28 +106,12 @@
       <pubDate>Tue, 13 Oct 2026 21:00:45 +0000</pubDate>
     </item>
     <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 19:00:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Gpt 6 Astra</title>
       <link>https://openai.com/index/gpt-6-astra/</link>
       <description>Gpt 6 Astra</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
       <category>Research</category>
       <pubDate>Tue, 13 Oct 2026 15:47:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientific Computing Agentic Ai</title>
-      <link>https://openai.com/index/scientific-computing-agentic-ai/</link>
-      <description>Scientific Computing Agentic Ai</description>
-      <guid isPermaLink="false">https://openai.com/index/scientific-computing-agentic-ai/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:38 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Genebench Pro</title>
@@ -154,28 +218,12 @@
       <pubDate>Tue, 13 Oct 2026 15:13:14 +0000</pubDate>
     </item>
     <item>
-      <title>Extending Single Minus Amplitudes to Gravitons</title>
-      <link>https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</link>
-      <description>Extending Single Minus Amplitudes to Gravitons</description>
-      <guid isPermaLink="false">https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing New Capabilities to Gpt Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
       <description>Introducing New Capabilities to Gpt Rosalind</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
       <category>Research</category>
       <pubDate>Tue, 13 Oct 2026 15:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deployment Simulation</title>
-      <link>https://openai.com/index/deployment-simulation/</link>
-      <description>Deployment Simulation</description>
-      <guid isPermaLink="false">https://openai.com/index/deployment-simulation/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:10 +0000</pubDate>
     </item>
     <item>
       <title>The State of Enterprise Ai 2025 Report</title>
@@ -266,14 +314,6 @@
       <pubDate>Tue, 13 Oct 2026 15:13:07 +0000</pubDate>
     </item>
     <item>
-      <title>Separating Signal From Noise Coding Evaluations</title>
-      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
-      <description>Separating Signal From Noise Coding Evaluations</description>
-      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Accelerating Biological Research in the Wet Lab</title>
       <link>https://openai.com/index/accelerating-biological-research-in-the-wet-lab/</link>
       <description>Accelerating Biological Research in the Wet Lab</description>
@@ -314,14 +354,6 @@
       <pubDate>Tue, 13 Oct 2026 14:21:42 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
-      <category>Research</category>
-      <pubDate>Fri, 09 Oct 2026 20:29:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Why Language Models Hallucinate</title>
       <link>https://openai.com/index/why-language-models-hallucinate/</link>
       <description>Why Language Models Hallucinate</description>
@@ -338,36 +370,12 @@
       <pubDate>Fri, 09 Oct 2026 04:59:21 +0000</pubDate>
     </item>
     <item>
-      <title>Gdpval</title>
-      <link>https://openai.com/index/gdpval/</link>
-      <description>Gdpval</description>
-      <guid isPermaLink="false">https://openai.com/index/gdpval/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 08 Oct 2026 23:15:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing the Model Spec</title>
       <link>https://openai.com/index/introducing-the-model-spec/</link>
       <description>Introducing the Model Spec</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
       <category>Research</category>
       <pubDate>Fri, 25 Sep 2026 18:56:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontierscience</title>
-      <link>https://openai.com/index/frontierscience/</link>
-      <description>Frontierscience</description>
-      <guid isPermaLink="false">https://openai.com/index/frontierscience/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 24 Sep 2026 07:34:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluating Chain of Thought Monitorability</title>
-      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
-      <description>Evaluating Chain of Thought Monitorability</description>
-      <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 24 Sep 2026 07:34:51 +0000</pubDate>
     </item>
     <item>
       <title>Understanding Neural Networks Through Sparse Circuits</title>
@@ -392,14 +400,6 @@
       <guid isPermaLink="false">https://openai.com/index/gpt-4-1/</guid>
       <category>Research</category>
       <pubDate>Sat, 25 Jul 2026 07:07:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evals Drive Next Chapter of Ai</title>
-      <link>https://openai.com/index/evals-drive-next-chapter-of-ai/</link>
-      <description>Evals Drive Next Chapter of Ai</description>
-      <guid isPermaLink="false">https://openai.com/index/evals-drive-next-chapter-of-ai/</guid>
-      <category>Research</category>
-      <pubDate>Sat, 25 Jul 2026 07:06:50 +0000</pubDate>
     </item>
     <item>
       <title>Why We No Longer Evaluate Swe Bench Verified</title>
