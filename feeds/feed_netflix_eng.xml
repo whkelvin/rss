@@ -13,118 +13,115 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:53:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:54:30 +0000</lastBuildDate>
     <item>
-      <title>Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute</title>
-      <link>https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252</link>
-      <description>ByDhruv Pratap</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252</guid>
-      <category>identity</category>
-      <category>aws-emr</category>
-      <category>apache-spark</category>
-      <category>cloud</category>
-      <category>security</category>
-      <pubDate>Fri, 25 Sep 2026 16:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leave the Class Path in the Rearview Mirror</title>
-      <link>https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be</link>
-      <description>Introducing composable, module system native and agent friendly command line tools for modern Java development</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be</guid>
-      <category>software-engineering</category>
-      <category>jvm</category>
-      <category>software-development</category>
-      <category>java</category>
-      <pubDate>Fri, 18 Sep 2026 16:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAPS: Netflix’s Multimodal Asset Personalization at Scale</title>
-      <link>https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e</link>
-      <description>ByEmma Yanyang Kong,Aditya Deshpande,Asad Abbasi,Bowei Yan,David Fagnan,Ashish Rastogi,Dhaval Patel,Ray Zhang</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e</guid>
-      <category>personalization</category>
+      <title>Integrating Netflix’s Foundation Model into Personalization applications</title>
+      <link>https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb</link>
+      <description>Authors:Divya Gadde,Ko-Jen Hsiao,Dhaval PatelandMoumita Bhattacharya</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb</guid>
+      <category>machine-learning</category>
       <category>embedding</category>
-      <category>machine-learning</category>
+      <category>transformer-model</category>
       <category>netflix</category>
-      <category>multimodal</category>
-      <pubDate>Fri, 28 Aug 2026 16:01:02 +0000</pubDate>
+      <category>foundation-models</category>
+      <pubDate>Wed, 14 Oct 2026 20:02:22 +0000</pubDate>
     </item>
     <item>
-      <title>A Tale of Two Flink Autoscalers</title>
-      <link>https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b</link>
-      <description>Samuel Yeboah,Francesco Di ChiaraandMingliang Liu</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b</guid>
-      <category>autoscaling</category>
-      <category>stream-processing</category>
-      <category>operational-excellence</category>
-      <category>apache-flink</category>
-      <pubDate>Fri, 21 Aug 2026 16:01:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…</title>
-      <link>https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607</link>
-      <description>Authors:Nilesh MishraandAjit Koti</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607</guid>
-      <pubDate>Fri, 07 Aug 2026 16:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modeling Device Capabilities for Analytics</title>
-      <link>https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8</link>
-      <description>byAarti Laddha,Richard Diaz-Cool,Rishika Idnani,Venkatesh Selveraj</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8</guid>
-      <category>data-engineering</category>
-      <category>devices</category>
-      <category>data-modeling</category>
+      <title>DataJunction as Netflix’s answer to the missing piece of the modern data stack</title>
+      <link>https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5</link>
+      <description>byOlek Gorajek,Samuel Redai,Yian Shang</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5</guid>
       <category>analytics</category>
-      <pubDate>Fri, 31 Jul 2026 16:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>GenRec: Towards LLM-Native Recommendation at Netflix</title>
-      <link>https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</link>
-      <description>Authors:Ying Li,Arjun Rao,Shradha Sehgal</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</guid>
-      <category>netflix</category>
-      <category>genai</category>
-      <category>recommendation-system</category>
-      <category>llm</category>
-      <category>large-language-models</category>
-      <pubDate>Thu, 30 Jul 2026 20:10:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>In-House LLM Serving at Netflix</title>
-      <link>https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c</link>
-      <description>By AI Platform’s Model Runtime team and Inference team</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c</guid>
-      <category>ai</category>
-      <category>platform-engineering</category>
-      <category>netflix</category>
-      <category>model-serving</category>
-      <category>llm</category>
-      <pubDate>Fri, 17 Jul 2026 21:32:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned</title>
-      <link>https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8</link>
-      <description>ByParth Jain,Rakesh Sukumar,Yingwu Zhao,Renzo Sanchez-Silva&amp;Nathan FisherA deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale: from streaming architectures and distributed aggregation pipelines to time-travel queries and the methodology that mad</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8</guid>
-      <category>backend-development</category>
-      <category>distributed-systems</category>
+      <category>modern-data-stack</category>
+      <category>open-source</category>
       <category>data-engineering</category>
-      <category>observability</category>
-      <category>software-engineering</category>
-      <pubDate>Mon, 13 Jul 2026 22:44:11 +0000</pubDate>
+      <category>semantic-layer</category>
+      <pubDate>Wed, 14 Oct 2026 19:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>GenPage: Towards End-to-End Generative Homepage Construction at Netflix</title>
-      <link>https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08</link>
-      <description>Authors:Lequn Wang, Jiangwei Pan, andLinas Baltrunas</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08</guid>
+      <title>Measuring the Impact of Personalized Recommendations</title>
+      <link>https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96</link>
+      <description>By Kevin Zielnicki, Guy Aridor, Aurélien Bibaut, Allen Tran, Winston Chou, and Nathan Kallus</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96</guid>
+      <category>economics</category>
+      <category>consumer-behavior</category>
       <category>recommendation-system</category>
+      <category>recommender-systems</category>
+      <category>personalization</category>
+      <pubDate>Wed, 14 Oct 2026 19:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads</title>
+      <link>https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60</link>
+      <description>ByOleksii Tkachuk,Rajiv Shringi,Chris Lohfink,Abe Ratnofsky,Kartik Sathyanarayanan</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60</guid>
+      <pubDate>Wed, 14 Oct 2026 19:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II</title>
+      <link>https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb</link>
+      <description>ByYogesh Nagarur</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb</guid>
+      <pubDate>Wed, 14 Oct 2026 19:51:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix Conductor: The Next Chapter</title>
+      <link>https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649</link>
+      <description>byAravindan Ramkumaron behalf of the Conductor team</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649</guid>
+      <category>workflow</category>
+      <category>distributed-systems</category>
+      <category>orchestration</category>
+      <category>cassandra</category>
+      <category>netflix-conductor</category>
+      <pubDate>Wed, 14 Oct 2026 19:50:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Running Apache Spark experiments in my sleep (and on a plane)</title>
+      <link>https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8</link>
+      <description>ByPrashanth Gedde Narayanaswamy</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8</guid>
+      <category>apache-spark</category>
+      <category>performance-optimization</category>
+      <category>generative-ai-tools</category>
+      <category>data-pipeline</category>
+      <pubDate>Wed, 14 Oct 2026 19:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale</title>
+      <link>https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508</link>
+      <description>ByEmma Yanyang Kong,JJ Tan,Ishan Gupta,Lars Olds,Claire Campbell,David Fagnan,Ratna Kavuri,Rohan Gosain,Veli Balin,Minsu Jang,Louis Garcia</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508</guid>
+      <category>human-in-the-loop</category>
       <category>ai</category>
-      <category>netflix</category>
+      <category>llm</category>
+      <category>llm-as-a-judge</category>
+      <category>recommendation-system</category>
+      <pubDate>Wed, 14 Oct 2026 19:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix Stratum Media Processing: Automated Container Right-Sizing</title>
+      <link>https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801</link>
+      <description>ByVioletta PidvolotskaandNaveen Mareddy</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801</guid>
+      <category>software-engineering</category>
+      <category>cloud-computing</category>
+      <category>serverless</category>
+      <category>cost-optimization</category>
+      <category>resource-management</category>
+      <pubDate>Wed, 14 Oct 2026 19:48:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reliable GPU compute for large training &amp; inference jobs</title>
+      <link>https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a</link>
+      <description>Authors:Nick Rutigliano,Argha C,Samartha Chandrashekar</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a</guid>
+      <category>site-reliability</category>
+      <category>gpu</category>
       <category>machine-learning</category>
-      <category>large-language-models</category>
-      <pubDate>Mon, 29 Jun 2026 13:01:02 +0000</pubDate>
+      <category>cost-efficiency</category>
+      <category>artificial-intelligence</category>
+      <pubDate>Wed, 14 Oct 2026 19:47:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
