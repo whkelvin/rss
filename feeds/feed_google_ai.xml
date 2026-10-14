@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:57:01 +0000</lastBuildDate>
     <item>
       <title>Turn your REST APIs into MCP tools with Google Cloud API Gateway</title>
       <link>https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/</link>
