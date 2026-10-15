@@ -8,14 +8,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:48:05 +0000</lastBuildDate>
+    <item>
+      <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</link>
+      <description>How Two Settings Tripled Our Arc Agi 3 Scores</description>
+      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Oct 2026 19:47:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>How People Are Using Chatgpt</title>
+      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
+      <description>How People Are Using Chatgpt</description>
+      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Oct 2026 19:39:05 +0000</pubDate>
+    </item>
     <item>
       <title>How Confessions Can Keep Language Models Honest</title>
       <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
       <description>How Confessions Can Keep Language Models Honest</description>
       <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
       <category>Research</category>
-      <pubDate>Thu, 15 Oct 2026 17:28:32 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 17:44:11 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 5 Lowers Protein Synthesis Cost</title>
@@ -40,14 +56,6 @@
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
       <pubDate>Thu, 15 Oct 2026 15:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How People Are Using Chatgpt</title>
-      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
-      <description>How People Are Using Chatgpt</description>
-      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 15 Oct 2026 15:02:06 +0000</pubDate>
     </item>
     <item>
       <title>Sharing Ai Progress in Mathematics</title>
@@ -254,14 +262,6 @@
       <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
       <description>The State of Enterprise Ai 2025 Report</description>
       <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
-      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</link>
-      <description>How Two Settings Tripled Our Arc Agi 3 Scores</description>
-      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</guid>
       <category>Research</category>
       <pubDate>Tue, 13 Oct 2026 15:13:10 +0000</pubDate>
     </item>
