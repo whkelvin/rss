@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:09:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:48:20 +0000</lastBuildDate>
     <item>
       <title>Reproducing Olmo 3 7B Pre-training in MaxText: case study of large scale training on TPUs</title>
       <link>https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/</link>
