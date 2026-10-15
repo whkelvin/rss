@@ -8,14 +8,54 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:32:21 +0000</lastBuildDate>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Oct 2026 17:28:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
+      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
+      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Oct 2026 16:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Social Science Research</title>
+      <link>https://openai.com/index/scaling-social-science-research/</link>
+      <description>Scaling Social Science Research</description>
+      <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Oct 2026 15:02:33 +0000</pubDate>
+    </item>
     <item>
       <title>Research Acceleration View Inside Openai</title>
       <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
       <description>Research Acceleration View Inside Openai</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
-      <pubDate>Wed, 14 Oct 2026 23:16:44 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 15:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>How People Are Using Chatgpt</title>
+      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
+      <description>How People Are Using Chatgpt</description>
+      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Oct 2026 15:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharing Ai Progress in Mathematics</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
+      <description>Sharing Ai Progress in Mathematics</description>
+      <guid isPermaLink="false">https://openai.com/index/sharing-ai-progress-in-mathematics/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Oct 2026 14:03:27 +0000</pubDate>
     </item>
     <item>
       <title>Model Misalignment Reporting Framework</title>
@@ -162,14 +202,6 @@
       <pubDate>Tue, 13 Oct 2026 15:13:30 +0000</pubDate>
     </item>
     <item>
-      <title>Gpt 5 Lowers Protein Synthesis Cost</title>
-      <link>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</link>
-      <description>Gpt 5 Lowers Protein Synthesis Cost</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:28 +0000</pubDate>
-    </item>
-    <item>
       <title>New Result Theoretical Physics</title>
       <link>https://openai.com/index/new-result-theoretical-physics/</link>
       <description>New Result Theoretical Physics</description>
@@ -200,30 +232,6 @@
       <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
       <category>Research</category>
       <pubDate>Tue, 13 Oct 2026 15:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Social Science Research</title>
-      <link>https://openai.com/index/scaling-social-science-research/</link>
-      <description>Scaling Social Science Research</description>
-      <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How People Are Using Chatgpt</title>
-      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
-      <description>How People Are Using Chatgpt</description>
-      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:14 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Evmbench</title>
@@ -304,14 +312,6 @@
       <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
       <category>Research</category>
       <pubDate>Tue, 13 Oct 2026 15:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sharing Ai Progress in Mathematics</title>
-      <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
-      <description>Sharing Ai Progress in Mathematics</description>
-      <guid isPermaLink="false">https://openai.com/index/sharing-ai-progress-in-mathematics/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 13 Oct 2026 15:13:07 +0000</pubDate>
     </item>
     <item>
       <title>Navier Stokes Solution</title>
