@@ -13,7 +13,17 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 18:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:43:45 +0000</lastBuildDate>
+    <item>
+      <title>Scaling Radar: Fighting fraud with agent-assisted machine learning</title>
+      <link>https://stripe.dev/blog/scaling-radar-fighting-fraud-with-agent-assisted-machine-learning</link>
+      <description>How Stripe scaled fraud detection and improved it with rapid agent-assisted experimentation for the Radar product.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/scaling-radar-fighting-fraud-with-agent-assisted-machine-learning</guid>
+      <category>Engineering</category>
+      <category>AI Research</category>
+      <category>AI</category>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Go from idea to company without leaving your development workflow</title>
       <link>https://stripe.dev/blog/go-from-idea-to-company-with-atlas</link>
@@ -118,15 +128,6 @@
       <category>AI</category>
       <category>Best Practices</category>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From init to deploy: building with agents and Stripe Projects</title>
-      <link>https://stripe.dev/blog/building-with-agents-stripe-projects</link>
-      <description>Stripe Projects makes it easy to spin up a useful, complex application that uses various SaaS providers. This post describes how one of our developer advocates built an internal transcript editing application using Stripe Projects, Vercel, and OpenRouter.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/building-with-agents-stripe-projects</guid>
-      <category>AI</category>
-      <category>Partners</category>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
