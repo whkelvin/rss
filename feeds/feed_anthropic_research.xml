@@ -13,7 +13,49 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:57:44 +0000</lastBuildDate>
+    <item>
+      <title>Learning more about Claude's mathematical capabilities</title>
+      <link>https://www.anthropic.com/research/riemann-zeta</link>
+      <description>Learning more about Claude's mathematical capabilities</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/riemann-zeta</guid>
+      <category>Research</category>
+    </item>
+    <item>
+      <title>Reviewing the evidence on worker retraining programs</title>
+      <link>https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</link>
+      <description>Reviewing the evidence on worker retraining programs</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</guid>
+      <category>Research</category>
+    </item>
+    <item>
+      <title>Patterns and problems in emerging multiagent systems</title>
+      <link>https://www.anthropic.com/research/multiagent-systems</link>
+      <description>Patterns and problems in emerging multiagent systems</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/multiagent-systems</guid>
+      <category>Research</category>
+    </item>
+    <item>
+      <title>How Claude is accelerating protein design and analytical chemistry</title>
+      <link>https://www.anthropic.com/research/Claude-accelerates-protein-design</link>
+      <description>How Claude is accelerating protein design and analytical chemistry</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/Claude-accelerates-protein-design</guid>
+      <category>Research</category>
+    </item>
+    <item>
+      <title>Enabling independent research on how people use Claude</title>
+      <link>https://www.anthropic.com/research/enabling-independent-research</link>
+      <description>Enabling independent research on how people use Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/enabling-independent-research</guid>
+      <category>Research</category>
+    </item>
+    <item>
+      <title>Automated researchers can reliably mitigate alignment failures</title>
+      <link>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</link>
+      <description>Automated researchers can reliably mitigate alignment failures</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</guid>
+      <category>Research</category>
+    </item>
     <item>
       <title>Formalizing Fermat's Last Theorem</title>
       <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
@@ -29,13 +71,6 @@
       <category>Research</category>
     </item>
     <item>
-      <title>Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</title>
-      <link>https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</link>
-      <description>Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</guid>
-      <category>Research</category>
-    </item>
-    <item>
       <title>How Claude is uplifting biomolecular modeling</title>
       <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
       <description>How Claude is uplifting biomolecular modeling</description>
@@ -47,27 +82,6 @@
       <link>https://www.anthropic.com/research/claude-discovers-novel-enzyme-system</link>
       <description>Claude discovers a novel enzyme system with CRISPR-like repeats</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/claude-discovers-novel-enzyme-system</guid>
-      <category>Research</category>
-    </item>
-    <item>
-      <title>Project Swap: What happens when agents trade for us?</title>
-      <link>https://www.anthropic.com/research/project-swap</link>
-      <description>Project Swap: What happens when agents trade for us?</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/project-swap</guid>
-      <category>Research</category>
-    </item>
-    <item>
-      <title>Yes, Claude can do Nine Loops</title>
-      <link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
-      <description>Yes, Claude can do Nine Loops</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</guid>
-      <category>Research</category>
-    </item>
-    <item>
-      <title>GLM-5.3 and the spread of advanced cyber capabilities</title>
-      <link>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</link>
-      <description>GLM-5.3 and the spread of advanced cyber capabilities</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</guid>
       <category>Research</category>
     </item>
     <item>
@@ -92,31 +106,10 @@
       <category>Research</category>
     </item>
     <item>
-      <title>Launching an opt-in vulnerability-finding service for open-source software</title>
-      <link>https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</link>
-      <description>Launching an opt-in vulnerability-finding service for open-source software</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</guid>
-      <category>Research</category>
-    </item>
-    <item>
-      <title>The missing map of the sky</title>
-      <link>https://www.anthropic.com/research/the-missing-map-of-the-sky</link>
-      <description>The missing map of the sky</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/the-missing-map-of-the-sky</guid>
-      <category>Research</category>
-    </item>
-    <item>
       <title>Investigating unintended model actions in our evaluations and internal use</title>
       <link>https://www.anthropic.com/research/investigating-unintended-model-actions</link>
       <description>Investigating unintended model actions in our evaluations and internal use</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/investigating-unintended-model-actions</guid>
-      <category>Research</category>
-    </item>
-    <item>
-      <title>AI models may be capable of self-replicating without access to a datacenter</title>
-      <link>https://www.anthropic.com/research/self-replicating-ai</link>
-      <description>AI models may be capable of self-replicating without access to a datacenter</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/self-replicating-ai</guid>
       <category>Research</category>
     </item>
     <item>
@@ -145,13 +138,6 @@
       <link>https://www.anthropic.com/research/employment-at-anthropic</link>
       <description>How employment is changing at Anthropic</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/employment-at-anthropic</guid>
-      <category>Research</category>
-    </item>
-    <item>
-      <title>Claude reveals ECDSA curve origins</title>
-      <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
-      <description>Claude reveals ECDSA curve origins</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/ecdsa-curve-origins</guid>
       <category>Research</category>
     </item>
     <item>
@@ -202,30 +188,6 @@
       <description>Alignment</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/alignment</guid>
       <category>Research</category>
-    </item>
-    <item>
-      <title>Natural Language Autoencoders: Turning Claude’s thoughts into text</title>
-      <link>https://www.anthropic.com/research/natural-language-autoencoders</link>
-      <description>Natural Language Autoencoders: Turning Claude’s thoughts into text</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/natural-language-autoencoders</guid>
-      <category>Research</category>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emotion concepts and their function in a large language model</title>
-      <link>https://www.anthropic.com/research/emotion-concepts-function</link>
-      <description>Emotion concepts and their function in a large language model</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/emotion-concepts-function</guid>
-      <category>Research</category>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Project Vend: Phase two</title>
-      <link>https://www.anthropic.com/research/project-vend-2</link>
-      <description>Project Vend: Phase two</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/project-vend-2</guid>
-      <category>Research</category>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
