@@ -13,7 +13,16 @@
       <link>https://stripe.dev/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:50:41 +0000</lastBuildDate>
+    <item>
+      <title>Your AI agent can move money in Stripe - here's how to stay in control</title>
+      <link>https://stripe.dev/blog/your-ai-agent-can-move-money-in-stripe</link>
+      <description>With Stripe’s MCP server, AI agents can build your checkout page, run financial reports, and automate refunds or price adjustments. Now, agents can even send money to others, using Stripe Treasury.</description>
+      <guid isPermaLink="false">https://stripe.dev/blog/your-ai-agent-can-move-money-in-stripe</guid>
+      <category>AI</category>
+      <category>Agentic Commerce</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Scaling Radar: Fighting fraud with agent-assisted machine learning</title>
       <link>https://stripe.dev/blog/scaling-radar-fighting-fraud-with-agent-assisted-machine-learning</link>
@@ -119,15 +128,6 @@
       <category>AI</category>
       <category>Partners</category>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You can't whisper at an AI agent</title>
-      <link>https://stripe.dev/blog/ai-steering-experiments</link>
-      <description>What a dozen steering experiments taught us about how LLM-based agents actually behave in the wild.</description>
-      <guid isPermaLink="false">https://stripe.dev/blog/ai-steering-experiments</guid>
-      <category>AI</category>
-      <category>Best Practices</category>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
