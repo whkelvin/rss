@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 21:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:18:08 +0000</lastBuildDate>
+    <item>
+      <title>Single-tenant Titus: VM-level isolation on a multi-tenant container platform</title>
+      <link>https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163</link>
+      <description>Samartha Chandrashekar&amp;Nick Parker</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163</guid>
+      <category>containers</category>
+      <category>virtual-machine</category>
+      <category>kubernetes</category>
+      <category>isolation</category>
+      <category>compute-platform</category>
+      <pubDate>Thu, 22 Oct 2026 22:19:12 +0000</pubDate>
+    </item>
     <item>
       <title>Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale</title>
       <link>https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf</link>
@@ -109,18 +121,6 @@
       <category>llm-as-a-judge</category>
       <category>recommendation-system</category>
       <pubDate>Wed, 14 Oct 2026 19:48:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netflix Stratum Media Processing: Automated Container Right-Sizing</title>
-      <link>https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801</link>
-      <description>ByVioletta PidvolotskaandNaveen Mareddy</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801</guid>
-      <category>software-engineering</category>
-      <category>cloud-computing</category>
-      <category>serverless</category>
-      <category>cost-optimization</category>
-      <category>resource-management</category>
-      <pubDate>Wed, 14 Oct 2026 19:48:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

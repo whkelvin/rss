@@ -13,14 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 21:04:04 +0000</lastBuildDate>
-    <item>
-      <title>Learning more about Claude's mathematical capabilities</title>
-      <link>https://www.anthropic.com/research/riemann-zeta</link>
-      <description>Learning more about Claude's mathematical capabilities</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/riemann-zeta</guid>
-      <category>Research</category>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 00:19:44 +0000</lastBuildDate>
     <item>
       <title>Reviewing the evidence on worker retraining programs</title>
       <link>https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</link>
@@ -152,6 +145,13 @@
       <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
       <description>How Claude designed protein binders against scorpion neurotoxins</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</guid>
+      <category>Research</category>
+    </item>
+    <item>
+      <title>LLMs are making formal software verification feasible at a much larger scale</title>
+      <link>https://www.anthropic.com/research/formal-verification</link>
+      <description>LLMs are making formal software verification feasible at a much larger scale</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/formal-verification</guid>
       <category>Research</category>
     </item>
     <item>
