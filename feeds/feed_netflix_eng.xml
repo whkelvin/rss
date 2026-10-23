@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:40:56 +0000</lastBuildDate>
+    <item>
+      <title>Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes</title>
+      <link>https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90</link>
+      <description>ByRoberto Perez Alcolea, Java Platform Team</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90</guid>
+      <category>developer-tools</category>
+      <category>api-design</category>
+      <category>software-engineering</category>
+      <category>code-analysis</category>
+      <category>java</category>
+      <pubDate>Fri, 23 Oct 2026 18:32:51 +0000</pubDate>
+    </item>
     <item>
       <title>Single-tenant Titus: VM-level isolation on a multi-tenant container platform</title>
       <link>https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163</link>
@@ -109,18 +121,6 @@
       <category>generative-ai-tools</category>
       <category>data-pipeline</category>
       <pubDate>Wed, 14 Oct 2026 19:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale</title>
-      <link>https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508</link>
-      <description>ByEmma Yanyang Kong,JJ Tan,Ishan Gupta,Lars Olds,Claire Campbell,David Fagnan,Ratna Kavuri,Rohan Gosain,Veli Balin,Minsu Jang,Louis Garcia</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508</guid>
-      <category>human-in-the-loop</category>
-      <category>ai</category>
-      <category>llm</category>
-      <category>llm-as-a-judge</category>
-      <category>recommendation-system</category>
-      <pubDate>Wed, 14 Oct 2026 19:48:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
