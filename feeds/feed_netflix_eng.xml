@@ -13,7 +13,26 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:30:49 +0000</lastBuildDate>
+    <item>
+      <title>Making Failure Diagnosis Reliable with Pensive AI</title>
+      <link>https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015</link>
+      <description>ByPraneeth Yenugutala,Victor Dusa,Anastasia Samoilova,Megan Ren,Justin Wei,Marcelo Mayworm</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015</guid>
+      <category>pensive</category>
+      <category>data-engineering</category>
+      <category>maestros</category>
+      <category>orchestration</category>
+      <category>data-science</category>
+      <pubDate>Mon, 26 Oct 2026 17:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi‑Ratio Video Resizing for Mobile Feed and Marketing</title>
+      <link>https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49</link>
+      <description>Serdar Cellat,Yuchen Xie,Bernadette Marcu,Blaid Burgess,Cody Jarrett,Carlos Pereira,Qing Shi,Samuel Carvajal,Manuel Pamplona,Dorothy Jung,Feiko Ritsema,Benjamin Klein,Alex Woo,Eugene Lok,Anna Pulido,Rebecka Swe,Sanford Holsapple</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49</guid>
+      <pubDate>Mon, 26 Oct 2026 16:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes</title>
       <link>https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90</link>
@@ -98,29 +117,6 @@
       <description>ByYogesh Nagarur</description>
       <guid isPermaLink="false">https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb</guid>
       <pubDate>Wed, 14 Oct 2026 19:51:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netflix Conductor: The Next Chapter</title>
-      <link>https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649</link>
-      <description>byAravindan Ramkumaron behalf of the Conductor team</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649</guid>
-      <category>workflow</category>
-      <category>distributed-systems</category>
-      <category>orchestration</category>
-      <category>cassandra</category>
-      <category>netflix-conductor</category>
-      <pubDate>Wed, 14 Oct 2026 19:50:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Running Apache Spark experiments in my sleep (and on a plane)</title>
-      <link>https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8</link>
-      <description>ByPrashanth Gedde Narayanaswamy</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8</guid>
-      <category>apache-spark</category>
-      <category>performance-optimization</category>
-      <category>generative-ai-tools</category>
-      <category>data-pipeline</category>
-      <pubDate>Wed, 14 Oct 2026 19:49:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
