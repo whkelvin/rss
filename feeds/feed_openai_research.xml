@@ -8,62 +8,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:22:25 +0000</lastBuildDate>
+    <item>
+      <title>Scaling Social Science Research</title>
+      <link>https://openai.com/index/scaling-social-science-research/</link>
+      <description>Scaling Social Science Research</description>
+      <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:22:23 +0000</pubDate>
+    </item>
     <item>
       <title>Chatgpt Expanding World of Work</title>
       <link>https://openai.com/index/chatgpt-expanding-world-of-work/</link>
       <description>Chatgpt Expanding World of Work</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work/</guid>
       <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:24:45 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:22:22 +0000</pubDate>
     </item>
     <item>
-      <title>Building Scientific Understanding With Academic Communities</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
-      <description>Building Scientific Understanding With Academic Communities</description>
-      <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
+      <title>Research Acceleration View Inside Openai</title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
+      <description>Research Acceleration View Inside Openai</description>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:24:43 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:22:20 +0000</pubDate>
     </item>
     <item>
-      <title>Gpt 6 Astra</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>Gpt 6 Astra</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
+      <title>Low Resource Programming Languages</title>
+      <link>https://openai.com/index/low-resource-programming-languages/</link>
+      <description>Low Resource Programming Languages</description>
+      <guid isPermaLink="false">https://openai.com/index/low-resource-programming-languages/</guid>
       <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:23:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:22:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientific Computing Agentic Ai</title>
-      <link>https://openai.com/index/scientific-computing-agentic-ai/</link>
-      <description>Scientific Computing Agentic Ai</description>
-      <guid isPermaLink="false">https://openai.com/index/scientific-computing-agentic-ai/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:21:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Parameter Golf Taught Us</title>
-      <link>https://openai.com/index/what-parameter-golf-taught-us/</link>
-      <description>What Parameter Golf Taught Us</description>
-      <guid isPermaLink="false">https://openai.com/index/what-parameter-golf-taught-us/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:21:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instruction Hierarchy Challenge</title>
-      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
-      <description>Instruction Hierarchy Challenge</description>
-      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:21:21 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:22:08 +0000</pubDate>
     </item>
     <item>
       <title>Why We No Longer Evaluate Swe Bench Verified</title>
@@ -71,23 +47,47 @@
       <description>Why We No Longer Evaluate Swe Bench Verified</description>
       <guid isPermaLink="false">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</guid>
       <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:20:59 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:22:06 +0000</pubDate>
     </item>
     <item>
-      <title>Strengthening Societal Resilience With Rosalind Biodefense</title>
-      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</link>
-      <description>Strengthening Societal Resilience With Rosalind Biodefense</description>
-      <guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</guid>
+      <title>Building Scientific Understanding With Academic Communities</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
+      <description>Building Scientific Understanding With Academic Communities</description>
+      <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
       <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:20:35 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:22:05 +0000</pubDate>
     </item>
     <item>
-      <title>The State of Enterprise Ai 2025 Report</title>
-      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
-      <description>The State of Enterprise Ai 2025 Report</description>
-      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
+      <title>How People Are Using Chatgpt</title>
+      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
+      <description>How People Are Using Chatgpt</description>
+      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
       <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:20:14 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Parameter Golf Taught Us</title>
+      <link>https://openai.com/index/what-parameter-golf-taught-us/</link>
+      <description>What Parameter Golf Taught Us</description>
+      <guid isPermaLink="false">https://openai.com/index/what-parameter-golf-taught-us/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientific Computing Agentic Ai</title>
+      <link>https://openai.com/index/scientific-computing-agentic-ai/</link>
+      <description>Scientific Computing Agentic Ai</description>
+      <guid isPermaLink="false">https://openai.com/index/scientific-computing-agentic-ai/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Model Spec</title>
+      <link>https://openai.com/index/introducing-the-model-spec/</link>
+      <description>Introducing the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:21:49 +0000</pubDate>
     </item>
     <item>
       <title>Scaling Ai Research for Complex Biological Data</title>
@@ -95,7 +95,175 @@
       <description>Scaling Ai Research for Complex Biological Data</description>
       <guid isPermaLink="false">https://openai.com/index/scaling-ai-research-for-complex-biological-data/</guid>
       <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:20:10 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Models Chain of Thought Controllability</title>
+      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
+      <description>Reasoning Models Chain of Thought Controllability</description>
+      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Separating Signal From Noise Coding Evaluations</title>
+      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
+      <description>Separating Signal From Noise Coding Evaluations</description>
+      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 6 Astra</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Gpt 6 Astra</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Rosalind Academic Plan</title>
+      <link>https://openai.com/index/introducing-the-rosalind-academic-plan/</link>
+      <description>Introducing the Rosalind Academic Plan</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-rosalind-academic-plan/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:19:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening Societal Resilience With Rosalind Biodefense</title>
+      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</link>
+      <description>Strengthening Societal Resilience With Rosalind Biodefense</description>
+      <guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:18:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Confessions Can Keep Language Models Honest</title>
+      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
+      <description>How Confessions Can Keep Language Models Honest</description>
+      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:14:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Chain of Thought Monitorability</title>
+      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
+      <description>Evaluating Chain of Thought Monitorability</description>
+      <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:14:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instruction Hierarchy Challenge</title>
+      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
+      <description>Instruction Hierarchy Challenge</description>
+      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 03:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Evmbench</title>
+      <link>https://openai.com/index/introducing-evmbench/</link>
+      <description>Introducing Evmbench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 02:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing Independent Research Ai Alignment</title>
+      <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
+      <description>Advancing Independent Research Ai Alignment</description>
+      <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Enterprise Ai 2025 Report</title>
+      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
+      <description>The State of Enterprise Ai 2025 Report</description>
+      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 02:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Language Models Hallucinate</title>
+      <link>https://openai.com/index/why-language-models-hallucinate/</link>
+      <description>Why Language Models Hallucinate</description>
+      <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 02:26:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model Misalignment Reporting Framework</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
+      <description>Model Misalignment Reporting Framework</description>
+      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 02:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Approach to the Model Spec</title>
+      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
+      <description>Our Approach to the Model Spec</description>
+      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 02:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Aardvark</title>
+      <link>https://openai.com/index/introducing-aardvark/</link>
+      <description>Introducing Aardvark</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 01:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerating Science Gpt 5</title>
+      <link>https://openai.com/index/accelerating-science-gpt-5/</link>
+      <description>Accelerating Science Gpt 5</description>
+      <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 01:07:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Alien Mind</title>
+      <link>https://openai.com/index/an-alien-mind/</link>
+      <description>An Alien Mind</description>
+      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 01:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing New Capabilities to Gpt Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
+      <description>Introducing New Capabilities to Gpt Rosalind</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 00:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Life Sci Bench</title>
+      <link>https://openai.com/index/introducing-life-sci-bench/</link>
+      <description>Introducing Life Sci Bench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 00:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Neural Networks Through Sparse Circuits</title>
+      <link>https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</link>
+      <description>Understanding Neural Networks Through Sparse Circuits</description>
+      <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 27 Oct 2026 23:40:36 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Indqa</title>
@@ -104,134 +272,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
       <category>Research</category>
       <pubDate>Tue, 27 Oct 2026 23:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Low Resource Programming Languages</title>
-      <link>https://openai.com/index/low-resource-programming-languages/</link>
-      <description>Low Resource Programming Languages</description>
-      <guid isPermaLink="false">https://openai.com/index/low-resource-programming-languages/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:18:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Alien Mind</title>
-      <link>https://openai.com/index/an-alien-mind/</link>
-      <description>An Alien Mind</description>
-      <guid isPermaLink="false">https://openai.com/index/an-alien-mind/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:18:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>How People Are Using Chatgpt</title>
-      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
-      <description>How People Are Using Chatgpt</description>
-      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:18:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Social Science Research</title>
-      <link>https://openai.com/index/scaling-social-science-research/</link>
-      <description>Scaling Social Science Research</description>
-      <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:17:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Confessions Can Keep Language Models Honest</title>
-      <link>https://openai.com/index/how-confessions-can-keep-language-models-honest/</link>
-      <description>How Confessions Can Keep Language Models Honest</description>
-      <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Science Gpt 5</title>
-      <link>https://openai.com/index/accelerating-science-gpt-5/</link>
-      <description>Accelerating Science Gpt 5</description>
-      <guid isPermaLink="false">https://openai.com/index/accelerating-science-gpt-5/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research Acceleration View Inside Openai</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
-      <description>Research Acceleration View Inside Openai</description>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:06:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Language Models Hallucinate</title>
-      <link>https://openai.com/index/why-language-models-hallucinate/</link>
-      <description>Why Language Models Hallucinate</description>
-      <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:06:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Misalignment Reporting Framework</title>
-      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
-      <description>Model Misalignment Reporting Framework</description>
-      <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Rosalind Academic Plan</title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan/</link>
-      <description>Introducing the Rosalind Academic Plan</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-rosalind-academic-plan/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reasoning Models Chain of Thought Controllability</title>
-      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
-      <description>Reasoning Models Chain of Thought Controllability</description>
-      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 23:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluating Chain of Thought Monitorability</title>
-      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability/</link>
-      <description>Evaluating Chain of Thought Monitorability</description>
-      <guid isPermaLink="false">https://openai.com/index/evaluating-chain-of-thought-monitorability/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 22:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Approach to the Model Spec</title>
-      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
-      <description>Our Approach to the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 22:53:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advancing Independent Research Ai Alignment</title>
-      <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
-      <description>Advancing Independent Research Ai Alignment</description>
-      <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 22:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Model Spec</title>
-      <link>https://openai.com/index/introducing-the-model-spec/</link>
-      <description>Introducing the Model Spec</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-model-spec/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 22:37:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Separating Signal From Noise Coding Evaluations</title>
-      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
-      <description>Separating Signal From Noise Coding Evaluations</description>
-      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 22:28:39 +0000</pubDate>
     </item>
     <item>
       <title>Model Disproves Discrete Geometry Conjecture</title>
@@ -346,14 +386,6 @@
       <pubDate>Tue, 27 Oct 2026 09:27:19 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing New Capabilities to Gpt Rosalind</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
-      <description>Introducing New Capabilities to Gpt Rosalind</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 09:26:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Detecting and Reducing Scheming in Ai Models</title>
       <link>https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</link>
       <description>Detecting and Reducing Scheming in Ai Models</description>
@@ -394,14 +426,6 @@
       <pubDate>Tue, 27 Oct 2026 09:11:44 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Aardvark</title>
-      <link>https://openai.com/index/introducing-aardvark/</link>
-      <description>Introducing Aardvark</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Oct 2026 09:11:01 +0000</pubDate>
-    </item>
-    <item>
       <title>First Proof Submissions</title>
       <link>https://openai.com/index/first-proof-submissions/</link>
       <description>First Proof Submissions</description>
@@ -416,30 +440,6 @@
       <guid isPermaLink="false">https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/</guid>
       <category>Research</category>
       <pubDate>Tue, 27 Oct 2026 09:08:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding Neural Networks Through Sparse Circuits</title>
-      <link>https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</link>
-      <description>Understanding Neural Networks Through Sparse Circuits</description>
-      <guid isPermaLink="false">https://openai.com/index/understanding-neural-networks-through-sparse-circuits/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 25 Oct 2026 19:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Evmbench</title>
-      <link>https://openai.com/index/introducing-evmbench/</link>
-      <description>Introducing Evmbench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-evmbench/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 25 Oct 2026 17:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Life Sci Bench</title>
-      <link>https://openai.com/index/introducing-life-sci-bench/</link>
-      <description>Introducing Life Sci Bench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 25 Oct 2026 17:03:11 +0000</pubDate>
     </item>
     <item>
       <title>Defining and Evaluating Political Bias in Llms</title>
