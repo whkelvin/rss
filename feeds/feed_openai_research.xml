@@ -8,30 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:30:33 +0000</lastBuildDate>
     <item>
       <title>Building Scientific Understanding With Academic Communities</title>
       <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
       <description>Building Scientific Understanding With Academic Communities</description>
       <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
       <category>Research</category>
-      <pubDate>Wed, 28 Oct 2026 16:58:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt Expanding World of Work</title>
-      <link>https://openai.com/index/chatgpt-expanding-world-of-work/</link>
-      <description>Chatgpt Expanding World of Work</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 28 Oct 2026 15:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 28 Oct 2026 14:44:22 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 21:30:25 +0000</pubDate>
     </item>
     <item>
       <title>Research Acceleration View Inside Openai</title>
@@ -39,7 +23,7 @@
       <description>Research Acceleration View Inside Openai</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
       <category>Research</category>
-      <pubDate>Wed, 28 Oct 2026 13:56:13 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 20:55:30 +0000</pubDate>
     </item>
     <item>
       <title>Scaling Social Science Research</title>
@@ -47,7 +31,47 @@
       <description>Scaling Social Science Research</description>
       <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
       <category>Research</category>
-      <pubDate>Wed, 28 Oct 2026 13:52:57 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 20:53:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Separating Signal From Noise Coding Evaluations</title>
+      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
+      <description>Separating Signal From Noise Coding Evaluations</description>
+      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 20:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 6 Astra</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Gpt 6 Astra</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 20:09:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why We No Longer Evaluate Swe Bench Verified</title>
+      <link>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</link>
+      <description>Why We No Longer Evaluate Swe Bench Verified</description>
+      <guid isPermaLink="false">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 20:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 18:35:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt Expanding World of Work</title>
+      <link>https://openai.com/index/chatgpt-expanding-world-of-work/</link>
+      <description>Chatgpt Expanding World of Work</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 28 Oct 2026 18:24:22 +0000</pubDate>
     </item>
     <item>
       <title>Introducing the Model Spec</title>
@@ -66,14 +90,6 @@
       <pubDate>Wed, 28 Oct 2026 13:28:51 +0000</pubDate>
     </item>
     <item>
-      <title>Why We No Longer Evaluate Swe Bench Verified</title>
-      <link>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</link>
-      <description>Why We No Longer Evaluate Swe Bench Verified</description>
-      <guid isPermaLink="false">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 28 Oct 2026 13:17:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Strengthening Societal Resilience With Rosalind Biodefense</title>
       <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</link>
       <description>Strengthening Societal Resilience With Rosalind Biodefense</description>
@@ -88,14 +104,6 @@
       <guid isPermaLink="false">https://openai.com/index/low-resource-programming-languages/</guid>
       <category>Research</category>
       <pubDate>Wed, 28 Oct 2026 13:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Separating Signal From Noise Coding Evaluations</title>
-      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
-      <description>Separating Signal From Noise Coding Evaluations</description>
-      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 28 Oct 2026 13:12:39 +0000</pubDate>
     </item>
     <item>
       <title>How People Are Using Chatgpt</title>
@@ -120,14 +128,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-the-rosalind-academic-plan/</guid>
       <category>Research</category>
       <pubDate>Wed, 28 Oct 2026 12:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 6 Astra</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>Gpt 6 Astra</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 28 Oct 2026 12:41:58 +0000</pubDate>
     </item>
     <item>
       <title>Scientific Computing Agentic Ai</title>
