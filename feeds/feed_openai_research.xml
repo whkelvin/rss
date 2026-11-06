@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:43:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:46:00 +0000</lastBuildDate>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
       <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Fri, 06 Nov 2026 11:43:49 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 18:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Lifeval</title>
@@ -23,23 +23,7 @@
       <description>Lifeval</description>
       <guid isPermaLink="false">https://openai.com/index/lifeval/</guid>
       <category>Research</category>
-      <pubDate>Thu, 05 Nov 2026 21:28:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 05 Nov 2026 21:04:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 6 Astra</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>Gpt 6 Astra</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 05 Nov 2026 18:18:18 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 17:33:04 +0000</pubDate>
     </item>
     <item>
       <title>Building Scientific Understanding With Academic Communities</title>
@@ -47,7 +31,7 @@
       <description>Building Scientific Understanding With Academic Communities</description>
       <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
       <category>Research</category>
-      <pubDate>Thu, 05 Nov 2026 18:18:15 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:27:30 +0000</pubDate>
     </item>
     <item>
       <title>Scaling Ai Research for Complex Biological Data</title>
@@ -55,7 +39,15 @@
       <description>Scaling Ai Research for Complex Biological Data</description>
       <guid isPermaLink="false">https://openai.com/index/scaling-ai-research-for-complex-biological-data/</guid>
       <category>Research</category>
-      <pubDate>Thu, 05 Nov 2026 18:17:41 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 06 Nov 2026 14:26:26 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt Expanding World of Work</title>
@@ -63,7 +55,15 @@
       <description>Chatgpt Expanding World of Work</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work/</guid>
       <category>Research</category>
-      <pubDate>Thu, 05 Nov 2026 18:17:37 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 6 Astra</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Gpt 6 Astra</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 06 Nov 2026 14:26:06 +0000</pubDate>
     </item>
     <item>
       <title>Accelerating Engineering for the Physical World</title>
