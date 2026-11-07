@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 23:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 03:58:37 +0000</lastBuildDate>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
       <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Fri, 06 Nov 2026 23:36:40 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 03:58:37 +0000</pubDate>
     </item>
     <item>
       <title>Lifeval</title>
@@ -23,7 +23,31 @@
       <description>Lifeval</description>
       <guid isPermaLink="false">https://openai.com/index/lifeval/</guid>
       <category>Research</category>
-      <pubDate>Fri, 06 Nov 2026 17:33:04 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 03:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>How People Are Using Chatgpt</title>
+      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
+      <description>How People Are Using Chatgpt</description>
+      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 07 Nov 2026 02:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Enterprise Ai 2025 Report</title>
+      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
+      <description>The State of Enterprise Ai 2025 Report</description>
+      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 07 Nov 2026 02:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Social Science Research</title>
+      <link>https://openai.com/index/scaling-social-science-research/</link>
+      <description>Scaling Social Science Research</description>
+      <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
+      <category>Research</category>
+      <pubDate>Sat, 07 Nov 2026 02:10:29 +0000</pubDate>
     </item>
     <item>
       <title>Building Scientific Understanding With Academic Communities</title>
@@ -274,14 +298,6 @@
       <pubDate>Thu, 05 Nov 2026 12:04:56 +0000</pubDate>
     </item>
     <item>
-      <title>How People Are Using Chatgpt</title>
-      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
-      <description>How People Are Using Chatgpt</description>
-      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 05 Nov 2026 12:04:56 +0000</pubDate>
-    </item>
-    <item>
       <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
       <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</link>
       <description>How Two Settings Tripled Our Arc Agi 3 Scores</description>
@@ -310,14 +326,6 @@
       <link>https://openai.com/index/research-acceleration-view-inside-openai/</link>
       <description>Research Acceleration View Inside Openai</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 05 Nov 2026 12:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Social Science Research</title>
-      <link>https://openai.com/index/scaling-social-science-research/</link>
-      <description>Scaling Social Science Research</description>
-      <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
       <category>Research</category>
       <pubDate>Thu, 05 Nov 2026 12:04:54 +0000</pubDate>
     </item>
@@ -432,14 +440,6 @@
       <guid isPermaLink="false">https://openai.com/index/first-proof-submissions/</guid>
       <category>Research</category>
       <pubDate>Wed, 04 Nov 2026 20:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Enterprise Ai 2025 Report</title>
-      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
-      <description>The State of Enterprise Ai 2025 Report</description>
-      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 04 Nov 2026 20:10:47 +0000</pubDate>
     </item>
     <item>
       <title>Deployment Simulation</title>
