@@ -13,7 +13,14 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:14:50 +0000</lastBuildDate>
+    <item>
+      <title>Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System</title>
+      <link>https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808</link>
+      <description>ByShreya S Ramanujam,Yongce Li,Afshine Amidi,Sina Ghiassian,Benjamin Klein.</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808</guid>
+      <pubDate>Mon, 09 Nov 2026 17:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>Making Failure Diagnosis Reliable with Pensive AI</title>
       <link>https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015</link>
@@ -110,13 +117,6 @@
       <description>ByOleksii Tkachuk,Rajiv Shringi,Chris Lohfink,Abe Ratnofsky,Kartik Sathyanarayanan</description>
       <guid isPermaLink="false">https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60</guid>
       <pubDate>Wed, 14 Oct 2026 19:56:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II</title>
-      <link>https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb</link>
-      <description>ByYogesh Nagarur</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb</guid>
-      <pubDate>Wed, 14 Oct 2026 19:51:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
