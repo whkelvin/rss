@@ -8,38 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:28:33 +0000</lastBuildDate>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
       <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 12:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lifeval</title>
-      <link>https://openai.com/index/lifeval/</link>
-      <description>Lifeval</description>
-      <guid isPermaLink="false">https://openai.com/index/lifeval/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 11:35:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Scientific Understanding With Academic Communities</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
-      <description>Building Scientific Understanding With Academic Communities</description>
-      <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 10:45:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Ai Research for Complex Biological Data</title>
-      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data/</link>
-      <description>Scaling Ai Research for Complex Biological Data</description>
-      <guid isPermaLink="false">https://openai.com/index/scaling-ai-research-for-complex-biological-data/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 10:45:40 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 19:28:33 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 6 Astra</title>
@@ -47,7 +23,15 @@
       <description>Gpt 6 Astra</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
       <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 10:45:37 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 19:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Scientific Understanding With Academic Communities</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
+      <description>Building Scientific Understanding With Academic Communities</description>
+      <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 10 Nov 2026 19:24:15 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt Expanding World of Work</title>
@@ -55,7 +39,31 @@
       <description>Chatgpt Expanding World of Work</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work/</guid>
       <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 10:45:35 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 19:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Ai Research for Complex Biological Data</title>
+      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data/</link>
+      <description>Scaling Ai Research for Complex Biological Data</description>
+      <guid isPermaLink="false">https://openai.com/index/scaling-ai-research-for-complex-biological-data/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 10 Nov 2026 19:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lifeval</title>
+      <link>https://openai.com/index/lifeval/</link>
+      <description>Lifeval</description>
+      <guid isPermaLink="false">https://openai.com/index/lifeval/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 10 Nov 2026 19:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerating Engineering for the Physical World</title>
+      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world/</link>
+      <description>Accelerating Engineering for the Physical World</description>
+      <guid isPermaLink="false">https://openai.com/index/accelerating-engineering-for-the-physical-world/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 10 Nov 2026 18:04:42 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt for Academic Researchers</title>
@@ -312,14 +320,6 @@
       <guid isPermaLink="false">https://openai.com/index/why-language-models-hallucinate/</guid>
       <category>Research</category>
       <pubDate>Sun, 08 Nov 2026 12:36:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Engineering for the Physical World</title>
-      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world/</link>
-      <description>Accelerating Engineering for the Physical World</description>
-      <guid isPermaLink="false">https://openai.com/index/accelerating-engineering-for-the-physical-world/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 08 Nov 2026 12:36:22 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Indqa</title>
