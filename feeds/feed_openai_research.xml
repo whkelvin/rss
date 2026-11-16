@@ -8,14 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:31:16 +0000</lastBuildDate>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
       <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Mon, 16 Nov 2026 00:35:47 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 07:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerating Engineering for the Physical World</title>
+      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world/</link>
+      <description>Accelerating Engineering for the Physical World</description>
+      <guid isPermaLink="false">https://openai.com/index/accelerating-engineering-for-the-physical-world/</guid>
+      <category>Research</category>
+      <pubDate>Mon, 16 Nov 2026 06:08:13 +0000</pubDate>
     </item>
     <item>
       <title>Lifeval</title>
@@ -23,7 +31,7 @@
       <description>Lifeval</description>
       <guid isPermaLink="false">https://openai.com/index/lifeval/</guid>
       <category>Research</category>
-      <pubDate>Sun, 15 Nov 2026 16:36:22 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 04:26:31 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Aardvark</title>
@@ -184,14 +192,6 @@
       <guid isPermaLink="false">https://openai.com/index/scaling-ai-research-for-complex-biological-data/</guid>
       <category>Research</category>
       <pubDate>Thu, 12 Nov 2026 22:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Engineering for the Physical World</title>
-      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world/</link>
-      <description>Accelerating Engineering for the Physical World</description>
-      <guid isPermaLink="false">https://openai.com/index/accelerating-engineering-for-the-physical-world/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 18:04:42 +0000</pubDate>
     </item>
     <item>
       <title>How People Are Using Chatgpt</title>
