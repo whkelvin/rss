@@ -13,7 +13,19 @@
       <link>https://netflixtechblog.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:56:52 +0000</lastBuildDate>
+    <item>
+      <title>Engineering AI Discover</title>
+      <link>https://netflixtechblog.com/engineering-ai-discover-e244944cdc38</link>
+      <description>The challenges and decisions behind AI Discover’s intelligence layer</description>
+      <guid isPermaLink="false">https://netflixtechblog.com/engineering-ai-discover-e244944cdc38</guid>
+      <category>ai-agent</category>
+      <category>artificial-intelligence</category>
+      <category>harness-engineering</category>
+      <category>recommendation-system</category>
+      <category>llm</category>
+      <pubDate>Tue, 17 Nov 2026 17:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System</title>
       <link>https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808</link>
@@ -110,13 +122,6 @@
       <category>recommender-systems</category>
       <category>personalization</category>
       <pubDate>Wed, 14 Oct 2026 19:57:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads</title>
-      <link>https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60</link>
-      <description>ByOleksii Tkachuk,Rajiv Shringi,Chris Lohfink,Abe Ratnofsky,Kartik Sathyanarayanan</description>
-      <guid isPermaLink="false">https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60</guid>
-      <pubDate>Wed, 14 Oct 2026 19:56:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
