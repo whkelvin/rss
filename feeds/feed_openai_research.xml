@@ -8,14 +8,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:33:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:32:01 +0000</lastBuildDate>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
       <link>https://openai.com/index/advancing-independent-research-ai-alignment/</link>
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Wed, 18 Nov 2026 09:33:50 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 18:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing Chip Design With Our Models</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
+      <description>Advancing Chip Design With Our Models</description>
+      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 18 Nov 2026 18:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</link>
+      <description>How Two Settings Tripled Our Arc Agi 3 Scores</description>
+      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 18 Nov 2026 17:22:04 +0000</pubDate>
     </item>
     <item>
       <title>Science at the Frontier</title>
@@ -23,15 +39,31 @@
       <description>Science at the Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/science-at-the-frontier/</guid>
       <category>Research</category>
-      <pubDate>Wed, 18 Nov 2026 06:53:47 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 16:44:03 +0000</pubDate>
     </item>
     <item>
-      <title>Expanding Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers/</link>
-      <description>Expanding Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/expanding-chatgpt-for-academic-researchers/</guid>
+      <title>Lifeval</title>
+      <link>https://openai.com/index/lifeval/</link>
+      <description>Lifeval</description>
+      <guid isPermaLink="false">https://openai.com/index/lifeval/</guid>
       <category>Research</category>
-      <pubDate>Wed, 18 Nov 2026 04:50:01 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 13:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 18 Nov 2026 13:50:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Scientific Understanding With Academic Communities</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
+      <description>Building Scientific Understanding With Academic Communities</description>
+      <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 18 Nov 2026 13:50:37 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 6 Astra</title>
@@ -39,7 +71,23 @@
       <description>Gpt 6 Astra</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
       <category>Research</category>
-      <pubDate>Tue, 17 Nov 2026 23:59:51 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 13:50:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt Expanding World of Work</title>
+      <link>https://openai.com/index/chatgpt-expanding-world-of-work/</link>
+      <description>Chatgpt Expanding World of Work</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 18 Nov 2026 13:50:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers/</link>
+      <description>Expanding Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/expanding-chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 18 Nov 2026 13:50:24 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Gpt 6 Sol and Luna</title>
@@ -48,38 +96,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
       <category>Research</category>
       <pubDate>Tue, 17 Nov 2026 23:58:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lifeval</title>
-      <link>https://openai.com/index/lifeval/</link>
-      <description>Lifeval</description>
-      <guid isPermaLink="false">https://openai.com/index/lifeval/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 17 Nov 2026 23:52:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Scientific Understanding With Academic Communities</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
-      <description>Building Scientific Understanding With Academic Communities</description>
-      <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 17 Nov 2026 23:52:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt Expanding World of Work</title>
-      <link>https://openai.com/index/chatgpt-expanding-world-of-work/</link>
-      <description>Chatgpt Expanding World of Work</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 17 Nov 2026 23:52:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 17 Nov 2026 23:52:20 +0000</pubDate>
     </item>
     <item>
       <title>Introducing the Rosalind Academic Plan</title>
@@ -368,14 +384,6 @@
       <guid isPermaLink="false">https://openai.com/index/how-confessions-can-keep-language-models-honest/</guid>
       <category>Research</category>
       <pubDate>Sun, 08 Nov 2026 12:36:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
-      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</link>
-      <description>How Two Settings Tripled Our Arc Agi 3 Scores</description>
-      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 08 Nov 2026 12:36:28 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Genebench Pro</title>
