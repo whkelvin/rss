@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 16:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:53:36 +0000</lastBuildDate>
     <item>
       <title>Research Acceleration Jagged Frontier</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
       <description>Research Acceleration Jagged Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier/</guid>
       <category>Research</category>
-      <pubDate>Fri, 20 Nov 2026 16:36:27 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 22:53:36 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -23,7 +23,39 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Fri, 20 Nov 2026 16:36:27 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 22:53:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Enterprise Ai 2025 Report</title>
+      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
+      <description>The State of Enterprise Ai 2025 Report</description>
+      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 20 Nov 2026 22:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Social Science Research</title>
+      <link>https://openai.com/index/scaling-social-science-research/</link>
+      <description>Scaling Social Science Research</description>
+      <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 20 Nov 2026 22:46:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>How People Are Using Chatgpt</title>
+      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
+      <description>How People Are Using Chatgpt</description>
+      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 20 Nov 2026 22:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Medchembench</title>
+      <link>https://openai.com/index/introducing-medchembench/</link>
+      <description>Introducing Medchembench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 20 Nov 2026 22:01:11 +0000</pubDate>
     </item>
     <item>
       <title>Science at the Frontier</title>
@@ -31,7 +63,15 @@
       <description>Science at the Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/science-at-the-frontier/</guid>
       <category>Research</category>
-      <pubDate>Fri, 20 Nov 2026 06:10:20 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 21:31:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 20 Nov 2026 19:19:41 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 6 Astra</title>
@@ -202,14 +242,6 @@
       <pubDate>Fri, 13 Nov 2026 19:46:57 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 12 Nov 2026 22:33:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Chatgpt Memory Dreaming</title>
       <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
       <description>Chatgpt Memory Dreaming</description>
@@ -232,30 +264,6 @@
       <guid isPermaLink="false">https://openai.com/index/scaling-ai-research-for-complex-biological-data/</guid>
       <category>Research</category>
       <pubDate>Thu, 12 Nov 2026 22:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>How People Are Using Chatgpt</title>
-      <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
-      <description>How People Are Using Chatgpt</description>
-      <guid isPermaLink="false">https://openai.com/index/how-people-are-using-chatgpt/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 08:38:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Social Science Research</title>
-      <link>https://openai.com/index/scaling-social-science-research/</link>
-      <description>Scaling Social Science Research</description>
-      <guid isPermaLink="false">https://openai.com/index/scaling-social-science-research/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 08:37:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Enterprise Ai 2025 Report</title>
-      <link>https://openai.com/index/the-state-of-enterprise-ai-2025-report/</link>
-      <description>The State of Enterprise Ai 2025 Report</description>
-      <guid isPermaLink="false">https://openai.com/index/the-state-of-enterprise-ai-2025-report/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 10 Nov 2026 08:37:41 +0000</pubDate>
     </item>
     <item>
       <title>New Result Theoretical Physics</title>
