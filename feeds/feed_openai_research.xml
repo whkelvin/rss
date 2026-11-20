@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:56:08 +0000</lastBuildDate>
     <item>
       <title>Research Acceleration Jagged Frontier</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
       <description>Research Acceleration Jagged Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier/</guid>
       <category>Research</category>
-      <pubDate>Fri, 20 Nov 2026 00:05:39 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 07:56:08 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -23,7 +23,15 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Fri, 20 Nov 2026 00:05:39 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 07:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Science at the Frontier</title>
+      <link>https://openai.com/index/science-at-the-frontier/</link>
+      <description>Science at the Frontier</description>
+      <guid isPermaLink="false">https://openai.com/index/science-at-the-frontier/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 20 Nov 2026 06:10:20 +0000</pubDate>
     </item>
     <item>
       <title>Gpt 6 Astra</title>
@@ -40,14 +48,6 @@
       <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
       <category>Research</category>
       <pubDate>Thu, 19 Nov 2026 20:29:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Science at the Frontier</title>
-      <link>https://openai.com/index/science-at-the-frontier/</link>
-      <description>Science at the Frontier</description>
-      <guid isPermaLink="false">https://openai.com/index/science-at-the-frontier/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 19 Nov 2026 15:48:43 +0000</pubDate>
     </item>
     <item>
       <title>Expanding Chatgpt for Academic Researchers</title>
