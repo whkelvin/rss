@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:17:23 +0000</lastBuildDate>
     <item>
       <title>Research Acceleration Jagged Frontier</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
       <description>Research Acceleration Jagged Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier/</guid>
       <category>Research</category>
-      <pubDate>Sun, 22 Nov 2026 20:09:21 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 01:17:23 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -23,7 +23,15 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Sun, 22 Nov 2026 20:09:21 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 01:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Medchembench</title>
+      <link>https://openai.com/index/introducing-medchembench/</link>
+      <description>Introducing Medchembench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
+      <category>Research</category>
+      <pubDate>Mon, 23 Nov 2026 01:10:57 +0000</pubDate>
     </item>
     <item>
       <title>Perplexity and Intelligence</title>
@@ -40,14 +48,6 @@
       <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
       <category>Research</category>
       <pubDate>Sun, 22 Nov 2026 15:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Medchembench</title>
-      <link>https://openai.com/index/introducing-medchembench/</link>
-      <description>Introducing Medchembench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
-      <category>Research</category>
-      <pubDate>Sun, 22 Nov 2026 07:08:42 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Indqa</title>
