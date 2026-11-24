@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:31:08 +0000</lastBuildDate>
     <item>
       <title>Research Acceleration Jagged Frontier</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
       <description>Research Acceleration Jagged Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier/</guid>
       <category>Research</category>
-      <pubDate>Tue, 24 Nov 2026 06:38:08 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 18:31:08 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -23,15 +23,7 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Tue, 24 Nov 2026 06:38:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity and Intelligence</title>
-      <link>https://openai.com/index/perplexity-and-intelligence/</link>
-      <description>Perplexity and Intelligence</description>
-      <guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 24 Nov 2026 06:34:50 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 18:31:08 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Chip Design With Our Models</title>
@@ -39,7 +31,23 @@
       <description>Advancing Chip Design With Our Models</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
       <category>Research</category>
-      <pubDate>Tue, 24 Nov 2026 06:22:49 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 18:12:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence/</link>
+      <description>Perplexity and Intelligence</description>
+      <guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 24 Nov 2026 17:41:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Medchembench</title>
+      <link>https://openai.com/index/introducing-medchembench/</link>
+      <description>Introducing Medchembench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
+      <category>Research</category>
+      <pubDate>Tue, 24 Nov 2026 16:34:01 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt Expanding World of Work</title>
@@ -96,14 +104,6 @@
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
       <category>Research</category>
       <pubDate>Tue, 24 Nov 2026 05:42:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Medchembench</title>
-      <link>https://openai.com/index/introducing-medchembench/</link>
-      <description>Introducing Medchembench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
-      <category>Research</category>
-      <pubDate>Tue, 24 Nov 2026 05:42:47 +0000</pubDate>
     </item>
     <item>
       <title>Separating Signal From Noise Coding Evaluations</title>
