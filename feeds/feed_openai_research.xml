@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:59:15 +0000</lastBuildDate>
     <item>
       <title>Research Acceleration Jagged Frontier</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
       <description>Research Acceleration Jagged Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier/</guid>
       <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 11:56:47 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 20:59:15 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -23,7 +23,7 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 11:56:47 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 20:59:15 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt for Academic Researchers</title>
@@ -31,7 +31,7 @@
       <description>Chatgpt for Academic Researchers</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
       <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 11:47:19 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 19:53:59 +0000</pubDate>
     </item>
     <item>
       <title>Expanding Chatgpt for Academic Researchers</title>
@@ -39,7 +39,23 @@
       <description>Expanding Chatgpt for Academic Researchers</description>
       <guid isPermaLink="false">https://openai.com/index/expanding-chatgpt-for-academic-researchers/</guid>
       <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 11:02:13 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 19:41:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Indqa</title>
+      <link>https://openai.com/index/introducing-indqa/</link>
+      <description>Introducing Indqa</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 25 Nov 2026 17:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Medchembench</title>
+      <link>https://openai.com/index/introducing-medchembench/</link>
+      <description>Introducing Medchembench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
+      <category>Research</category>
+      <pubDate>Wed, 25 Nov 2026 13:14:42 +0000</pubDate>
     </item>
     <item>
       <title>Perplexity and Intelligence</title>
@@ -56,14 +72,6 @@
       <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
       <category>Research</category>
       <pubDate>Wed, 25 Nov 2026 06:27:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Medchembench</title>
-      <link>https://openai.com/index/introducing-medchembench/</link>
-      <description>Introducing Medchembench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 01:34:59 +0000</pubDate>
     </item>
     <item>
       <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
@@ -168,14 +176,6 @@
       <guid isPermaLink="false">https://openai.com/index/low-resource-programming-languages/</guid>
       <category>Research</category>
       <pubDate>Tue, 24 Nov 2026 05:42:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Indqa</title>
-      <link>https://openai.com/index/introducing-indqa/</link>
-      <description>Introducing Indqa</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
-      <category>Research</category>
-      <pubDate>Mon, 23 Nov 2026 10:18:32 +0000</pubDate>
     </item>
     <item>
       <title>Research Acceleration View Inside Openai</title>
