@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:25:20 +0000</lastBuildDate>
     <item>
       <title>Research Acceleration Jagged Frontier</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
       <description>Research Acceleration Jagged Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier/</guid>
       <category>Research</category>
-      <pubDate>Thu, 26 Nov 2026 03:24:14 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 13:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -23,7 +23,31 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Thu, 26 Nov 2026 03:24:14 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 13:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence/</link>
+      <description>Perplexity and Intelligence</description>
+      <guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 26 Nov 2026 12:53:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <description>Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 26 Nov 2026 05:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding Chatgpt for Academic Researchers</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers/</link>
+      <description>Expanding Chatgpt for Academic Researchers</description>
+      <guid isPermaLink="false">https://openai.com/index/expanding-chatgpt-for-academic-researchers/</guid>
+      <category>Research</category>
+      <pubDate>Thu, 26 Nov 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Chip Design With Our Models</title>
@@ -34,14 +58,6 @@
       <pubDate>Thu, 26 Nov 2026 00:26:15 +0000</pubDate>
     </item>
     <item>
-      <title>Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
-      <description>Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 21:29:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Medchembench</title>
       <link>https://openai.com/index/introducing-medchembench/</link>
       <description>Introducing Medchembench</description>
@@ -50,28 +66,12 @@
       <pubDate>Wed, 25 Nov 2026 21:21:17 +0000</pubDate>
     </item>
     <item>
-      <title>Expanding Chatgpt for Academic Researchers</title>
-      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers/</link>
-      <description>Expanding Chatgpt for Academic Researchers</description>
-      <guid isPermaLink="false">https://openai.com/index/expanding-chatgpt-for-academic-researchers/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 19:41:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Indqa</title>
       <link>https://openai.com/index/introducing-indqa/</link>
       <description>Introducing Indqa</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-indqa/</guid>
       <category>Research</category>
       <pubDate>Wed, 25 Nov 2026 17:44:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity and Intelligence</title>
-      <link>https://openai.com/index/perplexity-and-intelligence/</link>
-      <description>Perplexity and Intelligence</description>
-      <guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 08:21:31 +0000</pubDate>
     </item>
     <item>
       <title>How Two Settings Tripled Our Arc Agi 3 Scores</title>
