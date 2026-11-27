@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:33:04 +0000</lastBuildDate>
     <item>
       <title>Research Acceleration Jagged Frontier</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
       <description>Research Acceleration Jagged Frontier</description>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier/</guid>
       <category>Research</category>
-      <pubDate>Fri, 27 Nov 2026 04:41:05 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 14:33:04 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Independent Research Ai Alignment</title>
@@ -23,7 +23,79 @@
       <description>Advancing Independent Research Ai Alignment</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-independent-research-ai-alignment/</guid>
       <category>Research</category>
-      <pubDate>Fri, 27 Nov 2026 04:41:05 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 14:33:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence/</link>
+      <description>Perplexity and Intelligence</description>
+      <guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 12:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gpt 6 Astra</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Gpt 6 Astra</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 10:04:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Aardvark</title>
+      <link>https://openai.com/index/introducing-aardvark/</link>
+      <description>Introducing Aardvark</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 09:12:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Gpt 6 Sol and Luna</title>
+      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
+      <description>Introducing Gpt 6 Sol and Luna</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing New Capabilities to Gpt Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
+      <description>Introducing New Capabilities to Gpt Rosalind</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 06:34:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening Societal Resilience With Rosalind Biodefense</title>
+      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</link>
+      <description>Strengthening Societal Resilience With Rosalind Biodefense</description>
+      <guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 06:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sora 2</title>
+      <link>https://openai.com/index/sora-2/</link>
+      <description>Sora 2</description>
+      <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 06:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Rosalind Academic Plan</title>
+      <link>https://openai.com/index/introducing-the-rosalind-academic-plan/</link>
+      <description>Introducing the Rosalind Academic Plan</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-rosalind-academic-plan/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 06:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Medchembench</title>
+      <link>https://openai.com/index/introducing-medchembench/</link>
+      <description>Introducing Medchembench</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 27 Nov 2026 06:29:48 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt for Academic Researchers</title>
@@ -32,14 +104,6 @@
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers/</guid>
       <category>Research</category>
       <pubDate>Thu, 26 Nov 2026 22:05:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity and Intelligence</title>
-      <link>https://openai.com/index/perplexity-and-intelligence/</link>
-      <description>Perplexity and Intelligence</description>
-      <guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence/</guid>
-      <category>Research</category>
-      <pubDate>Thu, 26 Nov 2026 12:53:03 +0000</pubDate>
     </item>
     <item>
       <title>Expanding Chatgpt for Academic Researchers</title>
@@ -58,14 +122,6 @@
       <pubDate>Thu, 26 Nov 2026 00:26:15 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Medchembench</title>
-      <link>https://openai.com/index/introducing-medchembench/</link>
-      <description>Introducing Medchembench</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 21:21:17 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Indqa</title>
       <link>https://openai.com/index/introducing-indqa/</link>
       <description>Introducing Indqa</description>
@@ -80,14 +136,6 @@
       <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/</guid>
       <category>Research</category>
       <pubDate>Wed, 25 Nov 2026 01:34:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gpt 6 Astra</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>Gpt 6 Astra</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 01:34:26 +0000</pubDate>
     </item>
     <item>
       <title>Chatgpt Expanding World of Work</title>
@@ -112,46 +160,6 @@
       <guid isPermaLink="false">https://openai.com/index/science-at-the-frontier/</guid>
       <category>Research</category>
       <pubDate>Wed, 25 Nov 2026 01:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing New Capabilities to Gpt Rosalind</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
-      <description>Introducing New Capabilities to Gpt Rosalind</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 00:01:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strengthening Societal Resilience With Rosalind Biodefense</title>
-      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</link>
-      <description>Strengthening Societal Resilience With Rosalind Biodefense</description>
-      <guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 00:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sora 2</title>
-      <link>https://openai.com/index/sora-2/</link>
-      <description>Sora 2</description>
-      <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 00:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Rosalind Academic Plan</title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan/</link>
-      <description>Introducing the Rosalind Academic Plan</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-rosalind-academic-plan/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 00:01:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Gpt 6 Sol and Luna</title>
-      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
-      <description>Introducing Gpt 6 Sol and Luna</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 25 Nov 2026 00:01:30 +0000</pubDate>
     </item>
     <item>
       <title>Separating Signal From Noise Coding Evaluations</title>
@@ -216,14 +224,6 @@
       <guid isPermaLink="false">https://openai.com/index/introducing-openai-privacy-filter/</guid>
       <category>Research</category>
       <pubDate>Wed, 18 Nov 2026 19:25:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Aardvark</title>
-      <link>https://openai.com/index/introducing-aardvark/</link>
-      <description>Introducing Aardvark</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-aardvark/</guid>
-      <category>Research</category>
-      <pubDate>Wed, 18 Nov 2026 19:25:17 +0000</pubDate>
     </item>
     <item>
       <title>Building Scientific Understanding With Academic Communities</title>
